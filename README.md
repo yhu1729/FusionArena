@@ -7,6 +7,6 @@
 
 ## Codes
 
-- [GENE-X](https://genexcode.org/)<a name="code-genex"></a>
+- [GENE-X](https://gitlab.mpcdf.mpg.de/phoenix-public/genex)<a name="code-genex"></a>
 
 ## Datasets
