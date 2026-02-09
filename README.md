@@ -9,5 +9,6 @@
 
 - [GENE-X](https://gitlab.mpcdf.mpg.de/phoenix-public/genex)<a name="code-genex"></a>
 - [Gkeyll](https://github.com/ammarhakim/gkeyll)<a name="code-gkeyll"></a>
+- [GX](https://bitbucket.org/gyrokinetics/gx/src/gx/)<a name="code-gx"></a>
 
 ## Datasets
