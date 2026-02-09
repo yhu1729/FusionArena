@@ -8,6 +8,7 @@
 ## Codes
 
 - [BOUT++](https://github.com/boutproject/BOUT-dev)<a name="code-bout"></a>
+- [COGENT](https://github.com/LLNL/COGENT)<a name="code-cogent"></a>
 - [GENE-X](https://gitlab.mpcdf.mpg.de/phoenix-public/genex)<a name="code-genex"></a>
 - [Gkeyll](https://github.com/ammarhakim/gkeyll)<a name="code-gkeyll"></a>
 - [GX](https://bitbucket.org/gyrokinetics/gx/src/gx/)<a name="code-gx"></a>
