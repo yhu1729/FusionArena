@@ -13,6 +13,7 @@
 - [Gkeyll](https://github.com/ammarhakim/gkeyll)<a name="code-gkeyll"></a>
 - [GX](https://bitbucket.org/gyrokinetics/gx/src/gx/)<a name="code-gx"></a>
 - [SOLPS-ITER](https://github.com/iterorganization/SOLPS-ITER)<a name="code-solps-iter"></a>
+- [TORAX](https://github.com/google-deepmind/torax)<a name="code-torax"></a>
 - [UEDGE](https://github.com/llnl/UEDGE)<a name="code-uedge"></a>
 
 ## Datasets
