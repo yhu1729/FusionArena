@@ -36,24 +36,26 @@ def build_text_publications(data):
     text += '## Publications\n'
     text += '\n'
 
-    for row in data[1:]:
-        doi = row[0]
-        year = row[1]
-        tag = row[2]
-        title = row[3]
-        author = row[4]
+    data = [{
+        'doi': entry[0],
+        'year': int(entry[1]),
+        'tag': entry[2].split(';'),
+        'title': entry[3],
+        'author': entry[4].split(';'),
+    } for entry in data[1:]]
+    data = sorted(data, key=lambda entry: [entry['year'], entry['author']])
 
-        doi_url = f'https://doi.org/{doi}'
-
-        author = author.split(';')
-        if len(author) >= 3:
-            author = f'{author[0]} at el.'
-        elif len(author) == 2:
-            author = f'{author[0]} and {author[1]}'
+    for entry in data:
+        if len(entry['author']) >= 3:
+            entry['author'] = f'{entry['author'][0]} at el.'
+        elif len(entry['author']) == 2:
+            entry['author'] = f'{entry['author'][0]} and {entry['author'][1]}'
         else:
-            author = f'{author[0]}'
+            entry['author'] = f'{entry['author'][0]}'
 
-        line = f'- {title}. {author} ({year}) [{doi}]({doi_url})'
+        doi_url = f'https://doi.org/{entry['doi']}'
+
+        line = f'- {entry['title']}. {entry['author']} ({entry['year']}) [{entry['doi']}]({doi_url})'
 
         text += f'{line}\n'
 
