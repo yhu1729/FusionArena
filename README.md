@@ -3,9 +3,13 @@
 ## Publications
 
 - Turbulence and transport in spectrally accelerated full-*f* gyrokinetic simulations. Frei at el. (2025) [10.1088/1741-4326/ae114a](https://doi.org/10.1088/1741-4326/ae114a)
-- OpenACC and OpenMP-Accelerated Fortran/C++ Gyrokinetic Fusion Code GENE-X for Heterogeneous Architectures. Trilaksono at el. (2025) [10.1145/3732775.3733587](https://doi.org/10.1145/3732775.3733587)
 - Spectrally accelerated edge and scrape-off layer gyrokinetic turbulence simulations. Frei at el. (2025) [10.1016/j.cpc.2025.109817](https://doi.org/10.1016/j.cpc.2025.109817)
+- OpenACC and OpenMP-Accelerated Fortran/C++ Gyrokinetic Fusion Code GENE-X for Heterogeneous Architectures. Trilaksono at el. (2025) [10.1145/3732775.3733587](https://doi.org/10.1145/3732775.3733587)
 - Simulations of edge and SOL turbulence in diverted negative and positive triangularity plasmas. Ulbl at el. (2025) [10.1088/1741-4326/adfd70](https://doi.org/10.1088/1741-4326/adfd70)
+- Influence of collisions on the validation of global gyrokinetic simulations in the edge and scrape-off layer of TCV. Ulbl at el. (2023) [10.1063/5.0144688](https://doi.org/10.1063/5.0144688)
+- Full-*f* electromagnetic gyrokinetic turbulence simulations of the edge and scrape-off layer of ASDEX Upgrade with GENE-X. Michels at el. (2022) [10.1063/5.0082413](https://doi.org/10.1063/5.0082413)
+- GENE-X: A full-*f* gyrokinetic turbulence code based on the flux-coordinate independent approach. Michels at el. (2021) [10.1016/j.cpc.2021.107986](https://doi.org/10.1016/j.cpc.2021.107986)
+- Implementation and verification of a conservative, multi-species, gyro-averaged, full-*f*, Lenard-Bernstein/Dougherty collision operator in the gyrokinetic code GENE-X. Ulbl at el. (2021) [10.1002/ctpp.202100180](https://doi.org/10.1002/ctpp.202100180)
 
 ## Codes
 
