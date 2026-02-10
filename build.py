@@ -43,7 +43,8 @@ def build_text_publications(data):
         'title': entry[3],
         'author': entry[4].split(';'),
     } for entry in data[1:]]
-    data = sorted(data, key=lambda entry: [entry['year'], entry['author']])
+    data = sorted(data, key=lambda entry: entry['author'], reverse=False)
+    data = sorted(data, key=lambda entry: entry['year'], reverse=True)
 
     for entry in data:
         if len(entry['author']) >= 3:
