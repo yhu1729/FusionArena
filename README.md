@@ -2,19 +2,22 @@
 
 ## Publications
 
-- Turbulence and transport in spectrally accelerated full-*f* gyrokinetic simulations. Frei et al. (2025) [10.1088/1741-4326/ae114a](https://doi.org/10.1088/1741-4326/ae114a)
-  - Code: [GENE-X](#code-genex)
+- Turbulence and transport in spectrally accelerated full-*f* gyrokinetic simulations. Frei at el. (2025) [10.1088/1741-4326/ae114a](https://doi.org/10.1088/1741-4326/ae114a)
+- OpenACC and OpenMP-Accelerated Fortran/C++ Gyrokinetic Fusion Code GENE-X for Heterogeneous Architectures. Trilaksono at el. (2025) [10.1145/3732775.3733587](https://doi.org/10.1145/3732775.3733587)
+- Spectrally accelerated edge and scrape-off layer gyrokinetic turbulence simulations. Frei at el. (2025) [10.1016/j.cpc.2025.109817](https://doi.org/10.1016/j.cpc.2025.109817)
+- Simulations of edge and SOL turbulence in diverted negative and positive triangularity plasmas. Ulbl at el. (2025) [10.1088/1741-4326/adfd70](https://doi.org/10.1088/1741-4326/adfd70)
 
 ## Codes
 
-- [BOUT++](https://github.com/boutproject/BOUT-dev)<a name="code-bout"></a>
-- [COGENT](https://github.com/LLNL/COGENT)<a name="code-cogent"></a>
-- [GENE-X](https://gitlab.mpcdf.mpg.de/phoenix-public/genex)<a name="code-genex"></a>
-- [Gkeyll](https://github.com/ammarhakim/gkeyll)<a name="code-gkeyll"></a>
-- [GX](https://bitbucket.org/gyrokinetics/gx/src/gx/)<a name="code-gx"></a>
-- [Gyselalib++](https://github.com/gyselax/gyselalibxx)<a name="code-gyselalib"></a>
-- [SOLPS-ITER](https://github.com/iterorganization/SOLPS-ITER)<a name="code-solps-iter"></a>
-- [TORAX](https://github.com/google-deepmind/torax)<a name="code-torax"></a>
-- [UEDGE](https://github.com/llnl/UEDGE)<a name="code-uedge"></a>
+- [BOUT++](https://github.com/boutproject/BOUT-dev)
+- [COGENT](https://github.com/LLNL/COGENT)
+- [GENE-X](https://gitlab.mpcdf.mpg.de/phoenix-public/genex)
+- [Gkeyll](https://github.com/ammarhakim/gkeyll)
+- [GX](https://bitbucket.org/gyrokinetics/gx/src/gx/)
+- [Gyselalib++](https://github.com/gyselax/gyselalibxx)
+- [SOLPS-ITER](https://github.com/iterorganization/SOLPS-ITER)
+- [TORAX](https://github.com/google-deepmind/torax)
+- [UEDGE](https://github.com/llnl/UEDGE)
 
 ## Datasets
+
