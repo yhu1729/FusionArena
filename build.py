@@ -16,7 +16,11 @@ def build_readme():
         for row in content:
             data['codes'].append(row)
 
-    data['datasets'] = None
+    data['datasets'] = []
+    with open('data/datasets.csv', newline='') as f:
+        content = csv.reader(f)
+        for row in content:
+            data['datasets'].append(row)
 
     text = {}
     text['publications'] = build_text_publications(data['publications'])
@@ -85,6 +89,31 @@ def build_text_codes(data):
 def build_text_datasets(data):
     text = ''
     text += '## Datasets\n'
+    text += '\n'
+
+    data = [{
+        'doi': entry[0],
+        'year': int(entry[1]),
+        'tag': entry[2].split(';'),
+        'title': entry[3],
+        'author': entry[4].split(';'),
+    } for entry in data[1:]]
+    data = sorted(data, key=lambda entry: entry['author'], reverse=False)
+    data = sorted(data, key=lambda entry: entry['year'], reverse=True)
+
+    for entry in data:
+        if len(entry['author']) >= 3:
+            entry['author'] = f'{entry['author'][0]} at el.'
+        elif len(entry['author']) == 2:
+            entry['author'] = f'{entry['author'][0]} and {entry['author'][1]}'
+        else:
+            entry['author'] = f'{entry['author'][0]}'
+
+        doi_url = f'https://doi.org/{entry['doi']}'
+
+        line = f'- {entry['title']}. {entry['author']} ({entry['year']}) [{entry['doi']}]({doi_url})'
+
+        text += f'{line}\n'
 
     return text
 
