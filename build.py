@@ -67,11 +67,14 @@ def build_text_codes(data):
     text += '## Codes\n'
     text += '\n'
 
-    for row in data[1:]:
-        name = row[0]
-        url = row[1]
+    data = [{
+        'name': entry[0],
+        'url': entry[1],
+    } for entry in data[1:]]
+    data = sorted(data, key=lambda entry: entry['name'].lower())
 
-        line = f'- [{name}]({url})'
+    for entry in data:
+        line = f'- [{entry['name']}]({entry['url']})'
 
         text += f'{line}\n'
 
