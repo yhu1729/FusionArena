@@ -2,6 +2,8 @@
 
 ## Publications
 
+![figure-publications](figure/publications.png)
+
 - Turbulence and transport in spectrally accelerated full-*f* gyrokinetic simulations. Frei at el. (2025) [10.1088/1741-4326/ae114a](https://doi.org/10.1088/1741-4326/ae114a)
 - Spectrally accelerated edge and scrape-off layer gyrokinetic turbulence simulations. Frei at el. (2025) [10.1016/j.cpc.2025.109817](https://doi.org/10.1016/j.cpc.2025.109817)
 - OpenACC and OpenMP-Accelerated Fortran/C++ Gyrokinetic Fusion Code GENE-X for Heterogeneous Architectures. Trilaksono at el. (2025) [10.1145/3732775.3733587](https://doi.org/10.1145/3732775.3733587)
