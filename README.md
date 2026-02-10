@@ -25,3 +25,6 @@
 
 ## Datasets
 
+- TCV-X21: an open dataset for the validation of edge turbulence models. Sales de Oliveira at el. (2024) [10.5281/zenodo.5776285](https://doi.org/10.5281/zenodo.5776285)
+- TCV-X21-GENEX: influence of collisions on the validation of global gyrokinetic simulations. Ulbl at el. (2023) [10.5281/zenodo.7894730](https://doi.org/10.5281/zenodo.7894730)
+
