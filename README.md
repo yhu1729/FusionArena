@@ -10,6 +10,7 @@
 - A parallel-kinetic-perpendicular-moment model for magnetised plasmas. June at el. (2025) [10.1017/S0022377825100706](https://doi.org/10.1017/S0022377825100706)
 - OpenACC and OpenMP-Accelerated Fortran/C++ Gyrokinetic Fusion Code GENE-X for Heterogeneous Architectures. Trilaksono at el. (2025) [10.1145/3732775.3733587](https://doi.org/10.1145/3732775.3733587)
 - Simulations of edge and SOL turbulence in diverted negative and positive triangularity plasmas. Ulbl at el. (2025) [10.1088/1741-4326/adfd70](https://doi.org/10.1088/1741-4326/adfd70)
+- Conservative discontinuous Galerkin interpolation: Sheared boundary conditions. Francisquez at el. (2024) [10.1016/j.cpc.2024.109109](https://doi.org/10.1016/j.cpc.2024.109109)
 - Weak baselines and reporting biases lead to overoptimism in machine learning for fluid-related partial differential equations. McGreivy and Hakim (2024) [10.1038/s42256-024-00897-5](https://doi.org/10.1038/s42256-024-00897-5)
 - Influence of collisions on the validation of global gyrokinetic simulations in the edge and scrape-off layer of TCV. Ulbl at el. (2023) [10.1063/5.0144688](https://doi.org/10.1063/5.0144688)
 - Full-*f* electromagnetic gyrokinetic turbulence simulations of the edge and scrape-off layer of ASDEX Upgrade with GENE-X. Michels at el. (2022) [10.1063/5.0082413](https://doi.org/10.1063/5.0082413)

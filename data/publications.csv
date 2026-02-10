@@ -10,3 +10,4 @@ DOI,Year,Tag,Title,Author
 10.1017/S0022377825100706,2025,[Gkeyll],A parallel-kinetic-perpendicular-moment model for magnetised plasmas,June;Hakim;TenBarge
 10.1017/S0022377825100718,2025,[Gkeyll],A moment-conserving discontinuous Galerkin representation of the relativistic Maxwellian distribution,Johnson;Hakim;Juno
 10.1038/s42256-024-00897-5,2024,[Gkeyll],Weak baselines and reporting biases lead to overoptimism in machine learning for fluid-related partial differential equations,McGreivy;Hakim
+10.1016/j.cpc.2024.109109,2024,[Gkeyll],Conservative discontinuous Galerkin interpolation: Sheared boundary conditions,Francisquez;Mandell;Hakim;Hammett
