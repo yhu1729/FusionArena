@@ -157,6 +157,7 @@ def build_figure_publications(data):
         ax.plot(x, y, linewidth=2, label=legend, figure=figure)
     ax.set_xticks(year_list)
     pyplot.legend()
+    pyplot.title('Cumulative publications')
     figure.savefig('figure/publications.png', dpi=400, bbox_inches='tight')
 
 
