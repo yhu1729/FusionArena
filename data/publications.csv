@@ -7,3 +7,4 @@ DOI,Year,Tag,Title,Author
 10.1063/5.0082413,2022,[GENE-X],Full-*f* electromagnetic gyrokinetic turbulence simulations of the edge and scrape-off layer of ASDEX Upgrade with GENE-X,Michels;Ulbl;Zholobenko;Body;Stegmeir;Eich;Griener;Conway;Jenko;ASDEX Upgrade Team
 10.1016/j.cpc.2021.107986,2021,[GENE-X],GENE-X: A full-*f* gyrokinetic turbulence code based on the flux-coordinate independent approach,Michels;Stegmeir;Ulbl;Jarema;Jenko
 10.1002/ctpp.202100180,2021,[GENE-X],"Implementation and verification of a conservative, multi-species, gyro-averaged, full-*f*, Lenard-Bernstein/Dougherty collision operator in the gyrokinetic code GENE-X",Ulbl;Michels;Jenko
+10.1017/S0022377825100706,2025,[Gkeyll],A parallel-kinetic-perpendicular-moment model for magnetised plasmas,June;Hakim;TenBarge
