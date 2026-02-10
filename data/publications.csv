@@ -3,3 +3,7 @@ DOI,Year,Tag,Title,Author
 10.1145/3732775.3733587,2025,[GENE-X],OpenACC and OpenMP-Accelerated Fortran/C++ Gyrokinetic Fusion Code GENE-X for Heterogeneous Architectures,Trilaksono;Ulbl;Williams;Pfeiler;Finkbeiner;Dannert;Laure;Markidis;Jenko
 10.1016/j.cpc.2025.109817,2025,[GENE-X],Spectrally accelerated edge and scrape-off layer gyrokinetic turbulence simulations,Frei;Ulbl;Trilaksono;Jenko
 10.1088/1741-4326/adfd70,2025,[GENE-X],Simulations of edge and SOL turbulence in diverted negative and positive triangularity plasmas,Ulbl;Stegmeir;Told;Merlo;Zhang;Jenko
+10.1063/5.0144688,2023,[GENE-X],Influence of collisions on the validation of global gyrokinetic simulations in the edge and scrape-off layer of TCV,Ulbl;Body;Zholobenko;Stegmeir;Pfennig;Jenko
+10.1063/5.0082413,2022,[GENE-X],Full-*f* electromagnetic gyrokinetic turbulence simulations of the edge and scrape-off layer of ASDEX Upgrade with GENE-X,Michels;Ulbl;Zholobenko;Body;Stegmeir;Eich;Griener;Conway;Jenko;ASDEX Upgrade Team
+10.1016/j.cpc.2021.107986,2021,[GENE-X],GENE-X: A full-*f* gyrokinetic turbulence code based on the flux-coordinate independent approach,Michels;Stegmeir;Ulbl;Jarema;Jenko
+10.1002/ctpp.202100180,2021,[GENE-X],"Implementation and verification of a conservative, multi-species, gyro-averaged, full-*f*, Lenard-Bernstein/Dougherty collision operator in the gyrokinetic code GENE-X",Ulbl;Michels;Jenko
