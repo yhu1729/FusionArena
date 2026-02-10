@@ -1,4 +1,5 @@
 import csv
+from matplotlib import pyplot
 
 
 def build_readme():
@@ -49,6 +50,10 @@ def build_text_publications(data):
     } for entry in data[1:]]
     data = sorted(data, key=lambda entry: entry['author'], reverse=False)
     data = sorted(data, key=lambda entry: entry['year'], reverse=True)
+
+    build_figure_publications(data)
+    text += '![figure-publications](figure/publications.png)\n'
+    text += '\n'
 
     for entry in data:
         if len(entry['author']) >= 3:
@@ -116,6 +121,43 @@ def build_text_datasets(data):
         text += f'{line}\n'
 
     return text
+
+
+def build_figure_publications(data):
+    year_list = []
+    score = {}
+    score_partial_sum = {}
+
+    for entry in data:
+        if entry['year'] not in year_list:
+            year_list.append(entry['year'])
+        for tag in entry['tag']:
+            if tag not in score.keys():
+                score[tag] = {}
+    year_list = list(range(min(year_list) - 1, max(year_list) + 1))
+
+    for tag in score.keys():
+        score[tag] = {year: 0 for year in year_list}
+        score_partial_sum[tag] = {year: 0 for year in year_list}
+
+    for entry in data:
+        for tag in entry['tag']:
+            score[tag][entry['year']] += 1
+
+    for entry in data:
+        for tag in entry['tag']:
+            for year in range(entry['year'], year_list[-1] + 1):
+                score_partial_sum[tag][year] += 1
+
+    figure = pyplot.figure(figsize=(16, 8))
+    ax = figure.add_subplot(1, 1, 1)
+    for key, value in score_partial_sum.items():
+        legend = key[1:-1]
+        x, y = zip(*sorted(value.items()))
+        ax.plot(x, y, linewidth=2, label=legend, figure=figure)
+    ax.set_xticks(year_list)
+    pyplot.legend()
+    figure.savefig('figure/publications.png', dpi=400, bbox_inches='tight')
 
 
 if __name__ == '__main__':
