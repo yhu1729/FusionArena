@@ -101,6 +101,7 @@
 - Comparison of initial value and eigenvalue codes for kinetic toroidal plasma instabilities. Kotschenreuther at el. (1995) [10.1016/0010-4655(95)00035-E](https://doi.org/10.1016/0010-4655(95)00035-E)
 - Techniques and results of tokamak-edge simulation. Smith at el. (1995) [10.1016/0022-3115(94)00466-8](https://doi.org/10.1016/0022-3115(94)00466-8)
 - A fully implicit, time dependent 2-D fluid code for modeling tokamak edge plasmas. Rognlien at el. (1992) [10.1016/S0022-3115(06)80058-9](https://doi.org/10.1016/S0022-3115(06)80058-9)
+- Collisional effects on kinetic electromagnetic modes and associated quasilinear transport. Rewoldt at el. (1987) [10.1063/1.866332](https://doi.org/10.1063/1.866332)
 
 ## Datasets
 
