@@ -19,3 +19,4 @@ DOI,Year,Tag,Title,Author
 10.1017/S0022377824000631,2024,[GX],GX: a GPU-native gyrokinetic turbulence code for tokamak and stellarator design,Mandell;Dorland;Abel;Gaur;Kim;Martin;Qian
 10.1088/1741-4326/aba0c9,2020,[Gkeyll],Conservative discontinuous Galerkin scheme of a gyro-averaged Dougherty collision operator,Francisquez;Bernard;Mandell;Hammett;Hakim
 10.1017/S0022377820000586,2020,[Gkeyll],Conservative discontinuous Galerkin schemes for nonlinear Dougherty-Fokker-Planck collision operators,Hakim;Francisquez;Juno;Hammett
+10.1016/S0022-3115(06)80058-9,1992,[UEDGE],"A fully implicit, time dependent 2-D fluid code for modeling tokamak edge plasmas",Rognlien;Milovich;Rensink;Porter
