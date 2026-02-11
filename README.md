@@ -19,6 +19,7 @@
 - GENE-X: A full-*f* gyrokinetic turbulence code based on the flux-coordinate independent approach. Michels at el. (2021) [10.1016/j.cpc.2021.107986](https://doi.org/10.1016/j.cpc.2021.107986)
 - Implementation and verification of a conservative, multi-species, gyro-averaged, full-*f*, Lenard-Bernstein/Dougherty collision operator in the gyrokinetic code GENE-X. Ulbl at el. (2021) [10.1002/ctpp.202100180](https://doi.org/10.1002/ctpp.202100180)
 - Conservative discontinuous Galerkin scheme of a gyro-averaged Dougherty collision operator. Francisquez at el. (2020) [10.1088/1741-4326/aba0c9](https://doi.org/10.1088/1741-4326/aba0c9)
+- Conservative discontinuous Galerkin schemes for nonlinear Dougherty-Fokker-Planck collision operators. Hakim at el. (2020) [10.1017/S0022377820000586](https://doi.org/10.1017/S0022377820000586)
 - Alias-Free, Matrix-Free, and Quadrature-Free Discontinuous Galerkin Algorithms for (Plasma) Kinetic Equations. Hakim and Juno (2020) [10.1109/SC41405.2020.00077](https://doi.org/10.1109/SC41405.2020.00077)
 - Laguerre-Hermite pseudo-spectral velocity formulation of gyrokinetics. Mandell at el. (2018) [10.1017/S0022377818000041](https://doi.org/10.1017/S0022377818000041)
 - The new SOLPS-ITER code package. Wiesen at el. (2015) [10.1016/j.jnucmat.2014.10.012](https://doi.org/10.1016/j.jnucmat.2014.10.012)
