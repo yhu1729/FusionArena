@@ -88,6 +88,7 @@
 - Introducing FACETS, the Framework Application for Core-Edge Transport Simulations. Cary at el. (2007) [10.1088/1742-6596/78/1/012086](https://doi.org/10.1088/1742-6596/78/1/012086)
 - Electromagnetic gyrokinetic *δf* particle-in-cell turbulence simulation with realistic equilibrium profiles and geometry. Chen and Parker (2007) [10.1016/j.jcp.2006.05.028](https://doi.org/10.1016/j.jcp.2006.05.028)
 - A global collisionless PIC code in magnetic coordinates. Jolliet at el. (2007) [10.1016/j.cpc.2007.04.006](https://doi.org/10.1016/j.cpc.2007.04.006)
+- Linear comparison of gyrokinetic codes with trapped electrons. Rewoldt at el. (2007) [10.1016/j.cpc.2007.06.017](https://doi.org/10.1016/j.cpc.2007.06.017)
 - Nonlocal properties of gyrokinetic turbulence and the role of *E×B* flow shear. Wang at el. (2007) [10.1063/1.2750647](https://doi.org/10.1063/1.2750647)
 - Velocity-space structures of distribution function in toroidal ion temperature gradient turbulence. Watanabe and Sugama (2006) [10.1088/0029-5515/46/1/003](https://doi.org/10.1088/0029-5515/46/1/003)
 - The effect of a uniform radial electric field on the toroidal ion temperature gradient mode. Peeters and Strintzi (2004) [10.1063/1.1762876](https://doi.org/10.1063/1.1762876)
