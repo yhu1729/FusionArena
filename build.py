@@ -154,7 +154,8 @@ def build_figure_publications(data):
     for key, value in score_partial_sum.items():
         legend = key[1:-1]
         x, y = zip(*sorted(value.items()))
-        ax.plot(x, y, linewidth=2, label=legend, figure=figure)
+        if y[-1] > 0:
+            ax.plot(x, y, linewidth=2, label=legend, figure=figure)
     ax.set_xticks(year_list)
     pyplot.legend()
     pyplot.title('Cumulative publications')
