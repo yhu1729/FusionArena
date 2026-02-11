@@ -159,6 +159,15 @@ def build_figure_publications(data):
     figure = pyplot.figure(figsize=(16, 16))
 
     ax = figure.add_subplot(2, 1, 1)
+    ax.set_title('Total publications')
+    y = [value for value in score_partial_sum.values()]
+    y = [list(value.values()) for value in y]
+    label_list = [key[1:-1] for key in score_partial_sum.keys()]
+    ax.stackplot(year_list, y, labels=label_list)
+    ax.yaxis.set_major_locator(MaxNLocator(integer=True))
+    ax.legend()
+
+    ax = figure.add_subplot(2, 1, 2)
     ax.set_title('Publications')
     bottom = numpy.zeros(len(year_list))
     for key, value in score.items():
@@ -167,16 +176,6 @@ def build_figure_publications(data):
         if score_partial_sum[key][year_list[-1]] > 0:
             ax.bar(x, y, label=label, bottom=bottom)
             bottom += y
-    ax.yaxis.set_major_locator(MaxNLocator(integer=True))
-    ax.legend()
-
-    ax = figure.add_subplot(2, 1, 2)
-    ax.set_title('Cumulative publications')
-    for key, value in score_partial_sum.items():
-        label = key[1:-1]
-        x, y = zip(*sorted(value.items()))
-        if y[-1] > 0:
-            ax.plot(x, y, linewidth=2, label=label)
     ax.yaxis.set_major_locator(MaxNLocator(integer=True))
     ax.legend()
 
