@@ -88,3 +88,4 @@ DOI,Year,Tag,Title,Author
 10.1088/0029-5515/43/4/303,2003,GT3D,Global gyrokinetic simulation of ion temperature gradient driven turbulence in plasmas using a canonical Maxwellian distribution,Idomura;Tokuda;Kishimoto
 10.1016/j.cpc.2007.04.006,2007,ORB5,A global collisionless PIC code in magnetic coordinates,Jolliet;Bottino;Angelino;Hatzky;Tran;Mcmillan;Sauter;Appert;Idomura;Villard
 10.1103/PhysRevLett.77.71,1996,PG3EQ,Scalings of Ion-Temperature-Gradient-Driven Anomalous Transport in Tokamaks,Dimits;Williams;Byers;Cohen
+10.1063/1.2750647,2007,GTS,Nonlocal properties of gyrokinetic turbulence and the role of *E×B* flow shear,Wang;Hahm;Lee;Rewoldt;Manickam;Tang
