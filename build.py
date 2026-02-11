@@ -157,14 +157,48 @@ def build_figure_publications(data):
                 score_partial_sum[tag][year] += 1
 
     figure = pyplot.figure(figsize=(16, 16))
-    color_map = pyplot.get_cmap('tab20')
+    # reference: https://medialab.github.io/iwanthue/
+    color_map = [
+        '#ffeb74',
+        '#00389a',
+        '#cff66b',
+        '#a22a9a',
+        '#00f4ad',
+        '#9f0072',
+        '#019332',
+        '#ab5bcf',
+        '#629e16',
+        '#e48bff',
+        '#a59700',
+        '#9c8cff',
+        '#dfff9f',
+        '#004aa0',
+        '#bc6700',
+        '#0160a1',
+        '#ff7d4c',
+        '#9cadff',
+        '#465700',
+        '#ff8cf3',
+        '#034d1b',
+        '#ef4070',
+        '#554b00',
+        '#ff92d1',
+        '#7a4300',
+        '#9772b4',
+        '#741a05',
+        '#ff6e99',
+        '#a00045',
+        '#b75e5a',
+        '#dd394b',
+        '#c96a7f',
+    ]
 
     ax = figure.add_subplot(2, 1, 1)
     ax.set_title('Total publications')
     y = [value for value in score_partial_sum.values()]
     y = [list(value.values()) for value in y]
     label_list = [key for key in score_partial_sum.keys()]
-    ax.set_prop_cycle(color=[color_map(year - year_list[0]) for year in year_list])
+    ax.set_prop_cycle(color=color_map)
     ax.stackplot(year_list, y, labels=label_list)
     ax.yaxis.set_major_locator(MaxNLocator(integer=True))
     ax.spines['top'].set_visible(False)
@@ -173,7 +207,7 @@ def build_figure_publications(data):
 
     ax = figure.add_subplot(2, 1, 2)
     ax.set_title('Publications')
-    ax.set_prop_cycle(color=[color_map(year - year_list[0]) for year in year_list])
+    ax.set_prop_cycle(color=color_map)
     bottom = numpy.zeros(len(year_list))
     for key, value in score.items():
         x, y = zip(*sorted(value.items()))
