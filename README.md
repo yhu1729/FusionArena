@@ -51,6 +51,7 @@
 - Nonlinear gyrokinetic predictions of SPARC burning plasma profiles enabled by surrogate modeling. Rodriguez-Fernandez at el. (2022) [10.1088/1741-4326/ac64b2](https://doi.org/10.1088/1741-4326/ac64b2)
 - Electron cyclotron drift instability and anomalous transport: two-fluid moment theory and modeling. Wang at el. (2022) [10.1088/1361-6595/ac90e7](https://doi.org/10.1088/1361-6595/ac90e7)
 - A boundary value "reservoir problem" and boundary conditions for multi-moment multifluid simulations of sheaths. Cagas at el. (2021) [10.1063/5.0024510](https://doi.org/10.1063/5.0024510)
+- Gyrokinetic benchmark of the electron temperature-gradient instability in the pedestal region. Hassan at el. (2021) [10.1063/5.0043006](https://doi.org/10.1063/5.0043006)
 - GENE-X: A full-*f* gyrokinetic turbulence code based on the flux-coordinate independent approach. Michels at el. (2021) [10.1016/j.cpc.2021.107986](https://doi.org/10.1016/j.cpc.2021.107986)
 - Implementation and verification of a conservative, multi-species, gyro-averaged, full-*f*, Lenard-Bernstein/Dougherty collision operator in the gyrokinetic code GENE-X. Ulbl at el. (2021) [10.1002/ctpp.202100180](https://doi.org/10.1002/ctpp.202100180)
 - Plasma-material boundary conditions for discontinuous Galerkin continuum-kinetic simulations, with a focus on secondary electron emission. Cagas at el. (2020) [10.1016/j.jcp.2019.109215](https://doi.org/10.1016/j.jcp.2019.109215)
