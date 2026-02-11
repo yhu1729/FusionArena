@@ -6,6 +6,7 @@
 
 - Gyselalib++: A Portable C++ Library for Semi-Lagrangian Kinetic and Gyrokinetic Simulations. Bourne at el. (2025) [10.21105/joss.08582](https://doi.org/10.21105/joss.08582)
 - Effects of oxidation and impurities in lithium surfaces on the emitting wall plasma sheath. Bradshaw at el. (2025) [10.1063/5.0258265](https://doi.org/10.1063/5.0258265)
+- Effect of modulated heat source on diffusive and avalanche-like transport. Cho at el. (2025) [10.1088/1741-4326/adb2a4](https://doi.org/10.1088/1741-4326/adb2a4)
 - Turbulence and transport in spectrally accelerated full-*f* gyrokinetic simulations. Frei at el. (2025) [10.1088/1741-4326/ae114a](https://doi.org/10.1088/1741-4326/ae114a)
 - Spectrally accelerated edge and scrape-off layer gyrokinetic turbulence simulations. Frei at el. (2025) [10.1016/j.cpc.2025.109817](https://doi.org/10.1016/j.cpc.2025.109817)
 - Investigation of the sheared flows and staircases with a full-wave 2D synthetic diagnostic FeDoT. Glasser at el. (2025) [10.1088/1361-6587/adb519](https://doi.org/10.1088/1361-6587/adb519)
