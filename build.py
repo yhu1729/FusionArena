@@ -1,5 +1,6 @@
 import csv
 from matplotlib import pyplot
+import numpy
 
 
 def build_readme():
@@ -149,16 +150,33 @@ def build_figure_publications(data):
             for year in range(entry['year'], year_list[-1] + 1):
                 score_partial_sum[tag][year] += 1
 
-    figure = pyplot.figure(figsize=(16, 8))
-    ax = figure.add_subplot(1, 1, 1)
+    figure = pyplot.figure(figsize=(16, 16))
+
+    ax = figure.add_subplot(2, 1, 1)
+    ax.set_title('Publications')
+    ax.set_xticks(year_list)
+    bottom = numpy.zeros(len(year_list))
+    for key, value in score.items():
+        label = key[1:-1]
+        x, y = zip(*sorted(value.items()))
+        if score_partial_sum[key][year_list[-1]] > 0:
+            ax.bar(x, y, label=label, bottom=bottom)
+            bottom += y
+    tick_y = ax.get_yticks()
+    tick_y = numpy.append(tick_y, [tick_y[-1] + 1])
+    ax.set_yticks(tick_y)
+    ax.legend()
+
+    ax = figure.add_subplot(2, 1, 2)
+    ax.set_title('Cumulative publications')
+    ax.set_xticks(year_list)
     for key, value in score_partial_sum.items():
-        legend = key[1:-1]
+        label = key[1:-1]
         x, y = zip(*sorted(value.items()))
         if y[-1] > 0:
-            ax.plot(x, y, linewidth=2, label=legend, figure=figure)
-    ax.set_xticks(year_list)
-    pyplot.legend()
-    pyplot.title('Cumulative publications')
+            ax.plot(x, y, linewidth=2, label=label)#, figure=figure)
+    ax.legend()
+
     figure.savefig('figure/publications.png', dpi=400, bbox_inches='tight')
 
 
