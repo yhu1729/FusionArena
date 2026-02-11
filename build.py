@@ -165,6 +165,8 @@ def build_figure_publications(data):
     label_list = [key[1:-1] for key in score_partial_sum.keys()]
     ax.stackplot(year_list, y, labels=label_list)
     ax.yaxis.set_major_locator(MaxNLocator(integer=True))
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
     ax.legend()
 
     ax = figure.add_subplot(2, 1, 2)
@@ -177,6 +179,8 @@ def build_figure_publications(data):
             ax.bar(x, y, label=label, bottom=bottom)
             bottom += y
     ax.yaxis.set_major_locator(MaxNLocator(integer=True))
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
     ax.legend()
 
     figure.savefig('figure/publications.png', dpi=400, bbox_inches='tight')
