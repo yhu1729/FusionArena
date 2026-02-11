@@ -33,9 +33,8 @@ def build_readme():
     with open('README.md', mode='w') as f:
         print('# FusionArena', file=f)
         print('', file=f)
-        print(text['publications'], file=f)
-        print(text['datasets'], file=f)
-        print(text['codes'], file=f)
+        for value in text.values():
+            print(value, file=f)
 
 
 def build_text_publications(data):
