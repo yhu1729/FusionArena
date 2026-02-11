@@ -86,6 +86,7 @@
 - Electromagnetic gyrokinetic *δf* particle-in-cell turbulence simulation with realistic equilibrium profiles and geometry. Chen and Parker (2007) [10.1016/j.jcp.2006.05.028](https://doi.org/10.1016/j.jcp.2006.05.028)
 - Electron temperature gradient driven turbulence. Jenko at el. (2000) [10.1063/1.874014](https://doi.org/10.1063/1.874014)
 - Two-dimensional electric fields and drifts near the magnetic separatrix in divertor tokamaks. Rognlien at el. (1999) [10.1063/1.873488](https://doi.org/10.1063/1.873488)
+- Turbulent Transport Reduction by Zonal Flows: Massively Parallel Simulations. Lin at el. (1998) [10.1126/science.281.5384.1835](https://doi.org/10.1126/science.281.5384.1835)
 - Comparison of initial value and eigenvalue codes for kinetic toroidal plasma instabilities. Kotschenreuther at el. (1995) [10.1016/0010-4655(95)00035-E](https://doi.org/10.1016/0010-4655(95)00035-E)
 - Techniques and results of tokamak-edge simulation. Smith at el. (1995) [10.1016/0022-3115(94)00466-8](https://doi.org/10.1016/0022-3115(94)00466-8)
 - A fully implicit, time dependent 2-D fluid code for modeling tokamak edge plasmas. Rognlien at el. (1992) [10.1016/S0022-3115(06)80058-9](https://doi.org/10.1016/S0022-3115(06)80058-9)

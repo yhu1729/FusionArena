@@ -84,3 +84,4 @@ DOI,Year,Tag,Title,Author
 10.1016/j.jcp.2011.05.034,2011,GENE,The global version of the gyrokinetic turbulence code GENE,Görler;Lapillonne;Brunner;Dannert;Jenko;Merz;Told
 10.1063/1.874014,2000,GENE,Electron temperature gradient driven turbulence,Jenko;Dorland;Kotschenreuther;Rogers
 10.1088/0029-5515/50/4/043002,2010,GTC;GT3D;ORB5;PG3EQ;GTS,Gyrokinetic simulations of turbulent transport,Garbet;Idomura;Villard;Watanabe
+10.1126/science.281.5384.1835,1998,GTC,Turbulent Transport Reduction by Zonal Flows: Massively Parallel Simulations,Lin;Hahm;Lee;Tang;White
