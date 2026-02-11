@@ -76,3 +76,4 @@ DOI,Year,Tag,Title,Author
 10.1145/3750720.375730,2025,CGYRO,Minimizing CGYRO HPC Communication Costs in Ensembles with XGYRO by Sharing the Collisional Constant Tensor Structure,Sfiligoi;Belli;Candy
 10.1063/1.3155085,2009,GS2,Linearized model Fokker-Planck collision operators for gyrokinetic simulations. II. Numerical implementation and tests,Barnes;Abel;Dorland;Ernst;Hammett;Ricci;Rogers;Schekochihin;Tatsuno
 10.1016/0010-4655(95)00035-E,1995,GS2,Comparison of initial value and eigenvalue codes for kinetic toroidal plasma instabilities,Kotschenreuther;Rewoldt;Tang
+10.1007/978-3-030-02465-9_24,2019,CGYRO,CGYRO Performance on Power9 CPUs and Volta GPUs,Sfiligoi;Candy;Kostuk
