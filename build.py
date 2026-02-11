@@ -174,7 +174,7 @@ def build_figure_publications(data):
         label = key[1:-1]
         x, y = zip(*sorted(value.items()))
         if y[-1] > 0:
-            ax.plot(x, y, linewidth=2, label=label)#, figure=figure)
+            ax.plot(x, y, linewidth=2, label=label)
     ax.legend()
 
     figure.savefig('figure/publications.png', dpi=400, bbox_inches='tight')
