@@ -78,6 +78,7 @@
 - BOUT++: A framework for parallel plasma fluid simulations. Dudson at el. (2009) [10.1016/j.cpc.2009.03.008](https://doi.org/10.1016/j.cpc.2009.03.008)
 - Introducing FACETS, the Framework Application for Core-Edge Transport Simulations. Cary at el. (2007) [10.1088/1742-6596/78/1/012086](https://doi.org/10.1088/1742-6596/78/1/012086)
 - Two-dimensional electric fields and drifts near the magnetic separatrix in divertor tokamaks. Rognlien at el. (1999) [10.1063/1.873488](https://doi.org/10.1063/1.873488)
+- Comparison of initial value and eigenvalue codes for kinetic toroidal plasma instabilities. Kotschenreuther at el. (1995) [10.1016/0010-4655(95)00035-E](https://doi.org/10.1016/0010-4655(95)00035-E)
 - Techniques and results of tokamak-edge simulation. Smith at el. (1995) [10.1016/0022-3115(94)00466-8](https://doi.org/10.1016/0022-3115(94)00466-8)
 - A fully implicit, time dependent 2-D fluid code for modeling tokamak edge plasmas. Rognlien at el. (1992) [10.1016/S0022-3115(06)80058-9](https://doi.org/10.1016/S0022-3115(06)80058-9)
 
