@@ -58,16 +58,17 @@ def build_text_publications(data):
     text += '\n'
 
     for entry in data:
+        author = ''
         if len(entry['author']) >= 3:
-            entry['author'] = f'{entry['author'][0]} at el.'
+            author = f'{entry['author'][0]} at el.'
         elif len(entry['author']) == 2:
-            entry['author'] = f'{entry['author'][0]} and {entry['author'][1]}'
+            author = f'{entry['author'][0]} and {entry['author'][1]}'
         else:
-            entry['author'] = f'{entry['author'][0]}'
+            author = f'{entry['author'][0]}'
 
         doi_url = f'https://doi.org/{entry['doi']}'
 
-        line = f'- {entry['title']}. {entry['author']} ({entry['year']}) [{entry['doi']}]({doi_url})'
+        line = f'- {entry['title']}. {author} ({entry['year']}) [{entry['doi']}]({doi_url})'
 
         text += f'{line}\n'
 
@@ -112,16 +113,17 @@ def build_text_datasets(data):
     data = sorted(data, key=lambda entry: entry['year'], reverse=True)
 
     for entry in data:
+        author = ''
         if len(entry['author']) >= 3:
-            entry['author'] = f'{entry['author'][0]} at el.'
+            author = f'{entry['author'][0]} at el.'
         elif len(entry['author']) == 2:
-            entry['author'] = f'{entry['author'][0]} and {entry['author'][1]}'
+            author = f'{entry['author'][0]} and {entry['author'][1]}'
         else:
-            entry['author'] = f'{entry['author'][0]}'
+            author = f'{entry['author'][0]}'
 
         doi_url = f'https://doi.org/{entry['doi']}'
 
-        line = f'- {entry['title']}. {entry['author']} ({entry['year']}) [{entry['doi']}]({doi_url})'
+        line = f'- {entry['title']}. {author} ({entry['year']}) [{entry['doi']}]({doi_url})'
 
         text += f'{line}\n'
 
