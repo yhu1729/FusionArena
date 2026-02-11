@@ -158,12 +158,14 @@ def build_figure_publications(data):
                 score_partial_sum[tag][year] += 1
 
     figure = pyplot.figure(figsize=(16, 16))
+    color_map = pyplot.get_cmap('tab20')
 
     ax = figure.add_subplot(2, 1, 1)
     ax.set_title('Total publications')
     y = [value for value in score_partial_sum.values()]
     y = [list(value.values()) for value in y]
     label_list = [key for key in score_partial_sum.keys()]
+    ax.set_prop_cycle(color=[color_map(year - year_list[0]) for year in year_list])
     ax.stackplot(year_list, y, labels=label_list)
     ax.yaxis.set_major_locator(MaxNLocator(integer=True))
     ax.spines['top'].set_visible(False)
@@ -172,6 +174,7 @@ def build_figure_publications(data):
 
     ax = figure.add_subplot(2, 1, 2)
     ax.set_title('Publications')
+    ax.set_prop_cycle(color=[color_map(year - year_list[0]) for year in year_list])
     bottom = numpy.zeros(len(year_list))
     for key, value in score.items():
         x, y = zip(*sorted(value.items()))
