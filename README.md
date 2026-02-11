@@ -87,6 +87,7 @@
 - A global collisionless PIC code in magnetic coordinates. Jolliet at el. (2007) [10.1016/j.cpc.2007.04.006](https://doi.org/10.1016/j.cpc.2007.04.006)
 - Nonlocal properties of gyrokinetic turbulence and the role of *E×B* flow shear. Wang at el. (2007) [10.1063/1.2750647](https://doi.org/10.1063/1.2750647)
 - Velocity-space structures of distribution function in toroidal ion temperature gradient turbulence. Watanabe and Sugama (2006) [10.1088/0029-5515/46/1/003](https://doi.org/10.1088/0029-5515/46/1/003)
+- The effect of a uniform radial electric field on the toroidal ion temperature gradient mode. Peeters and Strintzi (2004) [10.1063/1.1762876](https://doi.org/10.1063/1.1762876)
 - An Eulerian gyrokinetic-Maxwell solver. Candy and Waltz (2003) [10.1016/S0021-9991(03)00079-2](https://doi.org/10.1016/S0021-9991(03)00079-2)
 - Global gyrokinetic simulation of ion temperature gradient driven turbulence in plasmas using a canonical Maxwellian distribution. Idomura at el. (2003) [10.1088/0029-5515/43/4/303](https://doi.org/10.1088/0029-5515/43/4/303)
 - Electron Temperature Gradient Turbulence. Dorland at el. (2000) [10.1103/PhysRevLett.85.5579](https://doi.org/10.1103/PhysRevLett.85.5579)
