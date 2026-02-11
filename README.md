@@ -60,6 +60,7 @@
 - [GENE-X](https://gitlab.mpcdf.mpg.de/phoenix-public/genex)
 - [Gkeyll](https://github.com/ammarhakim/gkeyll)
 - [GX](https://bitbucket.org/gyrokinetics/gx/src/gx/)
+- [GYSELA](https://gyselax.github.io/)
 - [Gyselalib++](https://github.com/gyselax/gyselalibxx)
 - [SOLPS-ITER](https://github.com/iterorganization/SOLPS-ITER)
 - [TORAX](https://github.com/google-deepmind/torax)
