@@ -14,4 +14,4 @@ DOI,Year,Tag,Title,Author
 10.1063/5.0024510,2021,[Gkeyll],"A boundary value ""reservoir problem"" and boundary conditions for multi-moment multifluid simulations of sheaths",Cagas;Hakim;Srinivasan
 10.1016/j.jnucmat.2014.10.012,2015,[SOLPS-ITER],The new SOLPS-ITER code package,Wiesen;Reiter;Kotov;Baelmans;Dekeyser;Kukushkin;Lisgo;Pitts;Rozhansky;Saibene;Veselova;Voskoboynikov
 10.1109/SC41405.2020.00077,2020,[Gkeyll],"Alias-Free, Matrix-Free, and Quadrature-Free Discontinuous Galerkin Algorithms for (Plasma) Kinetic Equations",Hakim;Juno
-10.1016/j.cpc.2009.03.008,2009,[BOUT++],BOUT++: A framework for parallel plasma fluid simulations,Dudson;Umansky;Xu;Snyder;Wilson;
+10.1016/j.cpc.2009.03.008,2009,[BOUT++],BOUT++: A framework for parallel plasma fluid simulations,Dudson;Umansky;Xu;Snyder;Wilson
