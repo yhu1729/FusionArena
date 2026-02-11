@@ -64,3 +64,4 @@ DOI,Year,Tag,Title,Author
 10.1088/0741-3335/53/5/054005,2011,BOUT++,Simulation of edge localized modes using BOUT++,Dudson;Xu;Umansky;Wilson;Snyder
 10.1088/1741-4326/ab0184,2019,BOUT++,Prediction of divertor heat flux width for ITER using BOUT++ transport and turbulence module,Li;Xu;Li;Chan;Wang
 10.21105/joss.08582,2025,Gyselalib++,Gyselalib++: A Portable C++ Library for Semi-Lagrangian Kinetic and Gyrokinetic Simulations,Bourne;Grandgirard;Asahi;Bigot;Donnel;Hoffmann;Kara;Krah;Legouix;Malaboeuf;Munschy;Obrejan;Padioleau;Protais;Vidal
+10.1063/5.0274782,2025,GYSELA,Interplay between ion temperature gradient and parallel velocity gradient instabilities in cylindrical geometry: Water-bag vs 5D gyrokinetics,Rouyer;Lesur;Gravier;Garbet;Sarazin;Lim;Lo-Cascio
