@@ -59,3 +59,4 @@ DOI,Year,Tag,Title,Author
 10.1017/S0022377822000289,2022,Gkeyll,Improved multispecies Dougherty collision,Francisquez;Juno;Hakim;Hammett;Ernst
 10.1063/1.5126884,2020,BOUT++,Simulations of divertor heat flux width using transport code with cross-field drifts under the BOUT++ framework,Li;Xu;Hughes;Terry;Sun;Wang
 10.1063/5.0270211,2025,BOUT++,The simulation of mode coupling during ELM crash by using BOUT++,Zhu;Xia;Huang
+10.1088/0029-5515/51/10/103040,2011,BOUT++,Nonlinear ELM simulations based on a nonideal peeling-ballooning model using the BOUT++ code,Xu;Dudson;Snyder;Umansky;Wilson;Casper
