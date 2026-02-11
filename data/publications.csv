@@ -44,3 +44,4 @@ DOI,Year,Tag,Title,Author
 10.1063/1.4953429,2016,[BOUT++],Verification of BOUT++ by the method of manufactured solutions,Dudson;Madsen;Omotani;Hill;Easy;Løiten
 10.1016/j.cpc.2016.05.007,2016,[GYSELA],A 5D gyrokinetic full-*f* global semi-Lagrangian code for flux-driven ion turbulence simulations,Grandgirard;Abiteboul;Bigot;Cartier-Michaud;Crouseilles;Dif-Pradalier;Ehrlacher;Esteve;Garbet;Ghendrih;Latu;Mehrenberger;Norscini;Passeron;Rozar;Sarazin;Sonnendrücker;Strugarek;Zarzoso
 10.1051/proc/201653015,2016,[GYSELA],"An approach to increase reliability of HPC simulation, application to the Gysela5D code",Bigot;Latu;Cartier-Michaud;Grandgirard;Passeron;Rozar
+10.3847/1538-4357/ad3359,2024,[Gkeyll],The Effect of Spatially Varying Collision Frequency on the Development of the Rayleigh-Taylor Instability,Rodman;Juno;Srinivasan
