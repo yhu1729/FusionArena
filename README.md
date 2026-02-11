@@ -33,6 +33,7 @@
 - Phase-space Energization of Ions in Oblique Shocks. Juno at el. (2023) [10.3847/1538-4357/acaf53](https://doi.org/10.3847/1538-4357/acaf53)
 - Continuum kinetic investigation of the impact of bias potentials in the current saturation regime on sheath formation. Skolar at el. (2023) [10.1063/5.0134656](https://doi.org/10.1063/5.0134656)
 - Influence of collisions on the validation of global gyrokinetic simulations in the edge and scrape-off layer of TCV. Ulbl at el. (2023) [10.1063/5.0144688](https://doi.org/10.1063/5.0144688)
+- Improved multispecies Dougherty collision. Francisquez at el. (2022) [10.1017/S0022377822000289](https://doi.org/10.1017/S0022377822000289)
 - Full-*f* electromagnetic gyrokinetic turbulence simulations of the edge and scrape-off layer of ASDEX Upgrade with GENE-X. Michels at el. (2022) [10.1063/5.0082413](https://doi.org/10.1063/5.0082413)
 - Kinetic interpretation of the classical Rayleigh-Taylor instability. Rodman at el. (2022) [10.1103/PhysRevE.105.065209](https://doi.org/10.1103/PhysRevE.105.065209)
 - Electron cyclotron drift instability and anomalous transport: two-fluid moment theory and modeling. Wang at el. (2022) [10.1088/1361-6595/ac90e7](https://doi.org/10.1088/1361-6595/ac90e7)
