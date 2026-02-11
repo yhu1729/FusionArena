@@ -84,6 +84,7 @@
 - BOUT++: A framework for parallel plasma fluid simulations. Dudson at el. (2009) [10.1016/j.cpc.2009.03.008](https://doi.org/10.1016/j.cpc.2009.03.008)
 - Introducing FACETS, the Framework Application for Core-Edge Transport Simulations. Cary at el. (2007) [10.1088/1742-6596/78/1/012086](https://doi.org/10.1088/1742-6596/78/1/012086)
 - Electromagnetic gyrokinetic *δf* particle-in-cell turbulence simulation with realistic equilibrium profiles and geometry. Chen and Parker (2007) [10.1016/j.jcp.2006.05.028](https://doi.org/10.1016/j.jcp.2006.05.028)
+- Global gyrokinetic simulation of ion temperature gradient driven turbulence in plasmas using a canonical Maxwellian distribution. Idomura at el. (2003) [10.1088/0029-5515/43/4/303](https://doi.org/10.1088/0029-5515/43/4/303)
 - Electron temperature gradient driven turbulence. Jenko at el. (2000) [10.1063/1.874014](https://doi.org/10.1063/1.874014)
 - Two-dimensional electric fields and drifts near the magnetic separatrix in divertor tokamaks. Rognlien at el. (1999) [10.1063/1.873488](https://doi.org/10.1063/1.873488)
 - Turbulent Transport Reduction by Zonal Flows: Massively Parallel Simulations. Lin at el. (1998) [10.1126/science.281.5384.1835](https://doi.org/10.1126/science.281.5384.1835)

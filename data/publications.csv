@@ -85,3 +85,4 @@ DOI,Year,Tag,Title,Author
 10.1063/1.874014,2000,GENE,Electron temperature gradient driven turbulence,Jenko;Dorland;Kotschenreuther;Rogers
 10.1088/0029-5515/50/4/043002,2010,GTC;GT3D;ORB5;PG3EQ;GTS,Gyrokinetic simulations of turbulent transport,Garbet;Idomura;Villard;Watanabe
 10.1126/science.281.5384.1835,1998,GTC,Turbulent Transport Reduction by Zonal Flows: Massively Parallel Simulations,Lin;Hahm;Lee;Tang;White
+10.1088/0029-5515/43/4/303,2003,GT3D,Global gyrokinetic simulation of ion temperature gradient driven turbulence in plasmas using a canonical Maxwellian distribution,Idomura;Tokuda;Kishimoto
