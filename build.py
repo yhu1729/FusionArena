@@ -82,11 +82,14 @@ def build_text_codes(data):
     data = [{
         'name': entry[0],
         'url': entry[1],
+        'language': entry[2].split(';'),
     } for entry in data[1:]]
     data = sorted(data, key=lambda entry: entry['name'].lower())
 
     for entry in data:
-        line = f'- [{entry['name']}]({entry['url']})'
+        language = ','.join(entry['language'])
+
+        line = f'- [{entry['name']}]({entry['url']}) ({language})'
 
         text += f'{line}\n'
 
