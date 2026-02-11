@@ -15,6 +15,7 @@
 - OpenACC and OpenMP-Accelerated Fortran/C++ Gyrokinetic Fusion Code GENE-X for Heterogeneous Architectures. Trilaksono at el. (2025) [10.1145/3732775.3733587](https://doi.org/10.1145/3732775.3733587)
 - Simulations of edge and SOL turbulence in diverted negative and positive triangularity plasmas. Ulbl at el. (2025) [10.1088/1741-4326/adfd70](https://doi.org/10.1088/1741-4326/adfd70)
 - Plasma edge and scrape-off layer turbulence in gyrokinetic simulations of negative triangularity plasmas. Bernard at el. (2024) [10.1088/1361-6587/ad8186](https://doi.org/10.1088/1361-6587/ad8186)
+- Experimental Study of Alfvén Wave Reflection from an Alfvén-speed Gradient Relevant to the Solar Coronal Holes. Bose at el. (2024) [10.3847/1538-4357/ad528f](https://doi.org/10.3847/1538-4357/ad528f)
 - The kinetic analog of the pressure-strain interaction. Conley at el. (2024) [10.1063/5.0231200](https://doi.org/10.1063/5.0231200)
 - Scale Separation Effects on Simulations of Plasma Turbulence. Edyvean at el. (2024) [10.3847/1538-4357/ad5cf5](https://doi.org/10.3847/1538-4357/ad5cf5)
 - Conservative discontinuous Galerkin interpolation: Sheared boundary conditions. Francisquez at el. (2024) [10.1016/j.cpc.2024.109109](https://doi.org/10.1016/j.cpc.2024.109109)
