@@ -62,3 +62,4 @@ DOI,Year,Tag,Title,Author
 10.1088/0029-5515/51/10/103040,2011,BOUT++,Nonlinear ELM simulations based on a nonideal peeling-ballooning model using the BOUT++ code,Xu;Dudson;Snyder;Umansky;Wilson;Casper
 10.1088/0029-5515/53/7/073009,2013,BOUT++,Six-field two-fluid simulations of peeling-ballooning modes using BOUT++,Xia;Xu;Xi
 10.1088/0741-3335/53/5/054005,2011,BOUT++,Simulation of edge localized modes using BOUT++,Dudson;Xu;Umansky;Wilson;Snyder
+10.1088/1741-4326/ab0184,2019,BOUT++,Prediction of divertor heat flux width for ITER using BOUT++ transport and turbulence module,Li;Xu;Li;Chan;Wang
