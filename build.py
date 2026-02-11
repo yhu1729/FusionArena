@@ -143,6 +143,7 @@ def build_figure_publications(data):
                 score[tag] = {}
     year_list = list(range(min(year_list) - 1, max(year_list) + 1))
 
+    score = dict(sorted(score.items(), key=lambda entry: entry[0].lower()))
     for tag in score.keys():
         score[tag] = {year: 0 for year in year_list}
         score_partial_sum[tag] = {year: 0 for year in year_list}
