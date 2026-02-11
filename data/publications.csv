@@ -40,3 +40,4 @@ DOI,Year,Tag,Title,Author
 10.1016/j.cpc.2018.03.003,2018,[BOUT++],Calculation of two-dimension radial electric field in boundary plasmas by using BOUT++,Li;Xu;Rognlien;Gui;Sun;Wang
 10.1017/S0022377814000816,2014,[BOUT++],BOUT++: Recent and current developments,Dudson;Allen;Breyiannis;Brugger;Buchanan;Easy;Farley;Joseph;Kim;McGann;Omotani;Umansky;Walkden;Xia;Xu
 10.1017/S002237782400045X,2024,[BOUT++],Global fluid turbulence simulations in the scrape-off layer of a stellarator island divertor,Shanahan;Bold;Dudson
+10.1063/1.4801006,2013,[BOUT++],Five-field simulations of peeling-ballooning modes using BOUT++ code,Xia;Xu
