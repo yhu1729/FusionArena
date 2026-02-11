@@ -83,6 +83,7 @@
 - Linearized model Fokker-Planck collision operators for gyrokinetic simulations. II. Numerical implementation and tests. Barnes at el. (2009) [10.1063/1.3155085](https://doi.org/10.1063/1.3155085)
 - BOUT++: A framework for parallel plasma fluid simulations. Dudson at el. (2009) [10.1016/j.cpc.2009.03.008](https://doi.org/10.1016/j.cpc.2009.03.008)
 - Study of ion turbulent transport and profile formations using global gyrokinetic full-*f* Vlasov simulation. Idomura at el. (2009) [10.1088/0029-5515/49/6/065029](https://doi.org/10.1088/0029-5515/49/6/065029)
+- Full *f* gyrokinetic method for particle simulation of tokamak transport. Heikkinen at el. (2008) [10.1016/j.jcp.2008.02.013](https://doi.org/10.1016/j.jcp.2008.02.013)
 - Conservative global gyrokinetic toroidal full-*f* five-dimensional Vlasov simulation. Idomura at el. (2008) [10.1016/j.cpc.2008.04.005](https://doi.org/10.1016/j.cpc.2008.04.005)
 - Introducing FACETS, the Framework Application for Core-Edge Transport Simulations. Cary at el. (2007) [10.1088/1742-6596/78/1/012086](https://doi.org/10.1088/1742-6596/78/1/012086)
 - Electromagnetic gyrokinetic *δf* particle-in-cell turbulence simulation with realistic equilibrium profiles and geometry. Chen and Parker (2007) [10.1016/j.jcp.2006.05.028](https://doi.org/10.1016/j.jcp.2006.05.028)
