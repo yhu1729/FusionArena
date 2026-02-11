@@ -14,6 +14,7 @@
 - General kinetic ion-induced electron emission model for metallic walls applied to biased Z-pinch electrodes. Skolar at el. (2025) [10.1063/5.0261942](https://doi.org/10.1063/5.0261942)
 - OpenACC and OpenMP-Accelerated Fortran/C++ Gyrokinetic Fusion Code GENE-X for Heterogeneous Architectures. Trilaksono at el. (2025) [10.1145/3732775.3733587](https://doi.org/10.1145/3732775.3733587)
 - Simulations of edge and SOL turbulence in diverted negative and positive triangularity plasmas. Ulbl at el. (2025) [10.1088/1741-4326/adfd70](https://doi.org/10.1088/1741-4326/adfd70)
+- The simulation of mode coupling during ELM crash by using BOUT++. Zhu at el. (2025) [10.1063/5.0270211](https://doi.org/10.1063/5.0270211)
 - Plasma edge and scrape-off layer turbulence in gyrokinetic simulations of negative triangularity plasmas. Bernard at el. (2024) [10.1088/1361-6587/ad8186](https://doi.org/10.1088/1361-6587/ad8186)
 - Experimental Study of Alfvén Wave Reflection from an Alfvén-speed Gradient Relevant to the Solar Coronal Holes. Bose at el. (2024) [10.3847/1538-4357/ad528f](https://doi.org/10.3847/1538-4357/ad528f)
 - Energy-dependent implementation of secondary electron emission models in continuum kinetic sheath simulations. Bradshaw and Srinivasan (2024) [10.1088/1361-6595/ad331c](https://doi.org/10.1088/1361-6595/ad331c)
