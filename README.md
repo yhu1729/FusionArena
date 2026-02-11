@@ -86,6 +86,7 @@
 - [BOUT++](https://github.com/boutproject/BOUT-dev) (C++)
 - [CGYRO](https://github.com/gafusion/gacode/tree/master/cgyro) (Fortran)
 - [COGENT](https://github.com/LLNL/COGENT) (C++)
+- [EIRENE](https://www.eirene.de/Basics/basics.html) (Fortran)
 - [GENE](https://genecode.org/) (Fortran)
 - [GENE-X](https://gitlab.mpcdf.mpg.de/phoenix-public/genex) (Fortran)
 - [Gkeyll](https://github.com/ammarhakim/gkeyll) (C)
