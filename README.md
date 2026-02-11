@@ -12,6 +12,7 @@
 - Investigation of the sheared flows and staircases with a full-wave 2D synthetic diagnostic FeDoT. Glasser at el. (2025) [10.1088/1361-6587/adb519](https://doi.org/10.1088/1361-6587/adb519)
 - A moment-conserving discontinuous Galerkin representation of the relativistic Maxwellian distribution. Johnson at el. (2025) [10.1017/S0022377825100718](https://doi.org/10.1017/S0022377825100718)
 - A parallel-kinetic-perpendicular-moment model for magnetised plasmas. June at el. (2025) [10.1017/S0022377825100706](https://doi.org/10.1017/S0022377825100706)
+- Analysis of the impact of parallel magnetic fluctuations on linear gyrokinetic stability in NSTX-U and verification of gyro-fluid models. Kinsey at el. (2025) [10.1063/5.0270873](https://doi.org/10.1063/5.0270873)
 - Controlling impurity transport in 5D gyrokinetic simulations using a transport barrier. Lo-Cascio at el. (2025) [10.1088/1741-4326/adc5ea](https://doi.org/10.1088/1741-4326/adc5ea)
 - A kinetic line-driven radiation operator and its application to Gyrokinetics. Roeltgen at el. (2025) [10.1088/1741-4326/adff28](https://doi.org/10.1088/1741-4326/adff28)
 - Interplay between ion temperature gradient and parallel velocity gradient instabilities in cylindrical geometry: Water-bag vs 5D gyrokinetics. Rouyer at el. (2025) [10.1063/5.0274782](https://doi.org/10.1063/5.0274782)
