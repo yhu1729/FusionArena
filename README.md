@@ -21,6 +21,7 @@
 - Conservative discontinuous Galerkin scheme of a gyro-averaged Dougherty collision operator. Francisquez at el. (2020) [10.1088/1741-4326/aba0c9](https://doi.org/10.1088/1741-4326/aba0c9)
 - Conservative discontinuous Galerkin schemes for nonlinear Dougherty-Fokker-Planck collision operators. Hakim at el. (2020) [10.1017/S0022377820000586](https://doi.org/10.1017/S0022377820000586)
 - Alias-Free, Matrix-Free, and Quadrature-Free Discontinuous Galerkin Algorithms for (Plasma) Kinetic Equations. Hakim and Juno (2020) [10.1109/SC41405.2020.00077](https://doi.org/10.1109/SC41405.2020.00077)
+- Exact and locally implicit source term solvers for multifluid-Maxwell systems. Wang at el. (2020) [10.1016/j.jcp.2020.109510](https://doi.org/10.1016/j.jcp.2020.109510)
 - Laguerre-Hermite pseudo-spectral velocity formulation of gyrokinetics. Mandell at el. (2018) [10.1017/S0022377818000041](https://doi.org/10.1017/S0022377818000041)
 - The new SOLPS-ITER code package. Wiesen at el. (2015) [10.1016/j.jnucmat.2014.10.012](https://doi.org/10.1016/j.jnucmat.2014.10.012)
 - BOUT++: A framework for parallel plasma fluid simulations. Dudson at el. (2009) [10.1016/j.cpc.2009.03.008](https://doi.org/10.1016/j.cpc.2009.03.008)
