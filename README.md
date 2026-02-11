@@ -21,6 +21,11 @@
 - The new SOLPS-ITER code package. Wiesen at el. (2015) [10.1016/j.jnucmat.2014.10.012](https://doi.org/10.1016/j.jnucmat.2014.10.012)
 - BOUT++: A framework for parallel plasma fluid simulations. Dudson at el. (2009) [10.1016/j.cpc.2009.03.008](https://doi.org/10.1016/j.cpc.2009.03.008)
 
+## Datasets
+
+- TCV-X21: an open dataset for the validation of edge turbulence models. Sales de Oliveira at el. (2024) [10.5281/zenodo.5776285](https://doi.org/10.5281/zenodo.5776285)
+- TCV-X21-GENEX: influence of collisions on the validation of global gyrokinetic simulations. Ulbl at el. (2023) [10.5281/zenodo.7894730](https://doi.org/10.5281/zenodo.7894730)
+
 ## Codes
 
 - [BOUT++](https://github.com/boutproject/BOUT-dev)
@@ -32,9 +37,4 @@
 - [SOLPS-ITER](https://github.com/iterorganization/SOLPS-ITER)
 - [TORAX](https://github.com/google-deepmind/torax)
 - [UEDGE](https://github.com/llnl/UEDGE)
-
-## Datasets
-
-- TCV-X21: an open dataset for the validation of edge turbulence models. Sales de Oliveira at el. (2024) [10.5281/zenodo.5776285](https://doi.org/10.5281/zenodo.5776285)
-- TCV-X21-GENEX: influence of collisions on the validation of global gyrokinetic simulations. Ulbl at el. (2023) [10.5281/zenodo.7894730](https://doi.org/10.5281/zenodo.7894730)
 

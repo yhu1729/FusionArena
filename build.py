@@ -12,29 +12,29 @@ def build_readme():
         for row in content:
             data['publications'].append(row)
 
-    data['codes'] = []
-    with open('data/codes.csv', newline='') as f:
-        content = csv.reader(f)
-        for row in content:
-            data['codes'].append(row)
-
     data['datasets'] = []
     with open('data/datasets.csv', newline='') as f:
         content = csv.reader(f)
         for row in content:
             data['datasets'].append(row)
 
+    data['codes'] = []
+    with open('data/codes.csv', newline='') as f:
+        content = csv.reader(f)
+        for row in content:
+            data['codes'].append(row)
+
     text = {}
     text['publications'] = build_text_publications(data['publications'])
-    text['codes'] = build_text_codes(data['codes'])
     text['datasets'] = build_text_datasets(data['datasets'])
+    text['codes'] = build_text_codes(data['codes'])
 
     with open('README.md', mode='w') as f:
         print('# FusionArena', file=f)
         print('', file=f)
         print(text['publications'], file=f)
-        print(text['codes'], file=f)
         print(text['datasets'], file=f)
+        print(text['codes'], file=f)
 
 
 def build_text_publications(data):
