@@ -73,6 +73,7 @@
 - [GX](https://bitbucket.org/gyrokinetics/gx/src/gx/) (C++)
 - [GYSELA](https://gyselax.github.io/) (Fortran)
 - [Gyselalib++](https://github.com/gyselax/gyselalibxx) (C++)
+- [Hermes-3](https://github.com/boutproject/hermes-3) (C++)
 - [NEO](https://github.com/gafusion/gacode/tree/master/neo) (Fortran)
 - [SOLPS-ITER](https://github.com/iterorganization/SOLPS-ITER) (Fortran)
 - [TGYRO](https://github.com/gafusion/gacode/tree/master/tgyro) (Fortran)
