@@ -44,6 +44,7 @@
 - Conservative discontinuous Galerkin scheme of a gyro-averaged Dougherty collision operator. Francisquez at el. (2020) [10.1088/1741-4326/aba0c9](https://doi.org/10.1088/1741-4326/aba0c9)
 - Conservative discontinuous Galerkin schemes for nonlinear Dougherty-Fokker-Planck collision operators. Hakim at el. (2020) [10.1017/S0022377820000586](https://doi.org/10.1017/S0022377820000586)
 - Alias-Free, Matrix-Free, and Quadrature-Free Discontinuous Galerkin Algorithms for (Plasma) Kinetic Equations. Hakim and Juno (2020) [10.1109/SC41405.2020.00077](https://doi.org/10.1109/SC41405.2020.00077)
+- Simulations of divertor heat flux width using transport code with cross-field drifts under the BOUT++ framework. Li at el. (2020) [10.1063/1.5126884](https://doi.org/10.1063/1.5126884)
 - Electromagnetic full-*f* gyrokinetics in the tokamak edge with discontinuous Galerkin methods. Mandell at el. (2020) [10.1017/S0022377820000070](https://doi.org/10.1017/S0022377820000070)
 - Exact and locally implicit source term solvers for multifluid-Maxwell systems. Wang at el. (2020) [10.1016/j.jcp.2020.109510](https://doi.org/10.1016/j.jcp.2020.109510)
 - Discontinuous Galerkin algorithms for fully kinetic plasmas. Juno at el. (2018) [10.1016/j.jcp.2017.10.009](https://doi.org/10.1016/j.jcp.2017.10.009)
