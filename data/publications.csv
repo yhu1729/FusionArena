@@ -80,3 +80,4 @@ DOI,Year,Tag,Title,Author
 10.1063/5.0270873,2025,CGYRO,Analysis of the impact of parallel magnetic fluctuations on linear gyrokinetic stability in NSTX-U and verification of gyro-fluid models,Kinsey;Staebler;Belli;Candy
 10.1063/5.0302522,2026,CGYRO,Benchmarking core turbulence and transport predictions for an inductive compact tokamak reactor plasma,Holland;Rodriguez-Fernandez;Howard;Bass;Slendebroek
 10.1063/5.0043006,2021,CGYRO;GEM;GENE,Gyrokinetic benchmark of the electron temperature-gradient instability in the pedestal region,Hassan;Hatch;Guttenfelder;Chen;Parker
+10.1016/j.jcp.2006.05.028,2007,GEM,Electromagnetic gyrokinetic *δf* particle-in-cell turbulence simulation with realistic equilibrium profiles and geometry,Chen;Parker
