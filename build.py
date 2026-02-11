@@ -154,7 +154,6 @@ def build_figure_publications(data):
 
     ax = figure.add_subplot(2, 1, 1)
     ax.set_title('Publications')
-    ax.set_xticks(year_list)
     bottom = numpy.zeros(len(year_list))
     for key, value in score.items():
         label = key[1:-1]
@@ -169,7 +168,6 @@ def build_figure_publications(data):
 
     ax = figure.add_subplot(2, 1, 2)
     ax.set_title('Cumulative publications')
-    ax.set_xticks(year_list)
     for key, value in score_partial_sum.items():
         label = key[1:-1]
         x, y = zip(*sorted(value.items()))
