@@ -36,6 +36,7 @@
 - Discontinuous Galerkin algorithms for fully kinetic plasmas. Juno at el. (2018) [10.1016/j.jcp.2017.10.009](https://doi.org/10.1016/j.jcp.2017.10.009)
 - Calculation of two-dimension radial electric field in boundary plasmas by using BOUT++. Li at el. (2018) [10.1016/j.cpc.2018.03.003](https://doi.org/10.1016/j.cpc.2018.03.003)
 - Laguerre-Hermite pseudo-spectral velocity formulation of gyrokinetics. Mandell at el. (2018) [10.1017/S0022377818000041](https://doi.org/10.1017/S0022377818000041)
+- An approach to increase reliability of HPC simulation, application to the Gysela5D code. Bigot at el. (2016) [10.1051/proc/201653015 ](https://doi.org/10.1051/proc/201653015 )
 - Verification of BOUT++ by the method of manufactured solutions. Dudson at el. (2016) [10.1063/1.4953429](https://doi.org/10.1063/1.4953429)
 - A 5D gyrokinetic full-*f* global semi-Lagrangian code for flux-driven ion turbulence simulations. Grandgirard at el. (2016) [10.1016/j.cpc.2016.05.007](https://doi.org/10.1016/j.cpc.2016.05.007)
 - The new SOLPS-ITER code package. Wiesen at el. (2015) [10.1016/j.jnucmat.2014.10.012](https://doi.org/10.1016/j.jnucmat.2014.10.012)
