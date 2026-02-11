@@ -89,6 +89,7 @@
 - [GENE](https://genecode.org/) (Fortran)
 - [GENE-X](https://gitlab.mpcdf.mpg.de/phoenix-public/genex) (Fortran)
 - [Gkeyll](https://github.com/ammarhakim/gkeyll) (C)
+- [GS2](https://bitbucket.org/gyrokinetics/gs2) (Fortran)
 - [GX](https://bitbucket.org/gyrokinetics/gx/src/gx/) (C++)
 - [GYSELA](https://gyselax.github.io/) (Fortran)
 - [Gyselalib++](https://github.com/gyselax/gyselalibxx) (C++)
