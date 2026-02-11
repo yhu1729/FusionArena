@@ -20,6 +20,7 @@
 - The kinetic analog of the pressure-strain interaction. Conley at el. (2024) [10.1063/5.0231200](https://doi.org/10.1063/5.0231200)
 - Scale Separation Effects on Simulations of Plasma Turbulence. Edyvean at el. (2024) [10.3847/1538-4357/ad5cf5](https://doi.org/10.3847/1538-4357/ad5cf5)
 - Conservative discontinuous Galerkin interpolation: Sheared boundary conditions. Francisquez at el. (2024) [10.1016/j.cpc.2024.109109](https://doi.org/10.1016/j.cpc.2024.109109)
+- A two-dimensional numerical study of ion-acoustic turbulence. Liu at el. (2024) [10.1017/S0022377824000060](https://doi.org/10.1017/S0022377824000060)
 - GX: a GPU-native gyrokinetic turbulence code for tokamak and stellarator design. Mandell at el. (2024) [10.1017/S0022377824000631](https://doi.org/10.1017/S0022377824000631)
 - Weak baselines and reporting biases lead to overoptimism in machine learning for fluid-related partial differential equations. McGreivy and Hakim (2024) [10.1038/s42256-024-00897-5](https://doi.org/10.1038/s42256-024-00897-5)
 - The Effect of Spatially Varying Collision Frequency on the Development of the Rayleigh-Taylor Instability. Rodman at el. (2024) [10.3847/1538-4357/ad3359](https://doi.org/10.3847/1538-4357/ad3359)
