@@ -27,6 +27,7 @@
 - Global fluid turbulence simulations in the scrape-off layer of a stellarator island divertor. Shanahan at el. (2024) [10.1017/S002237782400045X](https://doi.org/10.1017/S002237782400045X)
 - Electron energization in reconnection: Eulerian vs Lagrangian perspectives. TenBarge at el. (2024) [10.1063/5.0184710](https://doi.org/10.1063/5.0184710)
 - Electron Influence on the Parallel Proton Firehose Instability in 10-moment, Multifluid Simulations. Walters at el. (2024) [10.3847/1538-4357/ad7c47](https://doi.org/10.3847/1538-4357/ad7c47)
+- Effect of neutral interactions on parallel transport and blob dynamics in gyrokinetic scrape-off layer simulations. Bernard at el. (2023) [10.1063/5.0160588](https://doi.org/10.1063/5.0160588)
 - Influence of collisions on the validation of global gyrokinetic simulations in the edge and scrape-off layer of TCV. Ulbl at el. (2023) [10.1063/5.0144688](https://doi.org/10.1063/5.0144688)
 - Full-*f* electromagnetic gyrokinetic turbulence simulations of the edge and scrape-off layer of ASDEX Upgrade with GENE-X. Michels at el. (2022) [10.1063/5.0082413](https://doi.org/10.1063/5.0082413)
 - A boundary value "reservoir problem" and boundary conditions for multi-moment multifluid simulations of sheaths. Cagas at el. (2021) [10.1063/5.0024510](https://doi.org/10.1063/5.0024510)
