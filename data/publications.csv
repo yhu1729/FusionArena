@@ -16,3 +16,4 @@ DOI,Year,Tag,Title,Author
 10.1109/SC41405.2020.00077,2020,[Gkeyll],"Alias-Free, Matrix-Free, and Quadrature-Free Discontinuous Galerkin Algorithms for (Plasma) Kinetic Equations",Hakim;Juno
 10.1016/j.cpc.2009.03.008,2009,[BOUT++],BOUT++: A framework for parallel plasma fluid simulations,Dudson;Umansky;Xu;Snyder;Wilson
 10.1017/S0022377818000041,2018,[GX],Laguerre-Hermite pseudo-spectral velocity formulation of gyrokinetics,Mandell;Dorland;Landreman
+10.1017/S0022377824000631,2024,[GX],GX: a GPU-native gyrokinetic turbulence code for tokamak and stellarator design,Mandell;Dorland;Abel;Gaur;Kim;Martin;Qian
