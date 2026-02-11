@@ -162,7 +162,7 @@ def build_figure_publications(data):
     ax.set_title('Total publications')
     y = [value for value in score_partial_sum.values()]
     y = [list(value.values()) for value in y]
-    label_list = [key[1:-1] for key in score_partial_sum.keys()]
+    label_list = [key for key in score_partial_sum.keys()]
     ax.stackplot(year_list, y, labels=label_list)
     ax.yaxis.set_major_locator(MaxNLocator(integer=True))
     ax.spines['top'].set_visible(False)
@@ -173,10 +173,9 @@ def build_figure_publications(data):
     ax.set_title('Publications')
     bottom = numpy.zeros(len(year_list))
     for key, value in score.items():
-        label = key[1:-1]
         x, y = zip(*sorted(value.items()))
         if score_partial_sum[key][year_list[-1]] > 0:
-            ax.bar(x, y, label=label, bottom=bottom)
+            ax.bar(x, y, label=key, bottom=bottom)
             bottom += y
     ax.yaxis.set_major_locator(MaxNLocator(integer=True))
     ax.spines['top'].set_visible(False)
