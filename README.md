@@ -56,6 +56,7 @@
 ## Codes
 
 - [BOUT++](https://github.com/boutproject/BOUT-dev)
+- [CGYRO](https://github.com/gafusion/gacode/tree/master/cgyro)
 - [COGENT](https://github.com/LLNL/COGENT)
 - [GENE](https://genecode.org/)
 - [GENE-X](https://gitlab.mpcdf.mpg.de/phoenix-public/genex)
