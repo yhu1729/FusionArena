@@ -60,3 +60,4 @@ DOI,Year,Tag,Title,Author
 10.1063/1.5126884,2020,BOUT++,Simulations of divertor heat flux width using transport code with cross-field drifts under the BOUT++ framework,Li;Xu;Hughes;Terry;Sun;Wang
 10.1063/5.0270211,2025,BOUT++,The simulation of mode coupling during ELM crash by using BOUT++,Zhu;Xia;Huang
 10.1088/0029-5515/51/10/103040,2011,BOUT++,Nonlinear ELM simulations based on a nonideal peeling-ballooning model using the BOUT++ code,Xu;Dudson;Snyder;Umansky;Wilson;Casper
+10.1088/0029-5515/53/7/073009,2013,BOUT++,Six-field two-fluid simulations of peeling-ballooning modes using BOUT++,Xia;Xu;Xi
