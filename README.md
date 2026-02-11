@@ -20,6 +20,7 @@
 - Conservative discontinuous Galerkin interpolation: Sheared boundary conditions. Francisquez at el. (2024) [10.1016/j.cpc.2024.109109](https://doi.org/10.1016/j.cpc.2024.109109)
 - GX: a GPU-native gyrokinetic turbulence code for tokamak and stellarator design. Mandell at el. (2024) [10.1017/S0022377824000631](https://doi.org/10.1017/S0022377824000631)
 - Weak baselines and reporting biases lead to overoptimism in machine learning for fluid-related partial differential equations. McGreivy and Hakim (2024) [10.1038/s42256-024-00897-5](https://doi.org/10.1038/s42256-024-00897-5)
+- Global fluid turbulence simulations in the scrape-off layer of a stellarator island divertor. Shanahan at el. (2024) [10.1017/S002237782400045X](https://doi.org/10.1017/S002237782400045X)
 - Electron Influence on the Parallel Proton Firehose Instability in 10-moment, Multifluid Simulations. Walters at el. (2024) [10.3847/1538-4357/ad7c47](https://doi.org/10.3847/1538-4357/ad7c47)
 - Influence of collisions on the validation of global gyrokinetic simulations in the edge and scrape-off layer of TCV. Ulbl at el. (2023) [10.1063/5.0144688](https://doi.org/10.1063/5.0144688)
 - Full-*f* electromagnetic gyrokinetic turbulence simulations of the edge and scrape-off layer of ASDEX Upgrade with GENE-X. Michels at el. (2022) [10.1063/5.0082413](https://doi.org/10.1063/5.0082413)
