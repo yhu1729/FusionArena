@@ -24,3 +24,4 @@ DOI,Year,Tag,Title,Author
 10.1016/j.jcp.2019.109215,2020,[Gkeyll],"Plasma-material boundary conditions for discontinuous Galerkin continuum-kinetic simulations, with a focus on secondary electron emission",Cagas;Hakim;Srinivasan
 10.1017/S0022377820000070,2020,[Gkeyll],Electromagnetic full-*f* gyrokinetics in the tokamak edge with discontinuous Galerkin methods,Mandell;Hakim;Hammett;Francisquez
 10.1016/j.jcp.2017.10.009,2018,[Gkeyll],Discontinuous Galerkin algorithms for fully kinetic plasmas,Juno;Hakim;TenBarge;Shi;Dorland
+10.1088/1741-4326/adff28,2025,[Gkeyll],A kinetic line-driven radiation operator and its application to Gyrokinetics,Roeltgen;Juno;Kotschenreuther;Bernard;Shukla;Francisquez;Hakim;Hammett;Power;Hatch
