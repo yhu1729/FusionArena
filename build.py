@@ -1,5 +1,6 @@
 import csv
 from matplotlib import pyplot
+from matplotlib.ticker import MaxNLocator
 import numpy
 
 
@@ -161,6 +162,7 @@ def build_figure_publications(data):
         if score_partial_sum[key][year_list[-1]] > 0:
             ax.bar(x, y, label=label, bottom=bottom)
             bottom += y
+    ax.yaxis.set_major_locator(MaxNLocator(integer=True))
     ax.legend()
 
     ax = figure.add_subplot(2, 1, 2)
@@ -170,6 +172,7 @@ def build_figure_publications(data):
         x, y = zip(*sorted(value.items()))
         if y[-1] > 0:
             ax.plot(x, y, linewidth=2, label=label)
+    ax.yaxis.set_major_locator(MaxNLocator(integer=True))
     ax.legend()
 
     figure.savefig('figure/publications.png', dpi=400, bbox_inches='tight')
