@@ -72,3 +72,4 @@ DOI,Year,Tag,Title,Author
 10.1063/5.0157428,2023,GYSELA,Self-consistent gyrokinetic modeling of turbulent and neoclassical tungsten transport in toroidally rotating plasmas,Lim;Garbet;Sarazin;Gravier;Lesur;Lo-Cascio;Rouyer
 10.1063/5.0209752,2024,CGYRO,Core performance predictions in projected SPARC first-campaign plasmas with nonlinear CGYRO,Rodriguez-Fernandez;Howard;Saltzman;Shoji;Body;Battaglia;Hughes;Candy;Staebler;Creely
 10.1088/1741-4326/ac64b2,2022,CGYRO,Nonlinear gyrokinetic predictions of SPARC burning plasma profiles enabled by surrogate modeling,Rodriguez-Fernandez;Howard;Candy
+10.1016/j.jcp.2016.07.039,2016,CGYRO,A high-accuracy Eulerian gyrokinetic solver for collisional plasmas,Candy;Belli;Bravenec
