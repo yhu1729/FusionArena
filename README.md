@@ -66,6 +66,7 @@
 - [Gyselalib++](https://github.com/gyselax/gyselalibxx)
 - [NEO](https://github.com/gafusion/gacode/tree/master/neo)
 - [SOLPS-ITER](https://github.com/iterorganization/SOLPS-ITER)
+- [TGYRO](https://github.com/gafusion/gacode/tree/master/tgyro)
 - [TORAX](https://github.com/google-deepmind/torax)
 - [UEDGE](https://github.com/llnl/UEDGE)
 
