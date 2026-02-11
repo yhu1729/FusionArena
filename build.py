@@ -161,9 +161,6 @@ def build_figure_publications(data):
         if score_partial_sum[key][year_list[-1]] > 0:
             ax.bar(x, y, label=label, bottom=bottom)
             bottom += y
-    tick_y = ax.get_yticks()
-    tick_y = numpy.append(tick_y, [tick_y[-1] + 1])
-    ax.set_yticks(tick_y)
     ax.legend()
 
     ax = figure.add_subplot(2, 1, 2)
