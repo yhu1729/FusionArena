@@ -30,6 +30,7 @@
 - GX: a GPU-native gyrokinetic turbulence code for tokamak and stellarator design. Mandell at el. (2024) [10.1017/S0022377824000631](https://doi.org/10.1017/S0022377824000631)
 - Weak baselines and reporting biases lead to overoptimism in machine learning for fluid-related partial differential equations. McGreivy and Hakim (2024) [10.1038/s42256-024-00897-5](https://doi.org/10.1038/s42256-024-00897-5)
 - The Effect of Spatially Varying Collision Frequency on the Development of the Rayleigh-Taylor Instability. Rodman at el. (2024) [10.3847/1538-4357/ad3359](https://doi.org/10.3847/1538-4357/ad3359)
+- Core performance predictions in projected SPARC first-campaign plasmas with nonlinear CGYRO. Rodriguez-Fernandez at el. (2024) [10.1063/5.0209752](https://doi.org/10.1063/5.0209752)
 - Global fluid turbulence simulations in the scrape-off layer of a stellarator island divertor. Shanahan at el. (2024) [10.1017/S002237782400045X](https://doi.org/10.1017/S002237782400045X)
 - Electron energization in reconnection: Eulerian vs Lagrangian perspectives. TenBarge at el. (2024) [10.1063/5.0184710](https://doi.org/10.1063/5.0184710)
 - Electron Influence on the Parallel Proton Firehose Instability in 10-moment, Multifluid Simulations. Walters at el. (2024) [10.3847/1538-4357/ad7c47](https://doi.org/10.3847/1538-4357/ad7c47)
