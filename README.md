@@ -4,6 +4,7 @@
 
 ![figure-publications](figure/publications.png)
 
+- Effects of oxidation and impurities in lithium surfaces on the emitting wall plasma sheath. Bradshaw at el. (2025) [10.1063/5.0258265](https://doi.org/10.1063/5.0258265)
 - Turbulence and transport in spectrally accelerated full-*f* gyrokinetic simulations. Frei at el. (2025) [10.1088/1741-4326/ae114a](https://doi.org/10.1088/1741-4326/ae114a)
 - Spectrally accelerated edge and scrape-off layer gyrokinetic turbulence simulations. Frei at el. (2025) [10.1016/j.cpc.2025.109817](https://doi.org/10.1016/j.cpc.2025.109817)
 - A moment-conserving discontinuous Galerkin representation of the relativistic Maxwellian distribution. Johnson at el. (2025) [10.1017/S0022377825100718](https://doi.org/10.1017/S0022377825100718)
