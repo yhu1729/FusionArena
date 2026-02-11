@@ -74,3 +74,4 @@ DOI,Year,Tag,Title,Author
 10.1088/1741-4326/ac64b2,2022,CGYRO,Nonlinear gyrokinetic predictions of SPARC burning plasma profiles enabled by surrogate modeling,Rodriguez-Fernandez;Howard;Candy
 10.1016/j.jcp.2016.07.039,2016,CGYRO,A high-accuracy Eulerian gyrokinetic solver for collisional plasmas,Candy;Belli;Bravenec
 10.1145/3750720.375730,2025,CGYRO,Minimizing CGYRO HPC Communication Costs in Ensembles with XGYRO by Sharing the Collisional Constant Tensor Structure,Sfiligoi;Belli;Candy
+10.1063/1.3155085,2009,GS2,Linearized model Fokker-Planck collision operators for gyrokinetic simulations. II. Numerical implementation and tests,Barnes;Abel;Dorland;Ernst;Hammett;Ricci;Rogers;Schekochihin;Tatsuno
