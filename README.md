@@ -57,6 +57,7 @@
 
 - [BOUT++](https://github.com/boutproject/BOUT-dev)
 - [COGENT](https://github.com/LLNL/COGENT)
+- [GENE](https://genecode.org/)
 - [GENE-X](https://gitlab.mpcdf.mpg.de/phoenix-public/genex)
 - [Gkeyll](https://github.com/ammarhakim/gkeyll)
 - [GX](https://bitbucket.org/gyrokinetics/gx/src/gx/)
