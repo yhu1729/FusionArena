@@ -15,6 +15,7 @@
 - Controlling impurity transport in 5D gyrokinetic simulations using a transport barrier. Lo-Cascio at el. (2025) [10.1088/1741-4326/adc5ea](https://doi.org/10.1088/1741-4326/adc5ea)
 - A kinetic line-driven radiation operator and its application to Gyrokinetics. Roeltgen at el. (2025) [10.1088/1741-4326/adff28](https://doi.org/10.1088/1741-4326/adff28)
 - Interplay between ion temperature gradient and parallel velocity gradient instabilities in cylindrical geometry: Water-bag vs 5D gyrokinetics. Rouyer at el. (2025) [10.1063/5.0274782](https://doi.org/10.1063/5.0274782)
+- Minimizing CGYRO HPC Communication Costs in Ensembles with XGYRO by Sharing the Collisional Constant Tensor Structure. Sfiligoi at el. (2025) [10.1145/3750720.375730](https://doi.org/10.1145/3750720.375730)
 - Direct comparison of gyrokinetic and fluid scrape-off layer simulations. Shukla at el. (2025) [10.1063/5.0268104](https://doi.org/10.1063/5.0268104)
 - General kinetic ion-induced electron emission model for metallic walls applied to biased Z-pinch electrodes. Skolar at el. (2025) [10.1063/5.0261942](https://doi.org/10.1063/5.0261942)
 - OpenACC and OpenMP-Accelerated Fortran/C++ Gyrokinetic Fusion Code GENE-X for Heterogeneous Architectures. Trilaksono at el. (2025) [10.1145/3732775.3733587](https://doi.org/10.1145/3732775.3733587)
