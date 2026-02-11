@@ -175,9 +175,8 @@ def build_figure_publications(data):
     bottom = numpy.zeros(len(year_list))
     for key, value in score.items():
         x, y = zip(*sorted(value.items()))
-        if score_partial_sum[key][year_list[-1]] > 0:
-            ax.bar(x, y, label=key, bottom=bottom)
-            bottom += y
+        ax.bar(x, y, label=key, bottom=bottom)
+        bottom += y
     ax.yaxis.set_major_locator(MaxNLocator(integer=True))
     ax.spines['top'].set_visible(False)
     ax.spines['right'].set_visible(False)
