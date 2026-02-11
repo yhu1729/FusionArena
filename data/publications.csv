@@ -22,3 +22,4 @@ DOI,Year,Tag,Title,Author
 10.1016/S0022-3115(06)80058-9,1992,[UEDGE],"A fully implicit, time dependent 2-D fluid code for modeling tokamak edge plasmas",Rognlien;Milovich;Rensink;Porter
 10.1016/j.jcp.2020.109510,2020,[Gkeyll],Exact and locally implicit source term solvers for multifluid-Maxwell systems,Wang;Hakim;Ng;Dong;Germaschewski
 10.1016/j.jcp.2019.109215,2020,[Gkeyll],"Plasma-material boundary conditions for discontinuous Galerkin continuum-kinetic simulations, with a focus on secondary electron emission",Cagas;Hakim;Srinivasan
+10.1017/S0022377820000070,2020,[Gkeyll],Electromagnetic full-*f* gyrokinetics in the tokamak edge with discontinuous Galerkin methods,Mandell;Hakim;Hammett;Francisquez
