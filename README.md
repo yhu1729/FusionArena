@@ -4,6 +4,7 @@
 
 ![figure-publications](figure/publications.png)
 
+- Benchmarking core turbulence and transport predictions for an inductive compact tokamak reactor plasma. Holland at el. (2026) [10.1063/5.0302522](https://doi.org/10.1063/5.0302522)
 - Gyselalib++: A Portable C++ Library for Semi-Lagrangian Kinetic and Gyrokinetic Simulations. Bourne at el. (2025) [10.21105/joss.08582](https://doi.org/10.21105/joss.08582)
 - Effects of oxidation and impurities in lithium surfaces on the emitting wall plasma sheath. Bradshaw at el. (2025) [10.1063/5.0258265](https://doi.org/10.1063/5.0258265)
 - Effect of modulated heat source on diffusive and avalanche-like transport. Cho at el. (2025) [10.1088/1741-4326/adb2a4](https://doi.org/10.1088/1741-4326/adb2a4)
