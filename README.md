@@ -30,6 +30,7 @@
 - Effect of neutral interactions on parallel transport and blob dynamics in gyrokinetic scrape-off layer simulations. Bernard at el. (2023) [10.1063/5.0160588](https://doi.org/10.1063/5.0160588)
 - An investigation of shock formation vs shock mitigation of colliding plasma jets. Cagas at el. (2023) [10.1063/5.0135389](https://doi.org/10.1063/5.0135389)
 - Toward continuum gyrokinetic study of high-field mirrors. Francisquez at el. (2023) [10.1063/5.0152440](https://doi.org/10.1063/5.0152440)
+- Continuum kinetic investigation of the impact of bias potentials in the current saturation regime on sheath formation. Skolar at el. (2023) [10.1063/5.0134656](https://doi.org/10.1063/5.0134656)
 - Influence of collisions on the validation of global gyrokinetic simulations in the edge and scrape-off layer of TCV. Ulbl at el. (2023) [10.1063/5.0144688](https://doi.org/10.1063/5.0144688)
 - Full-*f* electromagnetic gyrokinetic turbulence simulations of the edge and scrape-off layer of ASDEX Upgrade with GENE-X. Michels at el. (2022) [10.1063/5.0082413](https://doi.org/10.1063/5.0082413)
 - A boundary value "reservoir problem" and boundary conditions for multi-moment multifluid simulations of sheaths. Cagas at el. (2021) [10.1063/5.0024510](https://doi.org/10.1063/5.0024510)
