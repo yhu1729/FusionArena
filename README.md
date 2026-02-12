@@ -62,6 +62,7 @@
 - Simulations of divertor heat flux width using transport code with cross-field drifts under the BOUT++ framework. Li at el. (2020) [10.1063/1.5126884](https://doi.org/10.1063/1.5126884)
 - Electromagnetic full-*f* gyrokinetics in the tokamak edge with discontinuous Galerkin methods. Mandell at el. (2020) [10.1017/S0022377820000070](https://doi.org/10.1017/S0022377820000070)
 - Exact and locally implicit source term solvers for multifluid-Maxwell systems. Wang at el. (2020) [10.1016/j.jcp.2020.109510](https://doi.org/10.1016/j.jcp.2020.109510)
+- Multiscale-optimized plasma turbulence simulation on petascale architectures. Candy at el. (2019) [10.1016/j.compfluid.2019.04.016](https://doi.org/10.1016/j.compfluid.2019.04.016)
 - Prediction of divertor heat flux width for ITER using BOUT++ transport and turbulence module. Li at el. (2019) [10.1088/1741-4326/ab0184](https://doi.org/10.1088/1741-4326/ab0184)
 - CGYRO Performance on Power9 CPUs and Volta GPUs. Sfiligoi at el. (2019) [10.1007/978-3-030-02465-9_24](https://doi.org/10.1007/978-3-030-02465-9_24)
 - Discontinuous Galerkin algorithms for fully kinetic plasmas. Juno at el. (2018) [10.1016/j.jcp.2017.10.009](https://doi.org/10.1016/j.jcp.2017.10.009)
