@@ -90,6 +90,7 @@
 - A global collisionless PIC code in magnetic coordinates. Jolliet at el. (2007) [10.1016/j.cpc.2007.04.006](https://doi.org/10.1016/j.cpc.2007.04.006)
 - Linear comparison of gyrokinetic codes with trapped electrons. Rewoldt at el. (2007) [10.1016/j.cpc.2007.06.017](https://doi.org/10.1016/j.cpc.2007.06.017)
 - Nonlocal properties of gyrokinetic turbulence and the role of *E×B* flow shear. Wang at el. (2007) [10.1063/1.2750647](https://doi.org/10.1063/1.2750647)
+- Kinetic simulations of turbulent fusion plasmas. Idomura at el. (2006) [10.1016/j.crhy.2006.06.007](https://doi.org/10.1016/j.crhy.2006.06.007)
 - Velocity-space structures of distribution function in toroidal ion temperature gradient turbulence. Watanabe and Sugama (2006) [10.1088/0029-5515/46/1/003](https://doi.org/10.1088/0029-5515/46/1/003)
 - Advances and challenges in computational plasma science. Tang and Chan (2005) [10.1088/0741-3335/47/2/R01](https://doi.org/10.1088/0741-3335/47/2/R01)
 - Kinetic effects on the stability properties of field-reversed configurations. II. Nonlinear evolution. Belova at el. (2004) [10.1063/1.1666293](https://doi.org/10.1063/1.1666293)
