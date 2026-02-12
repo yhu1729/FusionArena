@@ -121,3 +121,4 @@ DOI,Year,Tag,Title,Author
 10.1088/1741-4326/ad4d01,2024,CGYRO,Predictive modeling of NSTX discharges with the updated multi-mode anomalous transport module,Rafiq;Wilson;Clauser;Schuster;Weiland;Anderson;Kaye;Pankin;LeBlanc;Bell
 10.1063/5.0159054,2023,CGYRO,A flexible gyro-fluid system of equations,Staebler;Belli;Candy
 10.1063/1.4821982,2013,GEM,Benchmarking gyrokinetic simulations in a toroidal flux-tube,Chen;Parker;Wan;Bravenec
+10.1088/0029-5515/55/5/053025,2015,SolEdge2D;EIRENE,Numerical modelling for divertor design of the WEST device with a focus on plasma-wall interactions,Bufferand;Ciraolo;Marandet;Bucalossi;Ghendrih;Gunn;Mellet;Tamain;Leybros;Fedorczak;Schwander;Serre
