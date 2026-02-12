@@ -95,6 +95,7 @@
 - Advances and challenges in computational plasma science. Tang and Chan (2005) [10.1088/0741-3335/47/2/R01](https://doi.org/10.1088/0741-3335/47/2/R01)
 - Kinetic effects on the stability properties of field-reversed configurations. II. Nonlinear evolution. Belova at el. (2004) [10.1063/1.1666293](https://doi.org/10.1063/1.1666293)
 - The effect of a uniform radial electric field on the toroidal ion temperature gradient mode. Peeters and Strintzi (2004) [10.1063/1.1762876](https://doi.org/10.1063/1.1762876)
+- First principles based simulations of instabilities and turbulence. Villard at el. (2004) [10.1088/0741-3335/46/12B/005](https://doi.org/10.1088/0741-3335/46/12B/005)
 - An Eulerian gyrokinetic-Maxwell solver. Candy and Waltz (2003) [10.1016/S0021-9991(03)00079-2](https://doi.org/10.1016/S0021-9991(03)00079-2)
 - Global gyrokinetic simulation of ion temperature gradient driven turbulence in plasmas using a canonical Maxwellian distribution. Idomura at el. (2003) [10.1088/0029-5515/43/4/303](https://doi.org/10.1088/0029-5515/43/4/303)
 - Electron Temperature Gradient Turbulence. Dorland at el. (2000) [10.1103/PhysRevLett.85.5579](https://doi.org/10.1103/PhysRevLett.85.5579)
