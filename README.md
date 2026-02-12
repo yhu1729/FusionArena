@@ -56,6 +56,7 @@
 - Comparing single-node and multi-node performance of an important fusion HPC code benchmark. Belli at el. (2022) [10.1145/3491418.3535130](https://doi.org/10.1145/3491418.3535130)
 - Kinetic modeling of neutral transport for a continuum gyrokinetic code. Bernard at el. (2022) [10.1063/5.0087131](https://doi.org/10.1063/5.0087131)
 - Improved multispecies Dougherty collision. Francisquez at el. (2022) [10.1017/S0022377822000289](https://doi.org/10.1017/S0022377822000289)
+- Turbulent broadening of electron heat-flux width in electromagnetic gyrokinetic simulations of a helical scrape-off layer model. Mandell at el. (2022) [10.1063/5.0082486](https://doi.org/10.1063/5.0082486)
 - Full-*f* electromagnetic gyrokinetic turbulence simulations of the edge and scrape-off layer of ASDEX Upgrade with GENE-X. Michels at el. (2022) [10.1063/5.0082413](https://doi.org/10.1063/5.0082413)
 - Kinetic interpretation of the classical Rayleigh-Taylor instability. Rodman at el. (2022) [10.1103/PhysRevE.105.065209](https://doi.org/10.1103/PhysRevE.105.065209)
 - Nonlinear gyrokinetic predictions of SPARC burning plasma profiles enabled by surrogate modeling. Rodriguez-Fernandez at el. (2022) [10.1088/1741-4326/ac64b2](https://doi.org/10.1088/1741-4326/ac64b2)
