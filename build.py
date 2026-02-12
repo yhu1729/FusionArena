@@ -224,7 +224,7 @@ def build_figure_publication(data):
     ]
     color_map = color_map[:len(score.keys())]
 
-    figure = pyplot.figure(figsize=(16, 24))
+    figure = pyplot.figure(figsize=(16, 28))
 
     ax = figure.add_subplot(2, 1, 1)
     ax.set_title('Total publications')
