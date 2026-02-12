@@ -127,3 +127,4 @@ DOI,Year,Tag,Title,Author
 10.1016/j.nme.2016.11.031,2017,SolEdge2D;EIRENE,Implementation of drift velocities and currents in SOLEDGE2D-EIRENE,Bufferand;Baudoin;Bucalossi;Ciraolo;Denis;Fedorczak;Galassi;Ghendrih;Leybros;Marandet;Mellet;Morales;Nace;Serre;Tamain;Valentinuzzi
 10.1063/5.0087131,2022,Gkeyll,Kinetic modeling of neutral transport for a continuum gyrokinetic code,Bernard;Halpern;Francisquez;Mandell;Juno;Hammett;Hakim;Wilkie;Guterl
 10.1063/5.0082486,2022,Gkeyll,Turbulent broadening of electron heat-flux width in electromagnetic gyrokinetic simulations of a helical scrape-off layer model,Mandell;Hammett;Hakim;Francisquez
+10.1063/5.0066064,2021,Gkeyll,Turbulent field fluctuations in gyrokinetic and fluid plasmas,Mathews;Mandell;Francisquez;Hughes;Hakim
