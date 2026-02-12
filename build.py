@@ -134,6 +134,7 @@ def build_figure_publications(data):
     score = {}
     score_partial_sum = {}
 
+    data = [entry for entry in data if entry['tag'] != ['']]
     for entry in data:
         if entry['year'] not in year_list:
             year_list.append(entry['year'])
