@@ -109,3 +109,4 @@ DOI,Year,Tag,Title,Author
 10.1088/1741-4326/addc7e,2025,GENE;CGYRO,Verification of fast ion and rotation effects on turbulence through comparison of GENE and CGYRO with L-mode plasmas in KSTAR,Kim;Moon;Sung;Yoon;Yi;Kang;Kwon;Görler;Belli;Candy
 10.1063/1.5018741,2018,GENE;CGYRO,Verification of GENE and GYRO with L-mode and I-mode plasmas in Alcator C-Mod,Mikkelsen;Howard;White;Creely
 10.1016/j.compfluid.2019.04.016,2019,CGYRO,Multiscale-optimized plasma turbulence simulation on petascale architectures,Candy;Sfiligoi;Belli;Hallatschek;Holland;Howard;D'Azevedo
+10.1088/1741-4326/adef68,2025,CGYRO,Gyrokinetic profile prediction and validation of a negative triangularity plasma in ASDEX Upgrade,Bielajew;Vanovac;Howard;Rodriguez-Fernandez;Aucone;Conway;Happel;Holland;Mantica;Schellpfeffer;Yoo;White;EUROfusion WPTE Team;ASDEX Upgrade Team
