@@ -76,6 +76,7 @@
 - A high-accuracy Eulerian gyrokinetic solver for collisional plasmas. Candy at el. (2016) [10.1016/j.jcp.2016.07.039](https://doi.org/10.1016/j.jcp.2016.07.039)
 - Verification of BOUT++ by the method of manufactured solutions. Dudson at el. (2016) [10.1063/1.4953429](https://doi.org/10.1063/1.4953429)
 - A 5D gyrokinetic full-*f* global semi-Lagrangian code for flux-driven ion turbulence simulations. Grandgirard at el. (2016) [10.1016/j.cpc.2016.05.007](https://doi.org/10.1016/j.cpc.2016.05.007)
+- Enhanced stabilisation of trapped electron modes by collisional energy scattering in tokamaks. Manas at el. (2015) [10.1063/1.4922754](https://doi.org/10.1063/1.4922754)
 - The new SOLPS-ITER code package. Wiesen at el. (2015) [10.1016/j.jnucmat.2014.10.012](https://doi.org/10.1016/j.jnucmat.2014.10.012)
 - BOUT++: Recent and current developments. Dudson at el. (2014) [10.1017/S0022377814000816](https://doi.org/10.1017/S0022377814000816)
 - Five-field simulations of peeling-ballooning modes using BOUT++ code. Xia and Xu (2013) [10.1063/1.4801006](https://doi.org/10.1063/1.4801006)
