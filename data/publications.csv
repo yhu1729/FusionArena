@@ -112,3 +112,4 @@ DOI,Year,Tag,Title,Author
 10.1088/1741-4326/adef68,2025,CGYRO,Gyrokinetic profile prediction and validation of a negative triangularity plasma in ASDEX Upgrade,Bielajew;Vanovac;Howard;Rodriguez-Fernandez;Aucone;Conway;Happel;Holland;Mantica;Schellpfeffer;Yoo;White;The EUROfusion WPTE Team;The ASDEX Upgrade Team
 10.1088/1361-6587/addb73,2025,CGYRO,Dynamic mode decomposition for gyrokinetic eigenmode analysis,Dudkovskaia;Candy;Belli;Yang
 10.1145/3626203.3670563,2024,CGYRO,The benefits of HBM memory for CPU-based fusion simulations,Sfiligoi;Belli;Candy
+10.1063/1.860870,1993,,A fully nonlinear characteristic method for gyrokinetic simulation,Parker;Lee
