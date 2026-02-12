@@ -92,6 +92,7 @@
   - GYSELA
 - An investigation of shock formation vs shock mitigation of colliding plasma jets. Cagas at el. (2023) [10.1063/5.0135389](https://doi.org/10.1063/5.0135389)
   - Gkeyll
+- Verification and accuracy check of simulations with PoPe and iPoPe. Cartier-Michaud at el. (2023) [10.1016/j.jcp.2022.111759](https://doi.org/10.1016/j.jcp.2022.111759)
 - Toward continuum gyrokinetic study of high-field mirrors. Francisquez at el. (2023) [10.1063/5.0152440](https://doi.org/10.1063/5.0152440)
   - Gkeyll
 - The problem of capturing marginality in model reductions of turbulence. Gillot at el. (2023) [10.1088/1361-6587/acc276](https://doi.org/10.1088/1361-6587/acc276)
@@ -116,8 +117,12 @@
   - CGYRO
 - Kinetic modeling of neutral transport for a continuum gyrokinetic code. Bernard at el. (2022) [10.1063/5.0087131](https://doi.org/10.1063/5.0087131)
   - Gkeyll
+- Transport barrier onset and edge turbulence shortfall in fusion plasmas. Dif-Pradalier at el. (2022) [10.1038/s42005-022-01004-z](https://doi.org/10.1038/s42005-022-01004-z)
+  - GYSELA, GKW
 - Improved multispecies Dougherty collision. Francisquez at el. (2022) [10.1017/S0022377822000289](https://doi.org/10.1017/S0022377822000289)
   - Gkeyll
+- Transport barrier in 5D gyrokinetic flux-driven simulations. Lo-Cascio at el. (2022) [10.1088/1741-4326/ac945d](https://doi.org/10.1088/1741-4326/ac945d)
+  - GYSELA
 - Turbulent broadening of electron heat-flux width in electromagnetic gyrokinetic simulations of a helical scrape-off layer model. Mandell at el. (2022) [10.1063/5.0082486](https://doi.org/10.1063/5.0082486)
   - Gkeyll
 - Full-*f* electromagnetic gyrokinetic turbulence simulations of the edge and scrape-off layer of ASDEX Upgrade with GENE-X. Michels at el. (2022) [10.1063/5.0082413](https://doi.org/10.1063/5.0082413)
@@ -126,6 +131,8 @@
   - Gkeyll
 - Nonlinear gyrokinetic predictions of SPARC burning plasma profiles enabled by surrogate modeling. Rodriguez-Fernandez at el. (2022) [10.1088/1741-4326/ac64b2](https://doi.org/10.1088/1741-4326/ac64b2)
   - CGYRO
+- Synergy of Turbulent Momentum Drive and Magnetic Braking. Varennes at el. (2022) [10.1103/physrevlett.128.255002](https://doi.org/10.1103/physrevlett.128.255002)
+  - GYSELA
 - Electron cyclotron drift instability and anomalous transport: two-fluid moment theory and modeling. Wang at el. (2022) [10.1088/1361-6595/ac90e7](https://doi.org/10.1088/1361-6595/ac90e7)
   - Gkeyll
 - A boundary value "reservoir problem" and boundary conditions for multi-moment multifluid simulations of sheaths. Cagas at el. (2021) [10.1063/5.0024510](https://doi.org/10.1063/5.0024510)

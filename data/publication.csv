@@ -158,3 +158,7 @@ DOI,Year,Code,Title,Author,Keyword
 10.1088/1361-6587/acb79a,2023,GYSELA;NEO,Impact of magnetic ripple on neoclassical equilibrium in gyrokinetic simulations,Varennes;Garbet;Vermare;Sarazin;Dif-Pradalier;Grandgirard;Ghendrih;Donnel;Peret;Obrejan;Bourne,
 10.1088/0741-3335/50/9/095010,2008,NEO,Kinetic calculation of neoclassical transport including self-consistent electron and impurity dynamics,Belli;Candy,
 10.1088/0741-3335/54/1/015015,2012,NEO,Full linearized Fokker-Planck collisions in neoclassical transport simulations,Belli;Candy,
+10.1016/j.jcp.2022.111759,2023,,Verification and accuracy check of simulations with PoPe and iPoPe,Cartier-Michaud;Ghendrih;Grandgirard;Serre,
+10.1088/1741-4326/ac945d,2022,GYSELA,Transport barrier in 5D gyrokinetic flux-driven simulations,Lo-Cascio;Gravier;Réveillé;Lesur;Sarazin;Garbet;Vermare;Lim;Guillevic;Grandgirard,
+10.1038/s42005-022-01004-z,2022,GYSELA;GKW,Transport barrier onset and edge turbulence shortfall in fusion plasmas,Dif-Pradalier;Ghendrih;Sarazin;Caschera;Clairet;Camenen;Donnel;Garbet;Grandgirard;Munschy;Vermare;Widmer,
+10.1103/physrevlett.128.255002,2022,GYSELA,Synergy of Turbulent Momentum Drive and Magnetic Braking,Varennes;Garbet;Vermare;Sarazin;Dif-Pradalier;Grandgirard;Ghendrih;Donnel;Peret;Obrejan;Bourne,
