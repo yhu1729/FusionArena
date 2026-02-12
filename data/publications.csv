@@ -1,140 +1,140 @@
-DOI,Year,Code,Title,Author
-10.1088/1741-4326/ae114a,2025,GENE-X,Turbulence and transport in spectrally accelerated full-*f* gyrokinetic simulations,Frei;Ulbl;Pitzal;Zholobenko;Jenko
-10.1145/3732775.3733587,2025,GENE-X,OpenACC and OpenMP-Accelerated Fortran/C++ Gyrokinetic Fusion Code GENE-X for Heterogeneous Architectures,Trilaksono;Ulbl;Williams;Pfeiler;Finkbeiner;Dannert;Laure;Markidis;Jenko
-10.1016/j.cpc.2025.109817,2025,GENE-X,Spectrally accelerated edge and scrape-off layer gyrokinetic turbulence simulations,Frei;Ulbl;Trilaksono;Jenko
-10.1088/1741-4326/adfd70,2025,GENE-X,Simulations of edge and SOL turbulence in diverted negative and positive triangularity plasmas,Ulbl;Stegmeir;Told;Merlo;Zhang;Jenko
-10.1063/5.0144688,2023,GENE-X,Influence of collisions on the validation of global gyrokinetic simulations in the edge and scrape-off layer of TCV,Ulbl;Body;Zholobenko;Stegmeir;Pfennig;Jenko
-10.1063/5.0082413,2022,GENE-X,Full-*f* electromagnetic gyrokinetic turbulence simulations of the edge and scrape-off layer of ASDEX Upgrade with GENE-X,Michels;Ulbl;Zholobenko;Body;Stegmeir;Eich;Griener;Conway;Jenko;The ASDEX Upgrade Team
-10.1016/j.cpc.2021.107986,2021,GENE-X,GENE-X: A full-*f* gyrokinetic turbulence code based on the flux-coordinate independent approach,Michels;Stegmeir;Ulbl;Jarema;Jenko
-10.1002/ctpp.202100180,2021,GENE-X,"Implementation and verification of a conservative, multi-species, gyro-averaged, full-*f*, Lenard-Bernstein/Dougherty collision operator in the gyrokinetic code GENE-X",Ulbl;Michels;Jenko
-10.1017/S0022377825100706,2025,Gkeyll,A parallel-kinetic-perpendicular-moment model for magnetised plasmas,June;Hakim;TenBarge
-10.1017/S0022377825100718,2025,Gkeyll,A moment-conserving discontinuous Galerkin representation of the relativistic Maxwellian distribution,Johnson;Hakim;Juno
-10.1038/s42256-024-00897-5,2024,Gkeyll,Weak baselines and reporting biases lead to overoptimism in machine learning for fluid-related partial differential equations,McGreivy;Hakim
-10.1016/j.cpc.2024.109109,2024,Gkeyll,Conservative discontinuous Galerkin interpolation: Sheared boundary conditions,Francisquez;Mandell;Hakim;Hammett
-10.1063/5.0024510,2021,Gkeyll,"A boundary value ""reservoir problem"" and boundary conditions for multi-moment multifluid simulations of sheaths",Cagas;Hakim;Srinivasan
-10.1016/j.jnucmat.2014.10.012,2015,SOLPS-ITER,The new SOLPS-ITER code package,Wiesen;Reiter;Kotov;Baelmans;Dekeyser;Kukushkin;Lisgo;Pitts;Rozhansky;Saibene;Veselova;Voskoboynikov
-10.1109/SC41405.2020.00077,2020,Gkeyll,"Alias-Free, Matrix-Free, and Quadrature-Free Discontinuous Galerkin Algorithms for (Plasma) Kinetic Equations",Hakim;Juno
-10.1016/j.cpc.2009.03.008,2009,BOUT++,BOUT++: A framework for parallel plasma fluid simulations,Dudson;Umansky;Xu;Snyder;Wilson
-10.1017/S0022377818000041,2018,GX,Laguerre-Hermite pseudo-spectral velocity formulation of gyrokinetics,Mandell;Dorland;Landreman
-10.1017/S0022377824000631,2024,GX,GX: a GPU-native gyrokinetic turbulence code for tokamak and stellarator design,Mandell;Dorland;Abel;Gaur;Kim;Martin;Qian
-10.1088/1741-4326/aba0c9,2020,Gkeyll,Conservative discontinuous Galerkin scheme of a gyro-averaged Dougherty collision operator,Francisquez;Bernard;Mandell;Hammett;Hakim
-10.1017/S0022377820000586,2020,Gkeyll,Conservative discontinuous Galerkin schemes for nonlinear Dougherty-Fokker-Planck collision operators,Hakim;Francisquez;Juno;Hammett
-10.1016/S0022-3115(06)80058-9,1992,UEDGE,"A fully implicit, time dependent 2-D fluid code for modeling tokamak edge plasmas",Rognlien;Milovich;Rensink;Porter
-10.1016/j.jcp.2020.109510,2020,Gkeyll,Exact and locally implicit source term solvers for multifluid-Maxwell systems,Wang;Hakim;Ng;Dong;Germaschewski
-10.1016/j.jcp.2019.109215,2020,Gkeyll,"Plasma-material boundary conditions for discontinuous Galerkin continuum-kinetic simulations, with a focus on secondary electron emission",Cagas;Hakim;Srinivasan
-10.1017/S0022377820000070,2020,Gkeyll,Electromagnetic full-*f* gyrokinetics in the tokamak edge with discontinuous Galerkin methods,Mandell;Hakim;Hammett;Francisquez
-10.1016/j.jcp.2017.10.009,2018,Gkeyll,Discontinuous Galerkin algorithms for fully kinetic plasmas,Juno;Hakim;TenBarge;Shi;Dorland
-10.1088/1741-4326/adff28,2025,Gkeyll,A kinetic line-driven radiation operator and its application to Gyrokinetics,Roeltgen;Juno;Kotschenreuther;Bernard;Shukla;Francisquez;Hakim;Hammett;Power;Hatch
-10.1063/5.0261942,2025,Gkeyll,General kinetic ion-induced electron emission model for metallic walls applied to biased Z-pinch electrodes,Skolar;Bradshaw;Francisquez;Murillo;Kumar;Srinivasan
-10.1063/5.0268104,2025,Gkeyll,Direct comparison of gyrokinetic and fluid scrape-off layer simulations,Shukla;Roeltgen;Kotschenreuther;Juno;Bernard;Hakim;Hammett;Hatch;Mahajan;Francisquez
-10.1063/5.0258265,2025,Gkeyll,Effects of oxidation and impurities in lithium surfaces on the emitting wall plasma sheath,Bradshaw;Hakim;Srinivasan
-10.1088/1361-6587/ad8186,2024,Gkeyll,Plasma edge and scrape-off layer turbulence in gyrokinetic simulations of negative triangularity plasmas,Bernard;Halpern;Francisquez;Hammett;Marinoni
-10.1063/5.0231200,2024,Gkeyll,The kinetic analog of the pressure-strain interaction,Conley;Juno;TenBarge;Barbhuiya;Cassak;Howes;Lichko
-10.3847/1538-4357/ad7c47,2024,Gkeyll,"Electron Influence on the Parallel Proton Firehose Instability in 10-moment, Multifluid Simulations",Walters;Klein;Lichko;Juno;TenBarge
-10.3847/1538-4357/ad5cf5,2024,Gkeyll,Scale Separation Effects on Simulations of Plasma Turbulence,Edyvean;Parashar;Simpson;Juno;Delzanno;Guo;Koshkarov;Matthaeus;Shay;Yang
-10.1016/0022-3115(94)00466-8,1995,UEDGE,Techniques and results of tokamak-edge simulation,Smith;Brown;Campbell;Knoll;McHugh;Rensink;Rognlien
-10.1063/1.873488,1999,UEDGE,Two-dimensional electric fields and drifts near the magnetic separatrix in divertor tokamaks,Rognlien;Ryutov;Mattor;Porter
-10.1088/1742-6596/78/1/012086,2007,UEDGE,"Introducing FACETS, the Framework Application for Core-Edge Transport Simulations",Cary;Candy;Cohen;Krasheninnikov;McCune;Estep;Larson;Malony;Worley;Carlsson;Hakim;Hamill;Kruger;Muzsala;Pletzer;Shasharina;Wade-Stein;Wang;McInnes;Wildey;Casper;Diachin;Epperly;Rognlien;Fahey;Kuehn;Morris;Shende;Feibush;Hammett;Indireshkumar;Ludescher;Randerson;Stotler;Pigarov;Bonoli;Chang;D'Ippolito;Colella;Keyes;Bramley;Myra
-10.1063/1.3693148,2012,UEDGE,Coupled core-edge simulations of H-mode buildup using the Fusion Application for Core-Edge Transport Simulations (FACETS) code,Hakim;Rognlien;Groebner;Carlsson;Cary;Kruger;Miah;Pankin;Pletzer;Shasharina;Vadlamani;Cohen;Epperly
-10.1088/1749-4699/5/1/014012,2012,UEDGE,Improving parallel scalability for edge plasma transport simulations with neutral gas species,McCourt;Rognlien;McInnes;Zhang
-10.1016/j.cpc.2018.03.003,2018,BOUT++,Calculation of two-dimension radial electric field in boundary plasmas by using BOUT++,Li;Xu;Rognlien;Gui;Sun;Wang
-10.1017/S0022377814000816,2014,BOUT++,BOUT++: Recent and current developments,Dudson;Allen;Breyiannis;Brugger;Buchanan;Easy;Farley;Joseph;Kim;McGann;Omotani;Umansky;Walkden;Xia;Xu
-10.1017/S002237782400045X,2024,BOUT++,Global fluid turbulence simulations in the scrape-off layer of a stellarator island divertor,Shanahan;Bold;Dudson
-10.1063/1.4801006,2013,BOUT++,Five-field simulations of peeling-ballooning modes using BOUT++ code,Xia;Xu
-10.1063/1.4953429,2016,BOUT++,Verification of BOUT++ by the method of manufactured solutions,Dudson;Madsen;Omotani;Hill;Easy;Løiten
-10.1016/j.cpc.2016.05.007,2016,GYSELA,A 5D gyrokinetic full-*f* global semi-Lagrangian code for flux-driven ion turbulence simulations,Grandgirard;Abiteboul;Bigot;Cartier-Michaud;Crouseilles;Dif-Pradalier;Ehrlacher;Esteve;Garbet;Ghendrih;Latu;Mehrenberger;Norscini;Passeron;Rozar;Sarazin;Sonnendrücker;Strugarek;Zarzoso
-10.1051/proc/201653015,2016,GYSELA,"An approach to increase reliability of HPC simulation, application to the Gysela5D code",Bigot;Latu;Cartier-Michaud;Grandgirard;Passeron;Rozar
-10.3847/1538-4357/ad3359,2024,Gkeyll,The Effect of Spatially Varying Collision Frequency on the Development of the Rayleigh-Taylor Instability,Rodman;Juno;Srinivasan
-10.3847/1538-4357/ad528f,2024,Gkeyll,Experimental Study of Alfvén Wave Reflection from an Alfvén-speed Gradient Relevant to the Solar Coronal Holes,Bose;TenBarge;Carter;Hahn;Ji;Juno;Savin;Tripathi;Vincena
-10.1088/1361-6595/ad331c,2024,Gkeyll,Energy-dependent implementation of secondary electron emission models in continuum kinetic sheath simulations,Bradshaw;Srinivasan
-10.1017/S0022377824000060,2024,Gkeyll,A two-dimensional numerical study of ion-acoustic turbulence,Liu;White;Francisquez;Milanese;Loureiro
-10.1063/5.0184710,2024,Gkeyll,Electron energization in reconnection: Eulerian vs Lagrangian perspectives,TenBarge;Juno;Howes
-10.1063/5.0160588,2023,Gkeyll,Effect of neutral interactions on parallel transport and blob dynamics in gyrokinetic scrape-off layer simulations,Bernard;Halpern;Francisquez;Juno;Mandell;Hammett;Hakim;Humble;Mukherjee
-10.1063/5.0152440,2023,Gkeyll,Toward continuum gyrokinetic study of high-field mirrors,Francisquez;Rosen;Mandell;Hakim;Forest;Hammett
-10.1063/5.0135389,2023,Gkeyll,An investigation of shock formation vs shock mitigation of colliding plasma jets,Cagas;Juno;Hakim;LaJoie;Chu;Langendorf;Srinivasan
-10.1063/5.0134656,2023,Gkeyll,Continuum kinetic investigation of the impact of bias potentials in the current saturation regime on sheath formation,Skolar;Bradshaw;Juno;Srinivasan
-10.3847/1538-4357/acaf53,2023,Gkeyll,Phase-space Energization of Ions in Oblique Shocks,Juno;Brown;Howes;Haggerty;TenBarge;Wilson;Caprioli;Klein
-10.1088/1361-6595/ac90e7,2022,Gkeyll,Electron cyclotron drift instability and anomalous transport: two-fluid moment theory and modeling,Wang;Hakim;Juno;Srinivasan
-10.1103/PhysRevE.105.065209,2022,Gkeyll,Kinetic interpretation of the classical Rayleigh-Taylor instability,Rodman;Cagas;Hakim;Srinivasan
-10.1017/S0022377822000289,2022,Gkeyll,Improved multispecies Dougherty collision,Francisquez;Juno;Hakim;Hammett;Ernst
-10.1063/1.5126884,2020,BOUT++,Simulations of divertor heat flux width using transport code with cross-field drifts under the BOUT++ framework,Li;Xu;Hughes;Terry;Sun;Wang
-10.1063/5.0270211,2025,BOUT++,The simulation of mode coupling during ELM crash by using BOUT++,Zhu;Xia;Huang
-10.1088/0029-5515/51/10/103040,2011,BOUT++,Nonlinear ELM simulations based on a nonideal peeling-ballooning model using the BOUT++ code,Xu;Dudson;Snyder;Umansky;Wilson;Casper
-10.1088/0029-5515/53/7/073009,2013,BOUT++,Six-field two-fluid simulations of peeling-ballooning modes using BOUT++,Xia;Xu;Xi
-10.1088/0741-3335/53/5/054005,2011,BOUT++,Simulation of edge localized modes using BOUT++,Dudson;Xu;Umansky;Wilson;Snyder
-10.1088/1741-4326/ab0184,2019,BOUT++,Prediction of divertor heat flux width for ITER using BOUT++ transport and turbulence module,Li;Xu;Li;Chan;Wang
-10.21105/joss.08582,2025,Gyselalib++,Gyselalib++: A Portable C++ Library for Semi-Lagrangian Kinetic and Gyrokinetic Simulations,Bourne;Grandgirard;Asahi;Bigot;Donnel;Hoffmann;Kara;Krah;Legouix;Malaboeuf;Munschy;Obrejan;Padioleau;Protais;Vidal
-10.1063/5.0274782,2025,GYSELA,Interplay between ion temperature gradient and parallel velocity gradient instabilities in cylindrical geometry: Water-bag vs 5D gyrokinetics,Rouyer;Lesur;Gravier;Garbet;Sarazin;Lim;Lo-Cascio
-10.1088/1741-4326/adc5ea,2025,GYSELA,Controlling impurity transport in 5D gyrokinetic simulations using a transport barrier,Lo-Cascio;Gravier;Lesur;Réveillé;Sarazin;Garbet;Lim;Rouyer;Guillevic
-10.1088/1361-6587/adb519,2025,GYSELA,Investigation of the sheared flows and staircases with a full-wave 2D synthetic diagnostic FeDoT,Glasser;Clairet;Hacquin;Dif-Pradalier
-10.1088/1741-4326/adb2a4,2025,GYSELA,Effect of modulated heat source on diffusive and avalanche-like transport,Cho;Garbet;Varennes;Qu;Donnel;Obrejan;Grandgirard
-10.1088/1361-6587/ad1653,2023,GYSELA,Safety factor influence on the edge *E×B* velocity establishment in tokamak plasmas,Varennes;Vermare;Garbet;Hennequin;Dif-Pradalier;Sarazin;Grandgirard;Panico;Donnel;Obrejan
-10.1063/5.0157428,2023,GYSELA,Self-consistent gyrokinetic modeling of turbulent and neoclassical tungsten transport in toroidally rotating plasmas,Lim;Garbet;Sarazin;Gravier;Lesur;Lo-Cascio;Rouyer
-10.1063/5.0209752,2024,CGYRO,Core performance predictions in projected SPARC first-campaign plasmas with nonlinear CGYRO,Rodriguez-Fernandez;Howard;Saltzman;Shoji;Body;Battaglia;Hughes;Candy;Staebler;Creely
-10.1088/1741-4326/ac64b2,2022,CGYRO,Nonlinear gyrokinetic predictions of SPARC burning plasma profiles enabled by surrogate modeling,Rodriguez-Fernandez;Howard;Candy
-10.1016/j.jcp.2016.07.039,2016,CGYRO,A high-accuracy Eulerian gyrokinetic solver for collisional plasmas,Candy;Belli;Bravenec
-10.1145/3750720.375730,2025,CGYRO,Minimizing CGYRO HPC Communication Costs in Ensembles with XGYRO by Sharing the Collisional Constant Tensor Structure,Sfiligoi;Belli;Candy
-10.1063/1.3155085,2009,GS2,Linearized model Fokker-Planck collision operators for gyrokinetic simulations. II. Numerical implementation and tests,Barnes;Abel;Dorland;Ernst;Hammett;Ricci;Rogers;Schekochihin;Tatsuno
-10.1016/0010-4655(95)00035-E,1995,GS2,Comparison of initial value and eigenvalue codes for kinetic toroidal plasma instabilities,Kotschenreuther;Rewoldt;Tang
-10.1007/978-3-030-02465-9_24,2019,CGYRO,CGYRO Performance on Power9 CPUs and Volta GPUs,Sfiligoi;Candy;Kostuk
-10.1063/5.0270873,2025,CGYRO,Analysis of the impact of parallel magnetic fluctuations on linear gyrokinetic stability in NSTX-U and verification of gyro-fluid models,Kinsey;Staebler;Belli;Candy
-10.1063/5.0302522,2026,CGYRO,Benchmarking core turbulence and transport predictions for an inductive compact tokamak reactor plasma,Holland;Rodriguez-Fernandez;Howard;Bass;Slendebroek
-10.1063/5.0043006,2021,CGYRO;GEM;GENE,Gyrokinetic benchmark of the electron temperature-gradient instability in the pedestal region,Hassan;Hatch;Guttenfelder;Chen;Parker
-10.1016/j.jcp.2006.05.028,2007,GEM,Electromagnetic gyrokinetic *δf* particle-in-cell turbulence simulation with realistic equilibrium profiles and geometry,Chen;Parker
-10.1016/j.jcp.2011.05.034,2011,GENE,The global version of the gyrokinetic turbulence code GENE,Görler;Lapillonne;Brunner;Dannert;Jenko;Merz;Told
-10.1063/1.874014,2000,GENE,Electron temperature gradient driven turbulence,Jenko;Dorland;Kotschenreuther;Rogers
-10.1088/0029-5515/50/4/043002,2010,GTC;GT3D;ORB5;PG3EQ;GTS,Gyrokinetic simulations of turbulent transport,Garbet;Idomura;Villard;Watanabe
-10.1126/science.281.5384.1835,1998,GTC,Turbulent Transport Reduction by Zonal Flows: Massively Parallel Simulations,Lin;Hahm;Lee;Tang;White
-10.1088/0029-5515/43/4/303,2003,GT3D,Global gyrokinetic simulation of ion temperature gradient driven turbulence in plasmas using a canonical Maxwellian distribution,Idomura;Tokuda;Kishimoto
-10.1016/j.cpc.2007.04.006,2007,ORB5,A global collisionless PIC code in magnetic coordinates,Jolliet;Bottino;Angelino;Hatzky;Tran;Mcmillan;Sauter;Appert;Idomura;Villard
-10.1103/PhysRevLett.77.71,1996,PG3EQ,Scalings of Ion-Temperature-Gradient-Driven Anomalous Transport in Tokamaks,Dimits;Williams;Byers;Cohen
-10.1063/1.2750647,2007,GTS,Nonlocal properties of gyrokinetic turbulence and the role of *E×B* flow shear,Wang;Hahm;Lee;Rewoldt;Manickam;Tang
-10.1103/PhysRevLett.85.5579,2000,GS2,Electron Temperature Gradient Turbulence,Dorland;Jenko;Kotschenreuther;Rogers
-10.1016/S0021-9991(03)00079-2,2003,GYRO,An Eulerian gyrokinetic-Maxwell solver,Candy;Waltz
-10.1088/0029-5515/46/1/003,2006,GKV,Velocity-space structures of distribution function in toroidal ion temperature gradient turbulence,Watanabe;Sugama
-10.1063/1.1762876,2004,GKW,The effect of a uniform radial electric field on the toroidal ion temperature gradient mode,Peeters;Strintzi
-10.1088/0029-5515/49/6/065029,2009,GT5D,Study of ion turbulent transport and profile formations using global gyrokinetic full-*f* Vlasov simulation,Idomura;Urano;Aiba;Tokuda
-10.1016/j.cpc.2008.04.005,2008,GT5D,Conservative global gyrokinetic toroidal full-*f* five-dimensional Vlasov simulation,Idomura;Ida;Kano;Aiba;Tokuda
-10.1016/j.jcp.2008.02.013,2008,ELMFIRE,Full *f* gyrokinetic method for particle simulation of tokamak transport,Heikkinen;Janhunen;Kiviniemi;Ogando
-10.1063/1.866332,1987,FULL,Collisional effects on kinetic electromagnetic modes and associated quasilinear transport,Rewoldt;Tang;Hastie
-10.1016/j.cpc.2007.06.017,2007,GTC;GT3D;FULL,Linear comparison of gyrokinetic codes with trapped electrons,Rewoldt;Lin;Idomura
-10.1088/0741-3335/47/2/R01,2005,HYM;GTC;GYRO;GS2;TORIC;GKV,Advances and challenges in computational plasma science,Tang;Chan
-10.1063/1.1666293,2004,HYM,Kinetic effects on the stability properties of field-reversed configurations. II. Nonlinear evolution,Belova;Davidson;Ji;Yamada
-10.1088/0029-5515/28/10/010,1988,TORIC,Numerical simulation of ion cyclotron heating of hot tokamak plasmas,Brambilla;Krücken
-10.1088/0741-3335/41/1/002,1999,TORIC,Numerical simulation of ion cyclotron waves in tokamak plasmas,Brambilla
-10.1088/0029-5515/33/2/I01,1993,PICES,Influence of various physics phenomena on fast wave current drive in tokamaks,Jaeger;Batchelor;Stallings
-10.1016/j.crhy.2006.06.007,2006,,Kinetic simulations of turbulent fusion plasmas,Idomura;Watanabe;Sugama
-10.1088/0741-3335/46/12B/005,2004,GT3D;ORB5,First principles based simulations of instabilities and turbulence,Villard;Angelino;Bottino;Allfrey;Hatzky;Idomura;Sauter;Tran
-10.1088/0741-3335/38/12A/021,1996,,Fluctuation-induced heat transport results from a large global 3D toroidal particle simulation model,Sydora;Decyk;Dawson
-10.1088/1741-4326/addc7e,2025,GENE;CGYRO,Verification of fast ion and rotation effects on turbulence through comparison of GENE and CGYRO with L-mode plasmas in KSTAR,Kim;Moon;Sung;Yoon;Yi;Kang;Kwon;Görler;Belli;Candy
-10.1063/1.5018741,2018,GENE;CGYRO,Verification of GENE and GYRO with L-mode and I-mode plasmas in Alcator C-Mod,Mikkelsen;Howard;White;Creely
-10.1016/j.compfluid.2019.04.016,2019,CGYRO,Multiscale-optimized plasma turbulence simulation on petascale architectures,Candy;Sfiligoi;Belli;Hallatschek;Holland;Howard;D'Azevedo
-10.1088/1741-4326/adef68,2025,CGYRO,Gyrokinetic profile prediction and validation of a negative triangularity plasma in ASDEX Upgrade,Bielajew;Vanovac;Howard;Rodriguez-Fernandez;Aucone;Conway;Happel;Holland;Mantica;Schellpfeffer;Yoo;White;The EUROfusion WPTE Team;The ASDEX Upgrade Team
-10.1088/1361-6587/addb73,2025,CGYRO,Dynamic mode decomposition for gyrokinetic eigenmode analysis,Dudkovskaia;Candy;Belli;Yang
-10.1145/3626203.3670563,2024,CGYRO,The benefits of HBM memory for CPU-based fusion simulations,Sfiligoi;Belli;Candy
-10.1063/1.860870,1993,,A fully nonlinear characteristic method for gyrokinetic simulation,Parker;Lee
-10.1063/1.4922754,2015,GKW,Enhanced stabilisation of trapped electron modes by collisional energy scattering in tokamaks,Manas;Camenen;Benkadda;Hornsby;Peeters
-10.1016/j.cpc.2009.07.001,2009,GKW,The nonlinear gyro-kinetic flux tube code GKW,Peeters;Camenen;Hornsby;Snodin;Strintzi;Szepesi
-10.1103/PhysRevLett.98.265003,2007,GKW,Toroidal Momentum Pinch Velocity due to the Coriolis Drift Effect on Small Scale Instabilities in a Toroidal Plasma,Peeters;Angioni;Strintzi
-10.1145/3569951.3597545,2023,CGYRO,Optimization and Portability of a Fusion OpenACC-based FORTRAN HPC Code from NVIDIA to AMD GPUs,Sfiligoi;Belli;Candy;Budiardja
-10.1145/3491418.3535130,2022,CGYRO,Comparing single-node and multi-node performance of an important fusion HPC code benchmark,Belli;Candy;Sfiligoi;Würthwein;
-10.1088/1741-4326/ad4d01,2024,CGYRO,Predictive modeling of NSTX discharges with the updated multi-mode anomalous transport module,Rafiq;Wilson;Clauser;Schuster;Weiland;Anderson;Kaye;Pankin;LeBlanc;Bell
-10.1063/5.0159054,2023,CGYRO,A flexible gyro-fluid system of equations,Staebler;Belli;Candy
-10.1063/1.4821982,2013,GEM,Benchmarking gyrokinetic simulations in a toroidal flux-tube,Chen;Parker;Wan;Bravenec
-10.1088/0029-5515/55/5/053025,2015,SolEdge2D;EIRENE,Numerical modelling for divertor design of the WEST device with a focus on plasma-wall interactions,Bufferand;Ciraolo;Marandet;Bucalossi;Ghendrih;Gunn;Mellet;Tamain;Leybros;Fedorczak;Schwander;Serre
-10.1016/j.nme.2018.11.026,2019,SolEdge2D;EIRENE,Application of a two-fluid two-point model to SolEdge2D-EIRENE simulations of TCV H-mode plasma,Nespoli;Bufferand;Valentinuzzi;Fedorczak;Ciraolo;Serre;Marandet;De Oliveira;Labit;Komm;Faitsch;Elmore;The TCV team;The EUROfusion MST1 team
-10.1088/1741-4326/ada048,2025,SOLPS-ITER;SolEdge2D;UEDGE,"Cross-code comparison of the edge codes SOLPS-ITER, SOLEDGE2D and UEDGE in modelling a high-power neon-seeded scenario in the DTT",Moscheni;Wigram;Wu;Meineri;Carati;Marchi;Greenwald;Innocente;LaBombard;Subba;Zanino
-10.1016/j.nme.2016.11.031,2017,SolEdge2D;EIRENE,Implementation of drift velocities and currents in SOLEDGE2D-EIRENE,Bufferand;Baudoin;Bucalossi;Ciraolo;Denis;Fedorczak;Galassi;Ghendrih;Leybros;Marandet;Mellet;Morales;Nace;Serre;Tamain;Valentinuzzi
-10.1063/5.0087131,2022,Gkeyll,Kinetic modeling of neutral transport for a continuum gyrokinetic code,Bernard;Halpern;Francisquez;Mandell;Juno;Hammett;Hakim;Wilkie;Guterl
-10.1063/5.0082486,2022,Gkeyll,Turbulent broadening of electron heat-flux width in electromagnetic gyrokinetic simulations of a helical scrape-off layer model,Mandell;Hammett;Hakim;Francisquez
-10.1063/5.0066064,2021,Gkeyll,Turbulent field fluctuations in gyrokinetic and fluid plasmas,Mathews;Mandell;Francisquez;Hughes;Hakim
-10.1038/s41598-021-95652-w,2021,Gkeyll,Ultrafast electron holes in plasma phase space dynamics,Jenab;Brodin;Juno;Kourakis
-10.1017/S0022377821000623,2021,Gkeyll,A field-particle correlation analysis of a perpendicular magnetized collisionless shock,Juno;Howes;TenBarge;Wilson;Spitkovsky;Caprioli;Klein;Hakim
-10.1063/5.0005333,2020,GDB;Gekyll,"Fluid and gyrokinetic turbulence in open field-line, helical plasmas",Francisquez;Bernard;Zhu;Hakim;Rogers;Hammett
-10.1016/j.jcp.2016.05.038,2016,TOKAM3X,The TOKAM3X code for edge turbulence fluid simulations of tokamak plasmas in versatile magnetic geometries,Tamain;Bufferand;Ciraolo;Colin;Galassi;Ghendrih;Schwander;Serre
-10.1016/j.jcp.2016.03.040,2016,GBS,The GBS code for tokamak scrape-off layer simulations,Halpern;Ricci;Jolliet;Loizu;Morales;Mosetto;Musil;Riva;Tran;Wersal
-10.1088/1361-6587/aaa373,2018,GRILLIX,GRILLIX: a 3D turbulence code based on the flux-coordinate independent approach,Stegmeir;Coster;Ross;Maj;Lackner;Poli
-10.1016/j.cpc.2018.06.002,2018,GDB,GDB: A global 3D two-fluid model of plasma turbulence and transport in the tokamak edge,Zhu;Francisquez;Rogers
-10.1088/1741-4326/aa7efb,2017,XGC1,Gyrokinetic projection of the divertor heat-flux width from present tokamaks to ITER,Chang;Ku;Loarte;Parail;Köchl;Romanelli;Maingi;Ahn;Gray;Hughes;LaBombard;Leonard;Makowski;Terry
-10.1002/ctpp.201900117,2019,PICLS,Collisional gyrokinetic full-f particle-in-cell simulations on open field lines with PICLS,Boesl;Bergmann;Bottino;Brunner;Coster;Jenko
-10.1063/1.4943106,2016,COGENT,Continuum kinetic modeling of the tokamak plasma edge,Dorf;Dorr;Hittinger;Cohen;Rognlien
+DOI,Year,Code,Title,Author,Keyword
+10.1088/1741-4326/ae114a,2025,GENE-X,Turbulence and transport in spectrally accelerated full-*f* gyrokinetic simulations,Frei;Ulbl;Pitzal;Zholobenko;Jenko,
+10.1145/3732775.3733587,2025,GENE-X,OpenACC and OpenMP-Accelerated Fortran/C++ Gyrokinetic Fusion Code GENE-X for Heterogeneous Architectures,Trilaksono;Ulbl;Williams;Pfeiler;Finkbeiner;Dannert;Laure;Markidis;Jenko,
+10.1016/j.cpc.2025.109817,2025,GENE-X,Spectrally accelerated edge and scrape-off layer gyrokinetic turbulence simulations,Frei;Ulbl;Trilaksono;Jenko,
+10.1088/1741-4326/adfd70,2025,GENE-X,Simulations of edge and SOL turbulence in diverted negative and positive triangularity plasmas,Ulbl;Stegmeir;Told;Merlo;Zhang;Jenko,
+10.1063/5.0144688,2023,GENE-X,Influence of collisions on the validation of global gyrokinetic simulations in the edge and scrape-off layer of TCV,Ulbl;Body;Zholobenko;Stegmeir;Pfennig;Jenko,
+10.1063/5.0082413,2022,GENE-X,Full-*f* electromagnetic gyrokinetic turbulence simulations of the edge and scrape-off layer of ASDEX Upgrade with GENE-X,Michels;Ulbl;Zholobenko;Body;Stegmeir;Eich;Griener;Conway;Jenko;The ASDEX Upgrade Team,
+10.1016/j.cpc.2021.107986,2021,GENE-X,GENE-X: A full-*f* gyrokinetic turbulence code based on the flux-coordinate independent approach,Michels;Stegmeir;Ulbl;Jarema;Jenko,
+10.1002/ctpp.202100180,2021,GENE-X,"Implementation and verification of a conservative, multi-species, gyro-averaged, full-*f*, Lenard-Bernstein/Dougherty collision operator in the gyrokinetic code GENE-X",Ulbl;Michels;Jenko,
+10.1017/S0022377825100706,2025,Gkeyll,A parallel-kinetic-perpendicular-moment model for magnetised plasmas,June;Hakim;TenBarge,
+10.1017/S0022377825100718,2025,Gkeyll,A moment-conserving discontinuous Galerkin representation of the relativistic Maxwellian distribution,Johnson;Hakim;Juno,
+10.1038/s42256-024-00897-5,2024,Gkeyll,Weak baselines and reporting biases lead to overoptimism in machine learning for fluid-related partial differential equations,McGreivy;Hakim,
+10.1016/j.cpc.2024.109109,2024,Gkeyll,Conservative discontinuous Galerkin interpolation: Sheared boundary conditions,Francisquez;Mandell;Hakim;Hammett,
+10.1063/5.0024510,2021,Gkeyll,"A boundary value ""reservoir problem"" and boundary conditions for multi-moment multifluid simulations of sheaths",Cagas;Hakim;Srinivasan,
+10.1016/j.jnucmat.2014.10.012,2015,SOLPS-ITER,The new SOLPS-ITER code package,Wiesen;Reiter;Kotov;Baelmans;Dekeyser;Kukushkin;Lisgo;Pitts;Rozhansky;Saibene;Veselova;Voskoboynikov,
+10.1109/SC41405.2020.00077,2020,Gkeyll,"Alias-Free, Matrix-Free, and Quadrature-Free Discontinuous Galerkin Algorithms for (Plasma) Kinetic Equations",Hakim;Juno,
+10.1016/j.cpc.2009.03.008,2009,BOUT++,BOUT++: A framework for parallel plasma fluid simulations,Dudson;Umansky;Xu;Snyder;Wilson,
+10.1017/S0022377818000041,2018,GX,Laguerre-Hermite pseudo-spectral velocity formulation of gyrokinetics,Mandell;Dorland;Landreman,
+10.1017/S0022377824000631,2024,GX,GX: a GPU-native gyrokinetic turbulence code for tokamak and stellarator design,Mandell;Dorland;Abel;Gaur;Kim;Martin;Qian,
+10.1088/1741-4326/aba0c9,2020,Gkeyll,Conservative discontinuous Galerkin scheme of a gyro-averaged Dougherty collision operator,Francisquez;Bernard;Mandell;Hammett;Hakim,
+10.1017/S0022377820000586,2020,Gkeyll,Conservative discontinuous Galerkin schemes for nonlinear Dougherty-Fokker-Planck collision operators,Hakim;Francisquez;Juno;Hammett,
+10.1016/S0022-3115(06)80058-9,1992,UEDGE,"A fully implicit, time dependent 2-D fluid code for modeling tokamak edge plasmas",Rognlien;Milovich;Rensink;Porter,
+10.1016/j.jcp.2020.109510,2020,Gkeyll,Exact and locally implicit source term solvers for multifluid-Maxwell systems,Wang;Hakim;Ng;Dong;Germaschewski,
+10.1016/j.jcp.2019.109215,2020,Gkeyll,"Plasma-material boundary conditions for discontinuous Galerkin continuum-kinetic simulations, with a focus on secondary electron emission",Cagas;Hakim;Srinivasan,
+10.1017/S0022377820000070,2020,Gkeyll,Electromagnetic full-*f* gyrokinetics in the tokamak edge with discontinuous Galerkin methods,Mandell;Hakim;Hammett;Francisquez,
+10.1016/j.jcp.2017.10.009,2018,Gkeyll,Discontinuous Galerkin algorithms for fully kinetic plasmas,Juno;Hakim;TenBarge;Shi;Dorland,
+10.1088/1741-4326/adff28,2025,Gkeyll,A kinetic line-driven radiation operator and its application to Gyrokinetics,Roeltgen;Juno;Kotschenreuther;Bernard;Shukla;Francisquez;Hakim;Hammett;Power;Hatch,
+10.1063/5.0261942,2025,Gkeyll,General kinetic ion-induced electron emission model for metallic walls applied to biased Z-pinch electrodes,Skolar;Bradshaw;Francisquez;Murillo;Kumar;Srinivasan,
+10.1063/5.0268104,2025,Gkeyll,Direct comparison of gyrokinetic and fluid scrape-off layer simulations,Shukla;Roeltgen;Kotschenreuther;Juno;Bernard;Hakim;Hammett;Hatch;Mahajan;Francisquez,
+10.1063/5.0258265,2025,Gkeyll,Effects of oxidation and impurities in lithium surfaces on the emitting wall plasma sheath,Bradshaw;Hakim;Srinivasan,
+10.1088/1361-6587/ad8186,2024,Gkeyll,Plasma edge and scrape-off layer turbulence in gyrokinetic simulations of negative triangularity plasmas,Bernard;Halpern;Francisquez;Hammett;Marinoni,
+10.1063/5.0231200,2024,Gkeyll,The kinetic analog of the pressure-strain interaction,Conley;Juno;TenBarge;Barbhuiya;Cassak;Howes;Lichko,
+10.3847/1538-4357/ad7c47,2024,Gkeyll,"Electron Influence on the Parallel Proton Firehose Instability in 10-moment, Multifluid Simulations",Walters;Klein;Lichko;Juno;TenBarge,
+10.3847/1538-4357/ad5cf5,2024,Gkeyll,Scale Separation Effects on Simulations of Plasma Turbulence,Edyvean;Parashar;Simpson;Juno;Delzanno;Guo;Koshkarov;Matthaeus;Shay;Yang,
+10.1016/0022-3115(94)00466-8,1995,UEDGE,Techniques and results of tokamak-edge simulation,Smith;Brown;Campbell;Knoll;McHugh;Rensink;Rognlien,
+10.1063/1.873488,1999,UEDGE,Two-dimensional electric fields and drifts near the magnetic separatrix in divertor tokamaks,Rognlien;Ryutov;Mattor;Porter,
+10.1088/1742-6596/78/1/012086,2007,UEDGE,"Introducing FACETS, the Framework Application for Core-Edge Transport Simulations",Cary;Candy;Cohen;Krasheninnikov;McCune;Estep;Larson;Malony;Worley;Carlsson;Hakim;Hamill;Kruger;Muzsala;Pletzer;Shasharina;Wade-Stein;Wang;McInnes;Wildey;Casper;Diachin;Epperly;Rognlien;Fahey;Kuehn;Morris;Shende;Feibush;Hammett;Indireshkumar;Ludescher;Randerson;Stotler;Pigarov;Bonoli;Chang;D'Ippolito;Colella;Keyes;Bramley;Myra,
+10.1063/1.3693148,2012,UEDGE,Coupled core-edge simulations of H-mode buildup using the Fusion Application for Core-Edge Transport Simulations (FACETS) code,Hakim;Rognlien;Groebner;Carlsson;Cary;Kruger;Miah;Pankin;Pletzer;Shasharina;Vadlamani;Cohen;Epperly,
+10.1088/1749-4699/5/1/014012,2012,UEDGE,Improving parallel scalability for edge plasma transport simulations with neutral gas species,McCourt;Rognlien;McInnes;Zhang,
+10.1016/j.cpc.2018.03.003,2018,BOUT++,Calculation of two-dimension radial electric field in boundary plasmas by using BOUT++,Li;Xu;Rognlien;Gui;Sun;Wang,
+10.1017/S0022377814000816,2014,BOUT++,BOUT++: Recent and current developments,Dudson;Allen;Breyiannis;Brugger;Buchanan;Easy;Farley;Joseph;Kim;McGann;Omotani;Umansky;Walkden;Xia;Xu,
+10.1017/S002237782400045X,2024,BOUT++,Global fluid turbulence simulations in the scrape-off layer of a stellarator island divertor,Shanahan;Bold;Dudson,
+10.1063/1.4801006,2013,BOUT++,Five-field simulations of peeling-ballooning modes using BOUT++ code,Xia;Xu,
+10.1063/1.4953429,2016,BOUT++,Verification of BOUT++ by the method of manufactured solutions,Dudson;Madsen;Omotani;Hill;Easy;Løiten,
+10.1016/j.cpc.2016.05.007,2016,GYSELA,A 5D gyrokinetic full-*f* global semi-Lagrangian code for flux-driven ion turbulence simulations,Grandgirard;Abiteboul;Bigot;Cartier-Michaud;Crouseilles;Dif-Pradalier;Ehrlacher;Esteve;Garbet;Ghendrih;Latu;Mehrenberger;Norscini;Passeron;Rozar;Sarazin;Sonnendrücker;Strugarek;Zarzoso,
+10.1051/proc/201653015,2016,GYSELA,"An approach to increase reliability of HPC simulation, application to the Gysela5D code",Bigot;Latu;Cartier-Michaud;Grandgirard;Passeron;Rozar,
+10.3847/1538-4357/ad3359,2024,Gkeyll,The Effect of Spatially Varying Collision Frequency on the Development of the Rayleigh-Taylor Instability,Rodman;Juno;Srinivasan,
+10.3847/1538-4357/ad528f,2024,Gkeyll,Experimental Study of Alfvén Wave Reflection from an Alfvén-speed Gradient Relevant to the Solar Coronal Holes,Bose;TenBarge;Carter;Hahn;Ji;Juno;Savin;Tripathi;Vincena,
+10.1088/1361-6595/ad331c,2024,Gkeyll,Energy-dependent implementation of secondary electron emission models in continuum kinetic sheath simulations,Bradshaw;Srinivasan,
+10.1017/S0022377824000060,2024,Gkeyll,A two-dimensional numerical study of ion-acoustic turbulence,Liu;White;Francisquez;Milanese;Loureiro,
+10.1063/5.0184710,2024,Gkeyll,Electron energization in reconnection: Eulerian vs Lagrangian perspectives,TenBarge;Juno;Howes,
+10.1063/5.0160588,2023,Gkeyll,Effect of neutral interactions on parallel transport and blob dynamics in gyrokinetic scrape-off layer simulations,Bernard;Halpern;Francisquez;Juno;Mandell;Hammett;Hakim;Humble;Mukherjee,
+10.1063/5.0152440,2023,Gkeyll,Toward continuum gyrokinetic study of high-field mirrors,Francisquez;Rosen;Mandell;Hakim;Forest;Hammett,
+10.1063/5.0135389,2023,Gkeyll,An investigation of shock formation vs shock mitigation of colliding plasma jets,Cagas;Juno;Hakim;LaJoie;Chu;Langendorf;Srinivasan,
+10.1063/5.0134656,2023,Gkeyll,Continuum kinetic investigation of the impact of bias potentials in the current saturation regime on sheath formation,Skolar;Bradshaw;Juno;Srinivasan,
+10.3847/1538-4357/acaf53,2023,Gkeyll,Phase-space Energization of Ions in Oblique Shocks,Juno;Brown;Howes;Haggerty;TenBarge;Wilson;Caprioli;Klein,
+10.1088/1361-6595/ac90e7,2022,Gkeyll,Electron cyclotron drift instability and anomalous transport: two-fluid moment theory and modeling,Wang;Hakim;Juno;Srinivasan,
+10.1103/PhysRevE.105.065209,2022,Gkeyll,Kinetic interpretation of the classical Rayleigh-Taylor instability,Rodman;Cagas;Hakim;Srinivasan,
+10.1017/S0022377822000289,2022,Gkeyll,Improved multispecies Dougherty collision,Francisquez;Juno;Hakim;Hammett;Ernst,
+10.1063/1.5126884,2020,BOUT++,Simulations of divertor heat flux width using transport code with cross-field drifts under the BOUT++ framework,Li;Xu;Hughes;Terry;Sun;Wang,
+10.1063/5.0270211,2025,BOUT++,The simulation of mode coupling during ELM crash by using BOUT++,Zhu;Xia;Huang,
+10.1088/0029-5515/51/10/103040,2011,BOUT++,Nonlinear ELM simulations based on a nonideal peeling-ballooning model using the BOUT++ code,Xu;Dudson;Snyder;Umansky;Wilson;Casper,
+10.1088/0029-5515/53/7/073009,2013,BOUT++,Six-field two-fluid simulations of peeling-ballooning modes using BOUT++,Xia;Xu;Xi,
+10.1088/0741-3335/53/5/054005,2011,BOUT++,Simulation of edge localized modes using BOUT++,Dudson;Xu;Umansky;Wilson;Snyder,
+10.1088/1741-4326/ab0184,2019,BOUT++,Prediction of divertor heat flux width for ITER using BOUT++ transport and turbulence module,Li;Xu;Li;Chan;Wang,
+10.21105/joss.08582,2025,Gyselalib++,Gyselalib++: A Portable C++ Library for Semi-Lagrangian Kinetic and Gyrokinetic Simulations,Bourne;Grandgirard;Asahi;Bigot;Donnel;Hoffmann;Kara;Krah;Legouix;Malaboeuf;Munschy;Obrejan;Padioleau;Protais;Vidal,
+10.1063/5.0274782,2025,GYSELA,Interplay between ion temperature gradient and parallel velocity gradient instabilities in cylindrical geometry: Water-bag vs 5D gyrokinetics,Rouyer;Lesur;Gravier;Garbet;Sarazin;Lim;Lo-Cascio,
+10.1088/1741-4326/adc5ea,2025,GYSELA,Controlling impurity transport in 5D gyrokinetic simulations using a transport barrier,Lo-Cascio;Gravier;Lesur;Réveillé;Sarazin;Garbet;Lim;Rouyer;Guillevic,
+10.1088/1361-6587/adb519,2025,GYSELA,Investigation of the sheared flows and staircases with a full-wave 2D synthetic diagnostic FeDoT,Glasser;Clairet;Hacquin;Dif-Pradalier,
+10.1088/1741-4326/adb2a4,2025,GYSELA,Effect of modulated heat source on diffusive and avalanche-like transport,Cho;Garbet;Varennes;Qu;Donnel;Obrejan;Grandgirard,
+10.1088/1361-6587/ad1653,2023,GYSELA,Safety factor influence on the edge *E×B* velocity establishment in tokamak plasmas,Varennes;Vermare;Garbet;Hennequin;Dif-Pradalier;Sarazin;Grandgirard;Panico;Donnel;Obrejan,
+10.1063/5.0157428,2023,GYSELA,Self-consistent gyrokinetic modeling of turbulent and neoclassical tungsten transport in toroidally rotating plasmas,Lim;Garbet;Sarazin;Gravier;Lesur;Lo-Cascio;Rouyer,
+10.1063/5.0209752,2024,CGYRO,Core performance predictions in projected SPARC first-campaign plasmas with nonlinear CGYRO,Rodriguez-Fernandez;Howard;Saltzman;Shoji;Body;Battaglia;Hughes;Candy;Staebler;Creely,
+10.1088/1741-4326/ac64b2,2022,CGYRO,Nonlinear gyrokinetic predictions of SPARC burning plasma profiles enabled by surrogate modeling,Rodriguez-Fernandez;Howard;Candy,
+10.1016/j.jcp.2016.07.039,2016,CGYRO,A high-accuracy Eulerian gyrokinetic solver for collisional plasmas,Candy;Belli;Bravenec,
+10.1145/3750720.375730,2025,CGYRO,Minimizing CGYRO HPC Communication Costs in Ensembles with XGYRO by Sharing the Collisional Constant Tensor Structure,Sfiligoi;Belli;Candy,
+10.1063/1.3155085,2009,GS2,Linearized model Fokker-Planck collision operators for gyrokinetic simulations. II. Numerical implementation and tests,Barnes;Abel;Dorland;Ernst;Hammett;Ricci;Rogers;Schekochihin;Tatsuno,
+10.1016/0010-4655(95)00035-E,1995,GS2,Comparison of initial value and eigenvalue codes for kinetic toroidal plasma instabilities,Kotschenreuther;Rewoldt;Tang,
+10.1007/978-3-030-02465-9_24,2019,CGYRO,CGYRO Performance on Power9 CPUs and Volta GPUs,Sfiligoi;Candy;Kostuk,
+10.1063/5.0270873,2025,CGYRO,Analysis of the impact of parallel magnetic fluctuations on linear gyrokinetic stability in NSTX-U and verification of gyro-fluid models,Kinsey;Staebler;Belli;Candy,
+10.1063/5.0302522,2026,CGYRO,Benchmarking core turbulence and transport predictions for an inductive compact tokamak reactor plasma,Holland;Rodriguez-Fernandez;Howard;Bass;Slendebroek,
+10.1063/5.0043006,2021,CGYRO;GEM;GENE,Gyrokinetic benchmark of the electron temperature-gradient instability in the pedestal region,Hassan;Hatch;Guttenfelder;Chen;Parker,
+10.1016/j.jcp.2006.05.028,2007,GEM,Electromagnetic gyrokinetic *δf* particle-in-cell turbulence simulation with realistic equilibrium profiles and geometry,Chen;Parker,
+10.1016/j.jcp.2011.05.034,2011,GENE,The global version of the gyrokinetic turbulence code GENE,Görler;Lapillonne;Brunner;Dannert;Jenko;Merz;Told,
+10.1063/1.874014,2000,GENE,Electron temperature gradient driven turbulence,Jenko;Dorland;Kotschenreuther;Rogers,
+10.1088/0029-5515/50/4/043002,2010,GTC;GT3D;ORB5;PG3EQ;GTS,Gyrokinetic simulations of turbulent transport,Garbet;Idomura;Villard;Watanabe,
+10.1126/science.281.5384.1835,1998,GTC,Turbulent Transport Reduction by Zonal Flows: Massively Parallel Simulations,Lin;Hahm;Lee;Tang;White,
+10.1088/0029-5515/43/4/303,2003,GT3D,Global gyrokinetic simulation of ion temperature gradient driven turbulence in plasmas using a canonical Maxwellian distribution,Idomura;Tokuda;Kishimoto,
+10.1016/j.cpc.2007.04.006,2007,ORB5,A global collisionless PIC code in magnetic coordinates,Jolliet;Bottino;Angelino;Hatzky;Tran;Mcmillan;Sauter;Appert;Idomura;Villard,
+10.1103/PhysRevLett.77.71,1996,PG3EQ,Scalings of Ion-Temperature-Gradient-Driven Anomalous Transport in Tokamaks,Dimits;Williams;Byers;Cohen,
+10.1063/1.2750647,2007,GTS,Nonlocal properties of gyrokinetic turbulence and the role of *E×B* flow shear,Wang;Hahm;Lee;Rewoldt;Manickam;Tang,
+10.1103/PhysRevLett.85.5579,2000,GS2,Electron Temperature Gradient Turbulence,Dorland;Jenko;Kotschenreuther;Rogers,
+10.1016/S0021-9991(03)00079-2,2003,GYRO,An Eulerian gyrokinetic-Maxwell solver,Candy;Waltz,
+10.1088/0029-5515/46/1/003,2006,GKV,Velocity-space structures of distribution function in toroidal ion temperature gradient turbulence,Watanabe;Sugama,
+10.1063/1.1762876,2004,GKW,The effect of a uniform radial electric field on the toroidal ion temperature gradient mode,Peeters;Strintzi,
+10.1088/0029-5515/49/6/065029,2009,GT5D,Study of ion turbulent transport and profile formations using global gyrokinetic full-*f* Vlasov simulation,Idomura;Urano;Aiba;Tokuda,
+10.1016/j.cpc.2008.04.005,2008,GT5D,Conservative global gyrokinetic toroidal full-*f* five-dimensional Vlasov simulation,Idomura;Ida;Kano;Aiba;Tokuda,
+10.1016/j.jcp.2008.02.013,2008,ELMFIRE,Full *f* gyrokinetic method for particle simulation of tokamak transport,Heikkinen;Janhunen;Kiviniemi;Ogando,
+10.1063/1.866332,1987,FULL,Collisional effects on kinetic electromagnetic modes and associated quasilinear transport,Rewoldt;Tang;Hastie,
+10.1016/j.cpc.2007.06.017,2007,GTC;GT3D;FULL,Linear comparison of gyrokinetic codes with trapped electrons,Rewoldt;Lin;Idomura,
+10.1088/0741-3335/47/2/R01,2005,HYM;GTC;GYRO;GS2;TORIC;GKV,Advances and challenges in computational plasma science,Tang;Chan,
+10.1063/1.1666293,2004,HYM,Kinetic effects on the stability properties of field-reversed configurations. II. Nonlinear evolution,Belova;Davidson;Ji;Yamada,
+10.1088/0029-5515/28/10/010,1988,TORIC,Numerical simulation of ion cyclotron heating of hot tokamak plasmas,Brambilla;Krücken,
+10.1088/0741-3335/41/1/002,1999,TORIC,Numerical simulation of ion cyclotron waves in tokamak plasmas,Brambilla,
+10.1088/0029-5515/33/2/I01,1993,PICES,Influence of various physics phenomena on fast wave current drive in tokamaks,Jaeger;Batchelor;Stallings,
+10.1016/j.crhy.2006.06.007,2006,,Kinetic simulations of turbulent fusion plasmas,Idomura;Watanabe;Sugama,
+10.1088/0741-3335/46/12B/005,2004,GT3D;ORB5,First principles based simulations of instabilities and turbulence,Villard;Angelino;Bottino;Allfrey;Hatzky;Idomura;Sauter;Tran,
+10.1088/0741-3335/38/12A/021,1996,,Fluctuation-induced heat transport results from a large global 3D toroidal particle simulation model,Sydora;Decyk;Dawson,
+10.1088/1741-4326/addc7e,2025,GENE;CGYRO,Verification of fast ion and rotation effects on turbulence through comparison of GENE and CGYRO with L-mode plasmas in KSTAR,Kim;Moon;Sung;Yoon;Yi;Kang;Kwon;Görler;Belli;Candy,
+10.1063/1.5018741,2018,GENE;CGYRO,Verification of GENE and GYRO with L-mode and I-mode plasmas in Alcator C-Mod,Mikkelsen;Howard;White;Creely,
+10.1016/j.compfluid.2019.04.016,2019,CGYRO,Multiscale-optimized plasma turbulence simulation on petascale architectures,Candy;Sfiligoi;Belli;Hallatschek;Holland;Howard;D'Azevedo,
+10.1088/1741-4326/adef68,2025,CGYRO,Gyrokinetic profile prediction and validation of a negative triangularity plasma in ASDEX Upgrade,Bielajew;Vanovac;Howard;Rodriguez-Fernandez;Aucone;Conway;Happel;Holland;Mantica;Schellpfeffer;Yoo;White;The EUROfusion WPTE Team;The ASDEX Upgrade Team,
+10.1088/1361-6587/addb73,2025,CGYRO,Dynamic mode decomposition for gyrokinetic eigenmode analysis,Dudkovskaia;Candy;Belli;Yang,
+10.1145/3626203.3670563,2024,CGYRO,The benefits of HBM memory for CPU-based fusion simulations,Sfiligoi;Belli;Candy,
+10.1063/1.860870,1993,,A fully nonlinear characteristic method for gyrokinetic simulation,Parker;Lee,
+10.1063/1.4922754,2015,GKW,Enhanced stabilisation of trapped electron modes by collisional energy scattering in tokamaks,Manas;Camenen;Benkadda;Hornsby;Peeters,
+10.1016/j.cpc.2009.07.001,2009,GKW,The nonlinear gyro-kinetic flux tube code GKW,Peeters;Camenen;Hornsby;Snodin;Strintzi;Szepesi,
+10.1103/PhysRevLett.98.265003,2007,GKW,Toroidal Momentum Pinch Velocity due to the Coriolis Drift Effect on Small Scale Instabilities in a Toroidal Plasma,Peeters;Angioni;Strintzi,
+10.1145/3569951.3597545,2023,CGYRO,Optimization and Portability of a Fusion OpenACC-based FORTRAN HPC Code from NVIDIA to AMD GPUs,Sfiligoi;Belli;Candy;Budiardja,
+10.1145/3491418.3535130,2022,CGYRO,Comparing single-node and multi-node performance of an important fusion HPC code benchmark,Belli;Candy;Sfiligoi;Würthwein;,
+10.1088/1741-4326/ad4d01,2024,CGYRO,Predictive modeling of NSTX discharges with the updated multi-mode anomalous transport module,Rafiq;Wilson;Clauser;Schuster;Weiland;Anderson;Kaye;Pankin;LeBlanc;Bell,
+10.1063/5.0159054,2023,CGYRO,A flexible gyro-fluid system of equations,Staebler;Belli;Candy,
+10.1063/1.4821982,2013,GEM,Benchmarking gyrokinetic simulations in a toroidal flux-tube,Chen;Parker;Wan;Bravenec,
+10.1088/0029-5515/55/5/053025,2015,SolEdge2D;EIRENE,Numerical modelling for divertor design of the WEST device with a focus on plasma-wall interactions,Bufferand;Ciraolo;Marandet;Bucalossi;Ghendrih;Gunn;Mellet;Tamain;Leybros;Fedorczak;Schwander;Serre,
+10.1016/j.nme.2018.11.026,2019,SolEdge2D;EIRENE,Application of a two-fluid two-point model to SolEdge2D-EIRENE simulations of TCV H-mode plasma,Nespoli;Bufferand;Valentinuzzi;Fedorczak;Ciraolo;Serre;Marandet;De Oliveira;Labit;Komm;Faitsch;Elmore;The TCV team;The EUROfusion MST1 team,
+10.1088/1741-4326/ada048,2025,SOLPS-ITER;SolEdge2D;UEDGE,"Cross-code comparison of the edge codes SOLPS-ITER, SOLEDGE2D and UEDGE in modelling a high-power neon-seeded scenario in the DTT",Moscheni;Wigram;Wu;Meineri;Carati;Marchi;Greenwald;Innocente;LaBombard;Subba;Zanino,
+10.1016/j.nme.2016.11.031,2017,SolEdge2D;EIRENE,Implementation of drift velocities and currents in SOLEDGE2D-EIRENE,Bufferand;Baudoin;Bucalossi;Ciraolo;Denis;Fedorczak;Galassi;Ghendrih;Leybros;Marandet;Mellet;Morales;Nace;Serre;Tamain;Valentinuzzi,
+10.1063/5.0087131,2022,Gkeyll,Kinetic modeling of neutral transport for a continuum gyrokinetic code,Bernard;Halpern;Francisquez;Mandell;Juno;Hammett;Hakim;Wilkie;Guterl,
+10.1063/5.0082486,2022,Gkeyll,Turbulent broadening of electron heat-flux width in electromagnetic gyrokinetic simulations of a helical scrape-off layer model,Mandell;Hammett;Hakim;Francisquez,
+10.1063/5.0066064,2021,Gkeyll,Turbulent field fluctuations in gyrokinetic and fluid plasmas,Mathews;Mandell;Francisquez;Hughes;Hakim,
+10.1038/s41598-021-95652-w,2021,Gkeyll,Ultrafast electron holes in plasma phase space dynamics,Jenab;Brodin;Juno;Kourakis,
+10.1017/S0022377821000623,2021,Gkeyll,A field-particle correlation analysis of a perpendicular magnetized collisionless shock,Juno;Howes;TenBarge;Wilson;Spitkovsky;Caprioli;Klein;Hakim,
+10.1063/5.0005333,2020,GDB;Gekyll,"Fluid and gyrokinetic turbulence in open field-line, helical plasmas",Francisquez;Bernard;Zhu;Hakim;Rogers;Hammett,
+10.1016/j.jcp.2016.05.038,2016,TOKAM3X,The TOKAM3X code for edge turbulence fluid simulations of tokamak plasmas in versatile magnetic geometries,Tamain;Bufferand;Ciraolo;Colin;Galassi;Ghendrih;Schwander;Serre,
+10.1016/j.jcp.2016.03.040,2016,GBS,The GBS code for tokamak scrape-off layer simulations,Halpern;Ricci;Jolliet;Loizu;Morales;Mosetto;Musil;Riva;Tran;Wersal,
+10.1088/1361-6587/aaa373,2018,GRILLIX,GRILLIX: a 3D turbulence code based on the flux-coordinate independent approach,Stegmeir;Coster;Ross;Maj;Lackner;Poli,
+10.1016/j.cpc.2018.06.002,2018,GDB,GDB: A global 3D two-fluid model of plasma turbulence and transport in the tokamak edge,Zhu;Francisquez;Rogers,
+10.1088/1741-4326/aa7efb,2017,XGC1,Gyrokinetic projection of the divertor heat-flux width from present tokamaks to ITER,Chang;Ku;Loarte;Parail;Köchl;Romanelli;Maingi;Ahn;Gray;Hughes;LaBombard;Leonard;Makowski;Terry,
+10.1002/ctpp.201900117,2019,PICLS,Collisional gyrokinetic full-f particle-in-cell simulations on open field lines with PICLS,Boesl;Bergmann;Bottino;Brunner;Coster;Jenko,full-f;particle-in-cell
+10.1063/1.4943106,2016,COGENT,Continuum kinetic modeling of the tokamak plasma edge,Dorf;Dorr;Hittinger;Cohen;Rognlien,

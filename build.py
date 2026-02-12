@@ -48,6 +48,7 @@ def build_text_publications(data):
         'code': entry[2].split(';'),
         'title': entry[3],
         'author': entry[4].split(';'),
+        'keyword': entry[5].split(';'),
     } for entry in data[1:]]
     data = sorted(data, key=lambda entry: entry['author'], reverse=False)
     data = sorted(data, key=lambda entry: entry['year'], reverse=True)
@@ -68,8 +69,11 @@ def build_text_publications(data):
         doi_url = f'https://doi.org/{entry['doi']}'
 
         line = f'- {entry['title']}. {author} ({entry['year']}) [{entry['doi']}]({doi_url})'
-
-        text += f'{line}\n'
+        if entry['keyword'][0] != '':
+            line_keyword = f'  - {', '.join([value for value in entry['keyword']])}'
+            text += f'{line}\n{line_keyword}\n'
+        else:
+            text += f'{line}\n'
 
     return text
 
