@@ -89,6 +89,7 @@
 - A high-accuracy Eulerian gyrokinetic solver for collisional plasmas. Candy at el. (2016) [10.1016/j.jcp.2016.07.039](https://doi.org/10.1016/j.jcp.2016.07.039)
 - Verification of BOUT++ by the method of manufactured solutions. Dudson at el. (2016) [10.1063/1.4953429](https://doi.org/10.1063/1.4953429)
 - A 5D gyrokinetic full-*f* global semi-Lagrangian code for flux-driven ion turbulence simulations. Grandgirard at el. (2016) [10.1016/j.cpc.2016.05.007](https://doi.org/10.1016/j.cpc.2016.05.007)
+- The GBS code for tokamak scrape-off layer simulations. Halpern at el. (2016) [10.1016/j.jcp.2016.03.040](https://doi.org/10.1016/j.jcp.2016.03.040)
 - The TOKAM3X code for edge turbulence fluid simulations of tokamak plasmas in versatile magnetic geometries. Tamain at el. (2016) [10.1016/j.jcp.2016.05.038](https://doi.org/10.1016/j.jcp.2016.05.038)
 - Numerical modelling for divertor design of the WEST device with a focus on plasma-wall interactions. Bufferand at el. (2015) [10.1088/0029-5515/55/5/053025](https://doi.org/10.1088/0029-5515/55/5/053025)
 - Enhanced stabilisation of trapped electron modes by collisional energy scattering in tokamaks. Manas at el. (2015) [10.1063/1.4922754](https://doi.org/10.1063/1.4922754)
