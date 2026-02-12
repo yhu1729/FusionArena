@@ -122,3 +122,4 @@ DOI,Year,Tag,Title,Author
 10.1063/5.0159054,2023,CGYRO,A flexible gyro-fluid system of equations,Staebler;Belli;Candy
 10.1063/1.4821982,2013,GEM,Benchmarking gyrokinetic simulations in a toroidal flux-tube,Chen;Parker;Wan;Bravenec
 10.1088/0029-5515/55/5/053025,2015,SolEdge2D;EIRENE,Numerical modelling for divertor design of the WEST device with a focus on plasma-wall interactions,Bufferand;Ciraolo;Marandet;Bucalossi;Ghendrih;Gunn;Mellet;Tamain;Leybros;Fedorczak;Schwander;Serre
+10.1016/j.nme.2018.11.026,2019,SolEdge2D;EIRENE,Application of a two-fluid two-point model to SolEdge2D-EIRENE simulations of TCV H-mode plasma,Nespoli;Bufferand;Valentinuzzi;Fedorczak;Ciraolo;Serre;Marandet;De Oliveira;Labit;Komm;Faitsch;Elmore;The TCV team;The EUROfusion MST1 team
