@@ -142,7 +142,7 @@ def build_figure_publications(data):
                 score[tag] = {}
     year_list = list(range(min(year_list) - 1, max(year_list) + 1))
 
-    score = dict(sorted(score.items(), key=lambda entry: entry[0].lower()))
+    score = dict(sorted(score.items(), key=lambda entry: entry[0].lower(), reverse=True))
     for tag in score.keys():
         score[tag] = {year: 0 for year in year_list}
         score_partial_sum[tag] = {year: 0 for year in year_list}
@@ -156,7 +156,6 @@ def build_figure_publications(data):
             for year in range(entry['year'], year_list[-1] + 1):
                 score_partial_sum[tag][year] += 1
 
-    figure = pyplot.figure(figsize=(16, 16))
     # reference: https://medialab.github.io/iwanthue/
     color_map = [
         '#ffeb74',
@@ -192,22 +191,29 @@ def build_figure_publications(data):
         '#dd394b',
         '#c96a7f',
     ]
+    color_map = color_map[:len(score.keys())]
+
+    figure = pyplot.figure(figsize=(16, 16))
 
     ax = figure.add_subplot(2, 1, 1)
     ax.set_title('Total publications')
     y = [value for value in score_partial_sum.values()]
     y = [list(value.values()) for value in y]
-    label_list = [key for key in score_partial_sum.keys()]
-    ax.set_prop_cycle(color=color_map)
+    label_list = [
+        f'{key} ({value[year_list[-1]]})'
+        for key, value in score_partial_sum.items()
+    ]
+    ax.set_prop_cycle(color=color_map[::-1])
     ax.stackplot(year_list, y, labels=label_list)
     ax.yaxis.set_major_locator(MaxNLocator(integer=True))
     ax.spines['top'].set_visible(False)
     ax.spines['right'].set_visible(False)
-    ax.legend()
+    handle, label = ax.get_legend_handles_labels()
+    ax.legend(handle[::-1], label[::-1])
 
     ax = figure.add_subplot(2, 1, 2)
     ax.set_title('Publications')
-    ax.set_prop_cycle(color=color_map)
+    ax.set_prop_cycle(color=color_map[::-1])
     bottom = numpy.zeros(len(year_list))
     for key, value in score.items():
         x, y = zip(*sorted(value.items()))
@@ -216,7 +222,8 @@ def build_figure_publications(data):
     ax.yaxis.set_major_locator(MaxNLocator(integer=True))
     ax.spines['top'].set_visible(False)
     ax.spines['right'].set_visible(False)
-    ax.legend()
+    handle, label = ax.get_legend_handles_labels()
+    ax.legend(handle[::-1], label[::-1])
 
     figure.savefig('figure/publications.png', dpi=400, bbox_inches='tight')
 
