@@ -133,3 +133,4 @@ DOI,Year,Tag,Title,Author
 10.1063/5.0005333,2020,GDB;Gekyll,"Fluid and gyrokinetic turbulence in open field-line, helical plasmas",Francisquez;Bernard;Zhu;Hakim;Rogers;Hammett
 10.1016/j.jcp.2016.05.038,2016,TOKAM3X,The TOKAM3X code for edge turbulence fluid simulations of tokamak plasmas in versatile magnetic geometries,Tamain;Bufferand;Ciraolo;Colin;Galassi;Ghendrih;Schwander;Serre
 10.1016/j.jcp.2016.03.040,2016,GBS,The GBS code for tokamak scrape-off layer simulations,Halpern;Ricci;Jolliet;Loizu;Morales;Mosetto;Musil;Riva;Tran;Wersal
+10.1088/1361-6587/aaa373,2018,GRILLIX,GRILLIX: a 3D turbulence code based on the flux-coordinate independent approach,Stegmeir;Coster;Ross;Maj;Lackner;Poli
