@@ -98,6 +98,7 @@
 - Global gyrokinetic simulation of ion temperature gradient driven turbulence in plasmas using a canonical Maxwellian distribution. Idomura at el. (2003) [10.1088/0029-5515/43/4/303](https://doi.org/10.1088/0029-5515/43/4/303)
 - Electron Temperature Gradient Turbulence. Dorland at el. (2000) [10.1103/PhysRevLett.85.5579](https://doi.org/10.1103/PhysRevLett.85.5579)
 - Electron temperature gradient driven turbulence. Jenko at el. (2000) [10.1063/1.874014](https://doi.org/10.1063/1.874014)
+- Numerical simulation of ion cyclotron waves in tokamak plasmas. Brambilla (1999) [10.1088/0741-3335/41/1/002](https://doi.org/10.1088/0741-3335/41/1/002)
 - Two-dimensional electric fields and drifts near the magnetic separatrix in divertor tokamaks. Rognlien at el. (1999) [10.1063/1.873488](https://doi.org/10.1063/1.873488)
 - Turbulent Transport Reduction by Zonal Flows: Massively Parallel Simulations. Lin at el. (1998) [10.1126/science.281.5384.1835](https://doi.org/10.1126/science.281.5384.1835)
 - Scalings of Ion-Temperature-Gradient-Driven Anomalous Transport in Tokamaks. Dimits at el. (1996) [10.1103/PhysRevLett.77.71](https://doi.org/10.1103/PhysRevLett.77.71)
