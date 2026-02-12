@@ -18,6 +18,7 @@
 - Verification of fast ion and rotation effects on turbulence through comparison of GENE and CGYRO with L-mode plasmas in KSTAR. Kim at el. (2025) [10.1088/1741-4326/addc7e](https://doi.org/10.1088/1741-4326/addc7e)
 - Analysis of the impact of parallel magnetic fluctuations on linear gyrokinetic stability in NSTX-U and verification of gyro-fluid models. Kinsey at el. (2025) [10.1063/5.0270873](https://doi.org/10.1063/5.0270873)
 - Controlling impurity transport in 5D gyrokinetic simulations using a transport barrier. Lo-Cascio at el. (2025) [10.1088/1741-4326/adc5ea](https://doi.org/10.1088/1741-4326/adc5ea)
+- Cross-code comparison of the edge codes SOLPS-ITER, SOLEDGE2D and UEDGE in modelling a high-power neon-seeded scenario in the DTT. Moscheni at el. (2025) [10.1088/1741-4326/ada048](https://doi.org/10.1088/1741-4326/ada048)
 - A kinetic line-driven radiation operator and its application to Gyrokinetics. Roeltgen at el. (2025) [10.1088/1741-4326/adff28](https://doi.org/10.1088/1741-4326/adff28)
 - Interplay between ion temperature gradient and parallel velocity gradient instabilities in cylindrical geometry: Water-bag vs 5D gyrokinetics. Rouyer at el. (2025) [10.1063/5.0274782](https://doi.org/10.1063/5.0274782)
 - Minimizing CGYRO HPC Communication Costs in Ensembles with XGYRO by Sharing the Collisional Constant Tensor Structure. Sfiligoi at el. (2025) [10.1145/3750720.375730](https://doi.org/10.1145/3750720.375730)
