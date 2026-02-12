@@ -118,3 +118,4 @@ DOI,Year,Tag,Title,Author
 10.1103/PhysRevLett.98.265003,2007,GKW,Toroidal Momentum Pinch Velocity due to the Coriolis Drift Effect on Small Scale Instabilities in a Toroidal Plasma,Peeters;Angioni;Strintzi
 10.1145/3569951.3597545,2023,CGYRO,Optimization and Portability of a Fusion OpenACC-based FORTRAN HPC Code from NVIDIA to AMD GPUs,Sfiligoi;Belli;Candy;Budiardja
 10.1145/3491418.3535130,2022,CGYRO,Comparing single-node and multi-node performance of an important fusion HPC code benchmark,Belli;Candy;Sfiligoi;Würthwein;
+10.1088/1741-4326/ad4d01,2024,CGYRO,Predictive modeling of NSTX discharges with the updated multi-mode anomalous transport module,Rafiq;Wilson;Clauser;Schuster;Weiland;Anderson;Kaye;Pankin;LeBlanc;Bell

@@ -35,6 +35,7 @@
 - A two-dimensional numerical study of ion-acoustic turbulence. Liu at el. (2024) [10.1017/S0022377824000060](https://doi.org/10.1017/S0022377824000060)
 - GX: a GPU-native gyrokinetic turbulence code for tokamak and stellarator design. Mandell at el. (2024) [10.1017/S0022377824000631](https://doi.org/10.1017/S0022377824000631)
 - Weak baselines and reporting biases lead to overoptimism in machine learning for fluid-related partial differential equations. McGreivy and Hakim (2024) [10.1038/s42256-024-00897-5](https://doi.org/10.1038/s42256-024-00897-5)
+- Predictive modeling of NSTX discharges with the updated multi-mode anomalous transport module. Rafiq at el. (2024) [10.1088/1741-4326/ad4d01](https://doi.org/10.1088/1741-4326/ad4d01)
 - The Effect of Spatially Varying Collision Frequency on the Development of the Rayleigh-Taylor Instability. Rodman at el. (2024) [10.3847/1538-4357/ad3359](https://doi.org/10.3847/1538-4357/ad3359)
 - Core performance predictions in projected SPARC first-campaign plasmas with nonlinear CGYRO. Rodriguez-Fernandez at el. (2024) [10.1063/5.0209752](https://doi.org/10.1063/5.0209752)
 - The benefits of HBM memory for CPU-based fusion simulations. Sfiligoi at el. (2024) [10.1145/3626203.3670563](https://doi.org/10.1145/3626203.3670563)
