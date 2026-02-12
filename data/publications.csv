@@ -135,3 +135,4 @@ DOI,Year,Tag,Title,Author
 10.1016/j.jcp.2016.03.040,2016,GBS,The GBS code for tokamak scrape-off layer simulations,Halpern;Ricci;Jolliet;Loizu;Morales;Mosetto;Musil;Riva;Tran;Wersal
 10.1088/1361-6587/aaa373,2018,GRILLIX,GRILLIX: a 3D turbulence code based on the flux-coordinate independent approach,Stegmeir;Coster;Ross;Maj;Lackner;Poli
 10.1016/j.cpc.2018.06.002,2018,GDB,GDB: A global 3D two-fluid model of plasma turbulence and transport in the tokamak edge,Zhu;Francisquez;Rogers
+10.1088/1741-4326/aa7efb,2017,XGC1,Gyrokinetic projection of the divertor heat-flux width from present tokamaks to ITER,Chang;Ku;Loarte;Parail;Köchl;Romanelli;Maingi;Ahn;Gray;Hughes;LaBombard;Leonard;Makowski;Terry
