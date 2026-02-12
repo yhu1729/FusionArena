@@ -45,7 +45,7 @@ def build_text_publications(data):
     data = [{
         'doi': entry[0],
         'year': int(entry[1]),
-        'tag': entry[2].split(';'),
+        'code': entry[2].split(';'),
         'title': entry[3],
         'author': entry[4].split(';'),
     } for entry in data[1:]]
@@ -104,7 +104,7 @@ def build_text_datasets(data):
     data = [{
         'doi': entry[0],
         'year': int(entry[1]),
-        'tag': entry[2].split(';'),
+        'code': entry[2].split(';'),
         'title': entry[3],
         'author': entry[4].split(';'),
     } for entry in data[1:]]
@@ -134,29 +134,29 @@ def build_figure_publications(data):
     score = {}
     score_partial_sum = {}
 
-    data = [entry for entry in data if entry['tag'] != ['']]
+    data = [entry for entry in data if entry['code'] != ['']]
     for entry in data:
         if entry['year'] not in year_list:
             year_list.append(entry['year'])
-        for tag in entry['tag']:
-            if tag not in score.keys():
-                score[tag] = {}
+        for code in entry['code']:
+            if code not in score.keys():
+                score[code] = {}
     year_list = list(range(min(year_list) - 1, max(year_list) + 1))
 
     score = dict(sorted(score.items(), key=lambda entry: entry[0].lower(), reverse=True))
-    for tag in score.keys():
-        score[tag] = {year: 0 for year in year_list}
-        score_partial_sum[tag] = {year: 0 for year in year_list}
+    for code in score.keys():
+        score[code] = {year: 0 for year in year_list}
+        score_partial_sum[code] = {year: 0 for year in year_list}
     print(f'Label count: {len(score.keys())}')
 
     for entry in data:
-        for tag in entry['tag']:
-            score[tag][entry['year']] += 1
+        for code in entry['code']:
+            score[code][entry['year']] += 1
 
     for entry in data:
-        for tag in entry['tag']:
+        for code in entry['code']:
             for year in range(entry['year'], year_list[-1] + 1):
-                score_partial_sum[tag][year] += 1
+                score_partial_sum[code][year] += 1
 
     # 50 colors
     # tool: https://medialab.github.io/iwanthue/

@@ -1,4 +1,4 @@
-DOI,Year,Tag,Title,Author
+DOI,Year,Code,Title,Author
 10.1088/1741-4326/ae114a,2025,GENE-X,Turbulence and transport in spectrally accelerated full-*f* gyrokinetic simulations,Frei;Ulbl;Pitzal;Zholobenko;Jenko
 10.1145/3732775.3733587,2025,GENE-X,OpenACC and OpenMP-Accelerated Fortran/C++ Gyrokinetic Fusion Code GENE-X for Heterogeneous Architectures,Trilaksono;Ulbl;Williams;Pfeiler;Finkbeiner;Dannert;Laure;Markidis;Jenko
 10.1016/j.cpc.2025.109817,2025,GENE-X,Spectrally accelerated edge and scrape-off layer gyrokinetic turbulence simulations,Frei;Ulbl;Trilaksono;Jenko
