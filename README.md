@@ -91,6 +91,7 @@
 - Gyrokinetic projection of the divertor heat-flux width from present tokamaks to ITER. Chang at el. (2017) [10.1088/1741-4326/aa7efb](https://doi.org/10.1088/1741-4326/aa7efb)
 - An approach to increase reliability of HPC simulation, application to the Gysela5D code. Bigot at el. (2016) [10.1051/proc/201653015](https://doi.org/10.1051/proc/201653015)
 - A high-accuracy Eulerian gyrokinetic solver for collisional plasmas. Candy at el. (2016) [10.1016/j.jcp.2016.07.039](https://doi.org/10.1016/j.jcp.2016.07.039)
+- Continuum kinetic modeling of the tokamak plasma edge. Dorf at el. (2016) [10.1063/1.4943106](https://doi.org/10.1063/1.4943106)
 - Verification of BOUT++ by the method of manufactured solutions. Dudson at el. (2016) [10.1063/1.4953429](https://doi.org/10.1063/1.4953429)
 - A 5D gyrokinetic full-*f* global semi-Lagrangian code for flux-driven ion turbulence simulations. Grandgirard at el. (2016) [10.1016/j.cpc.2016.05.007](https://doi.org/10.1016/j.cpc.2016.05.007)
 - The GBS code for tokamak scrape-off layer simulations. Halpern at el. (2016) [10.1016/j.jcp.2016.03.040](https://doi.org/10.1016/j.jcp.2016.03.040)
