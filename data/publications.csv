@@ -120,3 +120,4 @@ DOI,Year,Tag,Title,Author
 10.1145/3491418.3535130,2022,CGYRO,Comparing single-node and multi-node performance of an important fusion HPC code benchmark,Belli;Candy;Sfiligoi;Würthwein;
 10.1088/1741-4326/ad4d01,2024,CGYRO,Predictive modeling of NSTX discharges with the updated multi-mode anomalous transport module,Rafiq;Wilson;Clauser;Schuster;Weiland;Anderson;Kaye;Pankin;LeBlanc;Bell
 10.1063/5.0159054,2023,CGYRO,A flexible gyro-fluid system of equations,Staebler;Belli;Candy
+10.1063/1.4821982,2013,GEM,Benchmarking gyrokinetic simulations in a toroidal flux-tube,Chen;Parker;Wan;Bravenec

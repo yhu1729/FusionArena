@@ -83,6 +83,7 @@
 - Enhanced stabilisation of trapped electron modes by collisional energy scattering in tokamaks. Manas at el. (2015) [10.1063/1.4922754](https://doi.org/10.1063/1.4922754)
 - The new SOLPS-ITER code package. Wiesen at el. (2015) [10.1016/j.jnucmat.2014.10.012](https://doi.org/10.1016/j.jnucmat.2014.10.012)
 - BOUT++: Recent and current developments. Dudson at el. (2014) [10.1017/S0022377814000816](https://doi.org/10.1017/S0022377814000816)
+- Benchmarking gyrokinetic simulations in a toroidal flux-tube. Chen at el. (2013) [10.1063/1.4821982](https://doi.org/10.1063/1.4821982)
 - Five-field simulations of peeling-ballooning modes using BOUT++ code. Xia and Xu (2013) [10.1063/1.4801006](https://doi.org/10.1063/1.4801006)
 - Six-field two-fluid simulations of peeling-ballooning modes using BOUT++. Xia at el. (2013) [10.1088/0029-5515/53/7/073009](https://doi.org/10.1088/0029-5515/53/7/073009)
 - Coupled core-edge simulations of H-mode buildup using the Fusion Application for Core-Edge Transport Simulations (FACETS) code. Hakim at el. (2012) [10.1063/1.3693148](https://doi.org/10.1063/1.3693148)
