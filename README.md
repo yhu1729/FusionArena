@@ -46,6 +46,7 @@
 - Toward continuum gyrokinetic study of high-field mirrors. Francisquez at el. (2023) [10.1063/5.0152440](https://doi.org/10.1063/5.0152440)
 - Phase-space Energization of Ions in Oblique Shocks. Juno at el. (2023) [10.3847/1538-4357/acaf53](https://doi.org/10.3847/1538-4357/acaf53)
 - Self-consistent gyrokinetic modeling of turbulent and neoclassical tungsten transport in toroidally rotating plasmas. Lim at el. (2023) [10.1063/5.0157428](https://doi.org/10.1063/5.0157428)
+- Optimization and Portability of a Fusion OpenACC-based FORTRAN HPC Code from NVIDIA to AMD GPUs. Sfiligoi at el. (2023) [10.1145/3569951.3597545](https://doi.org/10.1145/3569951.3597545)
 - Continuum kinetic investigation of the impact of bias potentials in the current saturation regime on sheath formation. Skolar at el. (2023) [10.1063/5.0134656](https://doi.org/10.1063/5.0134656)
 - Influence of collisions on the validation of global gyrokinetic simulations in the edge and scrape-off layer of TCV. Ulbl at el. (2023) [10.1063/5.0144688](https://doi.org/10.1063/5.0144688)
 - Safety factor influence on the edge *E×B* velocity establishment in tokamak plasmas. Varennes at el. (2023) [10.1088/1361-6587/ad1653](https://doi.org/10.1088/1361-6587/ad1653)
