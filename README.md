@@ -85,6 +85,7 @@
 - Laguerre-Hermite pseudo-spectral velocity formulation of gyrokinetics. Mandell at el. (2018) [10.1017/S0022377818000041](https://doi.org/10.1017/S0022377818000041)
 - Verification of GENE and GYRO with L-mode and I-mode plasmas in Alcator C-Mod. Mikkelsen at el. (2018) [10.1063/1.5018741](https://doi.org/10.1063/1.5018741)
 - GRILLIX: a 3D turbulence code based on the flux-coordinate independent approach. Stegmeir at el. (2018) [10.1088/1361-6587/aaa373](https://doi.org/10.1088/1361-6587/aaa373)
+- GDB: A global 3D two-fluid model of plasma turbulence and transport in the tokamak edge. Zhu at el. (2018) [10.1016/j.cpc.2018.06.002](https://doi.org/10.1016/j.cpc.2018.06.002)
 - Implementation of drift velocities and currents in SOLEDGE2D-EIRENE. Bufferand at el. (2017) [10.1016/j.nme.2016.11.031](https://doi.org/10.1016/j.nme.2016.11.031)
 - An approach to increase reliability of HPC simulation, application to the Gysela5D code. Bigot at el. (2016) [10.1051/proc/201653015](https://doi.org/10.1051/proc/201653015)
 - A high-accuracy Eulerian gyrokinetic solver for collisional plasmas. Candy at el. (2016) [10.1016/j.jcp.2016.07.039](https://doi.org/10.1016/j.jcp.2016.07.039)
