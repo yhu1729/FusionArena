@@ -147,6 +147,7 @@ def build_figure_publications(data):
     for tag in score.keys():
         score[tag] = {year: 0 for year in year_list}
         score_partial_sum[tag] = {year: 0 for year in year_list}
+    print(f'Label count: {len(score.keys())}')
 
     for entry in data:
         for tag in entry['tag']:
