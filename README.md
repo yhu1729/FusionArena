@@ -77,6 +77,7 @@
 - Electromagnetic full-*f* gyrokinetics in the tokamak edge with discontinuous Galerkin methods. Mandell at el. (2020) [10.1017/S0022377820000070](https://doi.org/10.1017/S0022377820000070)
 - Exact and locally implicit source term solvers for multifluid-Maxwell systems. Wang at el. (2020) [10.1016/j.jcp.2020.109510](https://doi.org/10.1016/j.jcp.2020.109510)
 - Collisional gyrokinetic full-f particle-in-cell simulations on open field lines with PICLS. Boesl at el. (2019) [10.1002/ctpp.201900117](https://doi.org/10.1002/ctpp.201900117)
+  - full-f, particle-in-cell
 - Multiscale-optimized plasma turbulence simulation on petascale architectures. Candy at el. (2019) [10.1016/j.compfluid.2019.04.016](https://doi.org/10.1016/j.compfluid.2019.04.016)
 - Prediction of divertor heat flux width for ITER using BOUT++ transport and turbulence module. Li at el. (2019) [10.1088/1741-4326/ab0184](https://doi.org/10.1088/1741-4326/ab0184)
 - Application of a two-fluid two-point model to SolEdge2D-EIRENE simulations of TCV H-mode plasma. Nespoli at el. (2019) [10.1016/j.nme.2018.11.026](https://doi.org/10.1016/j.nme.2018.11.026)
