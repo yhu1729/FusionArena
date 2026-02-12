@@ -98,3 +98,4 @@ DOI,Year,Tag,Title,Author
 10.1016/j.jcp.2008.02.013,2008,ELMFIRE,Full *f* gyrokinetic method for particle simulation of tokamak transport,Heikkinen;Janhunen;Kiviniemi;Ogando
 10.1063/1.866332,1987,FULL,Collisional effects on kinetic electromagnetic modes and associated quasilinear transport,Rewoldt;Tang;Hastie
 10.1016/j.cpc.2007.06.017,2007,GTC;GT3D;FULL,Linear comparison of gyrokinetic codes with trapped electrons,Rewoldt;Lin;Idomura
+10.1088/0741-3335/47/2/R01,2005,HYM;GTC;GYRO;GS2;TORIC;GKV,Advances and challenges in computational plasma science,Tang;Chan
