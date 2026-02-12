@@ -96,6 +96,7 @@
 - Introducing FACETS, the Framework Application for Core-Edge Transport Simulations. Cary at el. (2007) [10.1088/1742-6596/78/1/012086](https://doi.org/10.1088/1742-6596/78/1/012086)
 - Electromagnetic gyrokinetic *δf* particle-in-cell turbulence simulation with realistic equilibrium profiles and geometry. Chen and Parker (2007) [10.1016/j.jcp.2006.05.028](https://doi.org/10.1016/j.jcp.2006.05.028)
 - A global collisionless PIC code in magnetic coordinates. Jolliet at el. (2007) [10.1016/j.cpc.2007.04.006](https://doi.org/10.1016/j.cpc.2007.04.006)
+- Toroidal Momentum Pinch Velocity due to the Coriolis Drift Effect on Small Scale Instabilities in a Toroidal Plasma. Peeters at el. (2007) [10.1103/PhysRevLett.98.265003](https://doi.org/10.1103/PhysRevLett.98.265003)
 - Linear comparison of gyrokinetic codes with trapped electrons. Rewoldt at el. (2007) [10.1016/j.cpc.2007.06.017](https://doi.org/10.1016/j.cpc.2007.06.017)
 - Nonlocal properties of gyrokinetic turbulence and the role of *E×B* flow shear. Wang at el. (2007) [10.1063/1.2750647](https://doi.org/10.1063/1.2750647)
 - Kinetic simulations of turbulent fusion plasmas. Idomura at el. (2006) [10.1016/j.crhy.2006.06.007](https://doi.org/10.1016/j.crhy.2006.06.007)
