@@ -49,6 +49,7 @@
 - Self-consistent gyrokinetic modeling of turbulent and neoclassical tungsten transport in toroidally rotating plasmas. Lim at el. (2023) [10.1063/5.0157428](https://doi.org/10.1063/5.0157428)
 - Optimization and Portability of a Fusion OpenACC-based FORTRAN HPC Code from NVIDIA to AMD GPUs. Sfiligoi at el. (2023) [10.1145/3569951.3597545](https://doi.org/10.1145/3569951.3597545)
 - Continuum kinetic investigation of the impact of bias potentials in the current saturation regime on sheath formation. Skolar at el. (2023) [10.1063/5.0134656](https://doi.org/10.1063/5.0134656)
+- A flexible gyro-fluid system of equations. Staebler at el. (2023) [10.1063/5.0159054](https://doi.org/10.1063/5.0159054)
 - Influence of collisions on the validation of global gyrokinetic simulations in the edge and scrape-off layer of TCV. Ulbl at el. (2023) [10.1063/5.0144688](https://doi.org/10.1063/5.0144688)
 - Safety factor influence on the edge *E×B* velocity establishment in tokamak plasmas. Varennes at el. (2023) [10.1088/1361-6587/ad1653](https://doi.org/10.1088/1361-6587/ad1653)
 - Comparing single-node and multi-node performance of an important fusion HPC code benchmark. Belli at el. (2022) [10.1145/3491418.3535130](https://doi.org/10.1145/3491418.3535130)
