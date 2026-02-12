@@ -7,28 +7,28 @@ import numpy
 def build_readme():
     data = {}
 
-    data['publications'] =[]
-    with open('data/publications.csv', newline='') as f:
+    data['publication'] =[]
+    with open('data/publication.csv', newline='') as f:
         content = csv.reader(f)
         for row in content:
-            data['publications'].append(row)
+            data['publication'].append(row)
 
-    data['datasets'] = []
-    with open('data/datasets.csv', newline='') as f:
+    data['dataset'] = []
+    with open('data/dataset.csv', newline='') as f:
         content = csv.reader(f)
         for row in content:
-            data['datasets'].append(row)
+            data['dataset'].append(row)
 
-    data['codes'] = []
-    with open('data/codes.csv', newline='') as f:
+    data['code'] = []
+    with open('data/code.csv', newline='') as f:
         content = csv.reader(f)
         for row in content:
-            data['codes'].append(row)
+            data['code'].append(row)
 
     text = {}
-    text['publications'] = build_text_publications(data['publications'])
-    text['datasets'] = build_text_datasets(data['datasets'])
-    text['codes'] = build_text_codes(data['codes'])
+    text['publication'] = build_text_publication(data['publication'])
+    text['dataset'] = build_text_dataset(data['dataset'])
+    text['code'] = build_text_code(data['code'])
 
     with open('README.md', mode='w') as f:
         print('# FusionArena', file=f)
@@ -37,7 +37,7 @@ def build_readme():
             print(value, file=f)
 
 
-def build_text_publications(data):
+def build_text_publication(data):
     text = ''
     text += '## Publications\n'
     text += '\n'
@@ -53,8 +53,8 @@ def build_text_publications(data):
     data = sorted(data, key=lambda entry: entry['author'], reverse=False)
     data = sorted(data, key=lambda entry: entry['year'], reverse=True)
 
-    build_figure_publications(data)
-    text += '![figure-publications](figure/publications.png)\n'
+    build_figure_publication(data)
+    text += '![](figure/publication.png)\n'
     text += '\n'
 
     for entry in data:
@@ -78,7 +78,7 @@ def build_text_publications(data):
     return text
 
 
-def build_text_codes(data):
+def build_text_code(data):
     text = ''
     text += '## Codes\n'
     text += '\n'
@@ -100,7 +100,7 @@ def build_text_codes(data):
     return text
 
 
-def build_text_datasets(data):
+def build_text_dataset(data):
     text = ''
     text += '## Datasets\n'
     text += '\n'
@@ -133,7 +133,7 @@ def build_text_datasets(data):
     return text
 
 
-def build_figure_publications(data):
+def build_figure_publication(data):
     year_list = []
     score = {}
     score_partial_sum = {}
@@ -253,7 +253,7 @@ def build_figure_publications(data):
     handle, label = ax.get_legend_handles_labels()
     ax.legend(handle[::-1], label[::-1])
 
-    figure.savefig('figure/publications.png', dpi=400, bbox_inches='tight')
+    figure.savefig('figure/publication.png', dpi=400, bbox_inches='tight')
 
 
 if __name__ == '__main__':
