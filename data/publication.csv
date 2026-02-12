@@ -138,3 +138,23 @@ DOI,Year,Code,Title,Author,Keyword
 10.1088/1741-4326/aa7efb,2017,XGC1,Gyrokinetic projection of the divertor heat-flux width from present tokamaks to ITER,Chang;Ku;Loarte;Parail;Köchl;Romanelli;Maingi;Ahn;Gray;Hughes;LaBombard;Leonard;Makowski;Terry,
 10.1002/ctpp.201900117,2019,PICLS,Collisional gyrokinetic full-f particle-in-cell simulations on open field lines with PICLS,Boesl;Bergmann;Bottino;Brunner;Coster;Jenko,full-f;particle-in-cell
 10.1063/1.4943106,2016,COGENT,Continuum kinetic modeling of the tokamak plasma edge,Dorf;Dorr;Hittinger;Cohen;Rognlien,
+10.1063/5.0003904,2020,Gkeyll,Investigating shear flow through continuum gyrokinetic simulations of limiter biasing in the Texas Helimak,Bernard;Stoltzfus-Dueck;Gentle;Hakim;Hammett;Shi,
+10.1063/1.5141157,2020,Gkeyll,Continuum electromagnetic gyrokinetic simulations of turbulence in the tokamak scrape-off layer and laboratory devices,Hakim;Mandell;Bernard;Francisquez;Hammett;Shi,
+10.1063/1.5074179,2019,Gkeyll,Full-*f* gyrokinetic simulation of turbulence in a helical open-field-line plasma,Shi;Hammett;Stoltzfus-Dueck;Hakim,full-f
+10.1063/1.5085457,2019,Gkeyll,Gyrokinetic continuum simulations of plasma turbulence in the Texas Helimak,Bernard;Shi;Gentle;Hakim;Hammett;Stoltzfus-Dueck;Taylor,
+10.1088/1361-6587/ae1bd1,2025,Hermes-3,"Modeling of convective cells, turbulence, and transport induced by a radio-frequency antenna in the tokamak boundary plasma",Umansky;Dudson;Jenkins;Myra;Smithe,
+10.1016/j.cpc.2023.108991,2024,Hermes-3;BOUT++,Hermes-3: Multi-component plasma simulations with BOUT++,Dudson;Kryjak;Muhammed;Hill;Omotani,
+10.1088/1361-6587/aa63d2,2017,Hermes,Hermes: global plasma edge fluid turbulence simulations,Dudson;Leddy,
+10.3847/2041-8213/ab0556,2019,Gkeyll,Temperature-dependent Saturation of Weibel-type Instabilities in Counter-streaming Plasmas,Skoutnev;Hakim;Juno;TenBarge,
+10.1017/S002237781700037X,2017,Gkeyll,Gyrokinetic continuum simulation of turbulence in a straight open-field-line plasma,Shi;Hammett;Stoltzfus-Dueck;Hakim,
+10.1063/1.4907160,2015,Gkeyll,A gyrokinetic one-dimensional scrape-off layer model of an edge-localized mode heat pulse,Shi;Hakim;Hammett,
+10.1088/0741-3335/53/1/015012,2011,,Vlasov modelling of parallel transport in a tokamak scrape-off layer,Manfredi;Hirstoaga;Devaux,edge-localized modes
+10.1016/j.jcp.2023.112249,2023,GYSELA,Solver comparison for Poisson-like equations on tokamak geometries,Bourne;Leleux;Kormann;Kruse;Grandgirard;Güçlü;Kühn;Rüde;Sonnendrücker;Zoni,
+10.1063/1.1449889,2002,EUTERPE,Energy conservation in a nonlinear gyrokinetic particle-in-cell code for ion-temperature-gradient-driven modes in θ-pinch geometry,Hatzky;Tran;Könies;Kleiber;Allfrey,
+10.1088/1361-6587/acc276,2023,GYSELA,The problem of capturing marginality in model reductions of turbulence,Gillot;Dif-Pradalier;Sarazin;Bourdelle;Bañón Navarro;Camenen;Citrin;Di Siena;Garbet;Ghendrih;Grandgirard;Manas;Widmer,
+10.1063/1.2800869,2007,QuaLiKiz,A new gyrokinetic quasilinear transport model applied to particle transport in tokamak plasmas,Bourdelle;Garbet;Imbeaux;Casati;Dubuit;Guirlet;Parisot,
+10.1088/1361-6587/aa8aeb,2017,QuaLiKiz,"Tractable flux-driven temperature, density, and rotation profile evolution with the quasilinear gyrokinetic transport model QuaLiKiz",Citrin;Bourdelle;Casson;Angioni;Bonanomi;Camenen;Garbet;Garzotti;Görler;Gürcan;Koechl;Imbeaux;Linder;Van de Plassche;Strand;Szepesi;JET Contributors,
+10.1585/pfr.9.3403023,2014,JINTRAC,JINTRAC: A System of Codes for Integrated Simulation of Tokamak Scenarios,Romanelli;Corrigan;Parail;Wiesen;Ambrosino;Da Silva Aresta Belo;Garzotti;Harting;Köchl;Koskela;Lauro-Taroni;Marchetto;Mattei;Militello-Asp;Nave;Pamela;Salmi;Strand;Szepesi;EFDA-JET Contributors,
+10.1088/1361-6587/acb79a,2023,GYSELA;NEO,Impact of magnetic ripple on neoclassical equilibrium in gyrokinetic simulations,Varennes;Garbet;Vermare;Sarazin;Dif-Pradalier;Grandgirard;Ghendrih;Donnel;Peret;Obrejan;Bourne,
+10.1088/0741-3335/50/9/095010,2008,NEO,Kinetic calculation of neoclassical transport including self-consistent electron and impurity dynamics,Belli;Candy,
+10.1088/0741-3335/54/1/015015,2012,NEO,Full linearized Fokker-Planck collisions in neoclassical transport simulations,Belli;Candy,

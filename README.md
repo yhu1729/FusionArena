@@ -48,6 +48,8 @@
   - GENE-X
 - Simulations of edge and SOL turbulence in diverted negative and positive triangularity plasmas. Ulbl at el. (2025) [10.1088/1741-4326/adfd70](https://doi.org/10.1088/1741-4326/adfd70)
   - GENE-X
+- Modeling of convective cells, turbulence, and transport induced by a radio-frequency antenna in the tokamak boundary plasma. Umansky at el. (2025) [10.1088/1361-6587/ae1bd1](https://doi.org/10.1088/1361-6587/ae1bd1)
+  - Hermes-3
 - The simulation of mode coupling during ELM crash by using BOUT++. Zhu at el. (2025) [10.1063/5.0270211](https://doi.org/10.1063/5.0270211)
   - BOUT++
 - Plasma edge and scrape-off layer turbulence in gyrokinetic simulations of negative triangularity plasmas. Bernard at el. (2024) [10.1088/1361-6587/ad8186](https://doi.org/10.1088/1361-6587/ad8186)
@@ -58,6 +60,8 @@
   - Gkeyll
 - The kinetic analog of the pressure-strain interaction. Conley at el. (2024) [10.1063/5.0231200](https://doi.org/10.1063/5.0231200)
   - Gkeyll
+- Hermes-3: Multi-component plasma simulations with BOUT++. Dudson at el. (2024) [10.1016/j.cpc.2023.108991](https://doi.org/10.1016/j.cpc.2023.108991)
+  - Hermes-3, BOUT++
 - Scale Separation Effects on Simulations of Plasma Turbulence. Edyvean at el. (2024) [10.3847/1538-4357/ad5cf5](https://doi.org/10.3847/1538-4357/ad5cf5)
   - Gkeyll
 - Conservative discontinuous Galerkin interpolation: Sheared boundary conditions. Francisquez at el. (2024) [10.1016/j.cpc.2024.109109](https://doi.org/10.1016/j.cpc.2024.109109)
@@ -84,10 +88,14 @@
   - Gkeyll
 - Effect of neutral interactions on parallel transport and blob dynamics in gyrokinetic scrape-off layer simulations. Bernard at el. (2023) [10.1063/5.0160588](https://doi.org/10.1063/5.0160588)
   - Gkeyll
+- Solver comparison for Poisson-like equations on tokamak geometries. Bourne at el. (2023) [10.1016/j.jcp.2023.112249](https://doi.org/10.1016/j.jcp.2023.112249)
+  - GYSELA
 - An investigation of shock formation vs shock mitigation of colliding plasma jets. Cagas at el. (2023) [10.1063/5.0135389](https://doi.org/10.1063/5.0135389)
   - Gkeyll
 - Toward continuum gyrokinetic study of high-field mirrors. Francisquez at el. (2023) [10.1063/5.0152440](https://doi.org/10.1063/5.0152440)
   - Gkeyll
+- The problem of capturing marginality in model reductions of turbulence. Gillot at el. (2023) [10.1088/1361-6587/acc276](https://doi.org/10.1088/1361-6587/acc276)
+  - GYSELA
 - Phase-space Energization of Ions in Oblique Shocks. Juno at el. (2023) [10.3847/1538-4357/acaf53](https://doi.org/10.3847/1538-4357/acaf53)
   - Gkeyll
 - Self-consistent gyrokinetic modeling of turbulent and neoclassical tungsten transport in toroidally rotating plasmas. Lim at el. (2023) [10.1063/5.0157428](https://doi.org/10.1063/5.0157428)
@@ -100,6 +108,8 @@
   - CGYRO
 - Influence of collisions on the validation of global gyrokinetic simulations in the edge and scrape-off layer of TCV. Ulbl at el. (2023) [10.1063/5.0144688](https://doi.org/10.1063/5.0144688)
   - GENE-X
+- Impact of magnetic ripple on neoclassical equilibrium in gyrokinetic simulations. Varennes at el. (2023) [10.1088/1361-6587/acb79a](https://doi.org/10.1088/1361-6587/acb79a)
+  - GYSELA, NEO
 - Safety factor influence on the edge *E×B* velocity establishment in tokamak plasmas. Varennes at el. (2023) [10.1088/1361-6587/ad1653](https://doi.org/10.1088/1361-6587/ad1653)
   - GYSELA
 - Comparing single-node and multi-node performance of an important fusion HPC code benchmark. Belli at el. (2022) [10.1145/3491418.3535130](https://doi.org/10.1145/3491418.3535130)
@@ -132,6 +142,8 @@
   - GENE-X
 - Implementation and verification of a conservative, multi-species, gyro-averaged, full-*f*, Lenard-Bernstein/Dougherty collision operator in the gyrokinetic code GENE-X. Ulbl at el. (2021) [10.1002/ctpp.202100180](https://doi.org/10.1002/ctpp.202100180)
   - GENE-X
+- Investigating shear flow through continuum gyrokinetic simulations of limiter biasing in the Texas Helimak. Bernard at el. (2020) [10.1063/5.0003904](https://doi.org/10.1063/5.0003904)
+  - Gkeyll
 - Plasma-material boundary conditions for discontinuous Galerkin continuum-kinetic simulations, with a focus on secondary electron emission. Cagas at el. (2020) [10.1016/j.jcp.2019.109215](https://doi.org/10.1016/j.jcp.2019.109215)
   - Gkeyll
 - Conservative discontinuous Galerkin scheme of a gyro-averaged Dougherty collision operator. Francisquez at el. (2020) [10.1088/1741-4326/aba0c9](https://doi.org/10.1088/1741-4326/aba0c9)
@@ -142,11 +154,15 @@
   - Gkeyll
 - Alias-Free, Matrix-Free, and Quadrature-Free Discontinuous Galerkin Algorithms for (Plasma) Kinetic Equations. Hakim and Juno (2020) [10.1109/SC41405.2020.00077](https://doi.org/10.1109/SC41405.2020.00077)
   - Gkeyll
+- Continuum electromagnetic gyrokinetic simulations of turbulence in the tokamak scrape-off layer and laboratory devices. Hakim at el. (2020) [10.1063/1.5141157](https://doi.org/10.1063/1.5141157)
+  - Gkeyll
 - Simulations of divertor heat flux width using transport code with cross-field drifts under the BOUT++ framework. Li at el. (2020) [10.1063/1.5126884](https://doi.org/10.1063/1.5126884)
   - BOUT++
 - Electromagnetic full-*f* gyrokinetics in the tokamak edge with discontinuous Galerkin methods. Mandell at el. (2020) [10.1017/S0022377820000070](https://doi.org/10.1017/S0022377820000070)
   - Gkeyll
 - Exact and locally implicit source term solvers for multifluid-Maxwell systems. Wang at el. (2020) [10.1016/j.jcp.2020.109510](https://doi.org/10.1016/j.jcp.2020.109510)
+  - Gkeyll
+- Gyrokinetic continuum simulations of plasma turbulence in the Texas Helimak. Bernard at el. (2019) [10.1063/1.5085457](https://doi.org/10.1063/1.5085457)
   - Gkeyll
 - Collisional gyrokinetic full-f particle-in-cell simulations on open field lines with PICLS. Boesl at el. (2019) [10.1002/ctpp.201900117](https://doi.org/10.1002/ctpp.201900117)
   - PICLS, full-f, particle-in-cell
@@ -158,6 +174,10 @@
   - SolEdge2D, EIRENE
 - CGYRO Performance on Power9 CPUs and Volta GPUs. Sfiligoi at el. (2019) [10.1007/978-3-030-02465-9_24](https://doi.org/10.1007/978-3-030-02465-9_24)
   - CGYRO
+- Full-*f* gyrokinetic simulation of turbulence in a helical open-field-line plasma. Shi at el. (2019) [10.1063/1.5074179](https://doi.org/10.1063/1.5074179)
+  - Gkeyll, full-f
+- Temperature-dependent Saturation of Weibel-type Instabilities in Counter-streaming Plasmas. Skoutnev at el. (2019) [10.3847/2041-8213/ab0556](https://doi.org/10.3847/2041-8213/ab0556)
+  - Gkeyll
 - Discontinuous Galerkin algorithms for fully kinetic plasmas. Juno at el. (2018) [10.1016/j.jcp.2017.10.009](https://doi.org/10.1016/j.jcp.2017.10.009)
   - Gkeyll
 - Calculation of two-dimension radial electric field in boundary plasmas by using BOUT++. Li at el. (2018) [10.1016/j.cpc.2018.03.003](https://doi.org/10.1016/j.cpc.2018.03.003)
@@ -174,6 +194,12 @@
   - SolEdge2D, EIRENE
 - Gyrokinetic projection of the divertor heat-flux width from present tokamaks to ITER. Chang at el. (2017) [10.1088/1741-4326/aa7efb](https://doi.org/10.1088/1741-4326/aa7efb)
   - XGC1
+- Tractable flux-driven temperature, density, and rotation profile evolution with the quasilinear gyrokinetic transport model QuaLiKiz. Citrin at el. (2017) [10.1088/1361-6587/aa8aeb](https://doi.org/10.1088/1361-6587/aa8aeb)
+  - QuaLiKiz
+- Hermes: global plasma edge fluid turbulence simulations. Dudson and Leddy (2017) [10.1088/1361-6587/aa63d2](https://doi.org/10.1088/1361-6587/aa63d2)
+  - Hermes
+- Gyrokinetic continuum simulation of turbulence in a straight open-field-line plasma. Shi at el. (2017) [10.1017/S002237781700037X](https://doi.org/10.1017/S002237781700037X)
+  - Gkeyll
 - An approach to increase reliability of HPC simulation, application to the Gysela5D code. Bigot at el. (2016) [10.1051/proc/201653015](https://doi.org/10.1051/proc/201653015)
   - GYSELA
 - A high-accuracy Eulerian gyrokinetic solver for collisional plasmas. Candy at el. (2016) [10.1016/j.jcp.2016.07.039](https://doi.org/10.1016/j.jcp.2016.07.039)
@@ -192,16 +218,22 @@
   - SolEdge2D, EIRENE
 - Enhanced stabilisation of trapped electron modes by collisional energy scattering in tokamaks. Manas at el. (2015) [10.1063/1.4922754](https://doi.org/10.1063/1.4922754)
   - GKW
+- A gyrokinetic one-dimensional scrape-off layer model of an edge-localized mode heat pulse. Shi at el. (2015) [10.1063/1.4907160](https://doi.org/10.1063/1.4907160)
+  - Gkeyll
 - The new SOLPS-ITER code package. Wiesen at el. (2015) [10.1016/j.jnucmat.2014.10.012](https://doi.org/10.1016/j.jnucmat.2014.10.012)
   - SOLPS-ITER
 - BOUT++: Recent and current developments. Dudson at el. (2014) [10.1017/S0022377814000816](https://doi.org/10.1017/S0022377814000816)
   - BOUT++
+- JINTRAC: A System of Codes for Integrated Simulation of Tokamak Scenarios. Romanelli at el. (2014) [10.1585/pfr.9.3403023](https://doi.org/10.1585/pfr.9.3403023)
+  - JINTRAC
 - Benchmarking gyrokinetic simulations in a toroidal flux-tube. Chen at el. (2013) [10.1063/1.4821982](https://doi.org/10.1063/1.4821982)
   - GEM
 - Five-field simulations of peeling-ballooning modes using BOUT++ code. Xia and Xu (2013) [10.1063/1.4801006](https://doi.org/10.1063/1.4801006)
   - BOUT++
 - Six-field two-fluid simulations of peeling-ballooning modes using BOUT++. Xia at el. (2013) [10.1088/0029-5515/53/7/073009](https://doi.org/10.1088/0029-5515/53/7/073009)
   - BOUT++
+- Full linearized Fokker-Planck collisions in neoclassical transport simulations. Belli and Candy (2012) [10.1088/0741-3335/54/1/015015](https://doi.org/10.1088/0741-3335/54/1/015015)
+  - NEO
 - Coupled core-edge simulations of H-mode buildup using the Fusion Application for Core-Edge Transport Simulations (FACETS) code. Hakim at el. (2012) [10.1063/1.3693148](https://doi.org/10.1063/1.3693148)
   - UEDGE
 - Improving parallel scalability for edge plasma transport simulations with neutral gas species. McCourt at el. (2012) [10.1088/1749-4699/5/1/014012](https://doi.org/10.1088/1749-4699/5/1/014012)
@@ -210,6 +242,8 @@
   - BOUT++
 - The global version of the gyrokinetic turbulence code GENE. Görler at el. (2011) [10.1016/j.jcp.2011.05.034](https://doi.org/10.1016/j.jcp.2011.05.034)
   - GENE
+- Vlasov modelling of parallel transport in a tokamak scrape-off layer. Manfredi at el. (2011) [10.1088/0741-3335/53/1/015012](https://doi.org/10.1088/0741-3335/53/1/015012)
+  - edge-localized modes
 - Nonlinear ELM simulations based on a nonideal peeling-ballooning model using the BOUT++ code. Xu at el. (2011) [10.1088/0029-5515/51/10/103040](https://doi.org/10.1088/0029-5515/51/10/103040)
   - BOUT++
 - Gyrokinetic simulations of turbulent transport. Garbet at el. (2010) [10.1088/0029-5515/50/4/043002](https://doi.org/10.1088/0029-5515/50/4/043002)
@@ -222,10 +256,14 @@
   - GT5D
 - The nonlinear gyro-kinetic flux tube code GKW. Peeters at el. (2009) [10.1016/j.cpc.2009.07.001](https://doi.org/10.1016/j.cpc.2009.07.001)
   - GKW
+- Kinetic calculation of neoclassical transport including self-consistent electron and impurity dynamics. Belli and Candy (2008) [10.1088/0741-3335/50/9/095010](https://doi.org/10.1088/0741-3335/50/9/095010)
+  - NEO
 - Full *f* gyrokinetic method for particle simulation of tokamak transport. Heikkinen at el. (2008) [10.1016/j.jcp.2008.02.013](https://doi.org/10.1016/j.jcp.2008.02.013)
   - ELMFIRE
 - Conservative global gyrokinetic toroidal full-*f* five-dimensional Vlasov simulation. Idomura at el. (2008) [10.1016/j.cpc.2008.04.005](https://doi.org/10.1016/j.cpc.2008.04.005)
   - GT5D
+- A new gyrokinetic quasilinear transport model applied to particle transport in tokamak plasmas. Bourdelle at el. (2007) [10.1063/1.2800869](https://doi.org/10.1063/1.2800869)
+  - QuaLiKiz
 - Introducing FACETS, the Framework Application for Core-Edge Transport Simulations. Cary at el. (2007) [10.1088/1742-6596/78/1/012086](https://doi.org/10.1088/1742-6596/78/1/012086)
   - UEDGE
 - Electromagnetic gyrokinetic *δf* particle-in-cell turbulence simulation with realistic equilibrium profiles and geometry. Chen and Parker (2007) [10.1016/j.jcp.2006.05.028](https://doi.org/10.1016/j.jcp.2006.05.028)
@@ -253,6 +291,8 @@
   - GYRO
 - Global gyrokinetic simulation of ion temperature gradient driven turbulence in plasmas using a canonical Maxwellian distribution. Idomura at el. (2003) [10.1088/0029-5515/43/4/303](https://doi.org/10.1088/0029-5515/43/4/303)
   - GT3D
+- Energy conservation in a nonlinear gyrokinetic particle-in-cell code for ion-temperature-gradient-driven modes in θ-pinch geometry. Hatzky at el. (2002) [10.1063/1.1449889](https://doi.org/10.1063/1.1449889)
+  - EUTERPE
 - Electron Temperature Gradient Turbulence. Dorland at el. (2000) [10.1103/PhysRevLett.85.5579](https://doi.org/10.1103/PhysRevLett.85.5579)
   - GS2
 - Electron temperature gradient driven turbulence. Jenko at el. (2000) [10.1063/1.874014](https://doi.org/10.1063/1.874014)
