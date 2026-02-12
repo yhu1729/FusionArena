@@ -78,6 +78,7 @@
 - Calculation of two-dimension radial electric field in boundary plasmas by using BOUT++. Li at el. (2018) [10.1016/j.cpc.2018.03.003](https://doi.org/10.1016/j.cpc.2018.03.003)
 - Laguerre-Hermite pseudo-spectral velocity formulation of gyrokinetics. Mandell at el. (2018) [10.1017/S0022377818000041](https://doi.org/10.1017/S0022377818000041)
 - Verification of GENE and GYRO with L-mode and I-mode plasmas in Alcator C-Mod. Mikkelsen at el. (2018) [10.1063/1.5018741](https://doi.org/10.1063/1.5018741)
+- Implementation of drift velocities and currents in SOLEDGE2D-EIRENE. Bufferand at el. (2017) [10.1016/j.nme.2016.11.031](https://doi.org/10.1016/j.nme.2016.11.031)
 - An approach to increase reliability of HPC simulation, application to the Gysela5D code. Bigot at el. (2016) [10.1051/proc/201653015](https://doi.org/10.1051/proc/201653015)
 - A high-accuracy Eulerian gyrokinetic solver for collisional plasmas. Candy at el. (2016) [10.1016/j.jcp.2016.07.039](https://doi.org/10.1016/j.jcp.2016.07.039)
 - Verification of BOUT++ by the method of manufactured solutions. Dudson at el. (2016) [10.1063/1.4953429](https://doi.org/10.1063/1.4953429)
