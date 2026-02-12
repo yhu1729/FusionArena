@@ -69,8 +69,11 @@ def build_text_publication(data):
         doi_url = f'https://doi.org/{entry['doi']}'
 
         line = f'- {entry['title']}. {author} ({entry['year']}) [{entry['doi']}]({doi_url})'
-        if entry['keyword'][0] != '':
-            line_keyword = f'  - {', '.join([value for value in entry['keyword']])}'
+
+        keyword = [value for value in entry['code'] if value]
+        keyword += [value for value in entry['keyword'] if value]
+        if len(keyword) > 0:
+            line_keyword = f'  - {', '.join(keyword)}'
             text += f'{line}\n{line_keyword}\n'
         else:
             text += f'{line}\n'
