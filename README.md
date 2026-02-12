@@ -2,7 +2,7 @@
 
 ## Publications
 
-![figure-publications](figure/publications.png)
+![](figure/publication.png)
 
 - Benchmarking core turbulence and transport predictions for an inductive compact tokamak reactor plasma. Holland at el. (2026) [10.1063/5.0302522](https://doi.org/10.1063/5.0302522)
 - Gyrokinetic profile prediction and validation of a negative triangularity plasma in ASDEX Upgrade. Bielajew at el. (2025) [10.1088/1741-4326/adef68](https://doi.org/10.1088/1741-4326/adef68)
