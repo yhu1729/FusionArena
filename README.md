@@ -137,16 +137,22 @@
   - Gkeyll
 - A boundary value "reservoir problem" and boundary conditions for multi-moment multifluid simulations of sheaths. Cagas at el. (2021) [10.1063/5.0024510](https://doi.org/10.1063/5.0024510)
   - Gkeyll
+- Wave trapping and *E×B* staircases. Garbet at el. (2021) [10.1063/5.0042930](https://doi.org/10.1063/5.0042930)
+  - GYSELA
 - Gyrokinetic benchmark of the electron temperature-gradient instability in the pedestal region. Hassan at el. (2021) [10.1063/5.0043006](https://doi.org/10.1063/5.0043006)
   - CGYRO, GEM, GENE
 - Ultrafast electron holes in plasma phase space dynamics. Jenab at el. (2021) [10.1038/s41598-021-95652-w](https://doi.org/10.1038/s41598-021-95652-w)
   - Gkeyll
 - A field-particle correlation analysis of a perpendicular magnetized collisionless shock. Juno at el. (2021) [10.1017/S0022377821000623](https://doi.org/10.1017/S0022377821000623)
   - Gkeyll
+- Gyrokinetic modelling of light to heavy impurity transport in tokamaks. Lim at el. (2021) [10.1088/1741-4326/abe6b4](https://doi.org/10.1088/1741-4326/abe6b4)
+  - GYSELA
 - Turbulent field fluctuations in gyrokinetic and fluid plasmas. Mathews at el. (2021) [10.1063/5.0066064](https://doi.org/10.1063/5.0066064)
   - Gkeyll
 - GENE-X: A full-*f* gyrokinetic turbulence code based on the flux-coordinate independent approach. Michels at el. (2021) [10.1016/j.cpc.2021.107986](https://doi.org/10.1016/j.cpc.2021.107986)
   - GENE-X
+- Key impact of phase dynamics and diamagnetic drive on Reynolds stress in magnetic fusion plasmas. Sarazin at el. (2021) [10.1088/1361-6587/abf673](https://doi.org/10.1088/1361-6587/abf673)
+  - GYSELA
 - Implementation and verification of a conservative, multi-species, gyro-averaged, full-*f*, Lenard-Bernstein/Dougherty collision operator in the gyrokinetic code GENE-X. Ulbl at el. (2021) [10.1002/ctpp.202100180](https://doi.org/10.1002/ctpp.202100180)
   - GENE-X
 - Investigating shear flow through continuum gyrokinetic simulations of limiter biasing in the Texas Helimak. Bernard at el. (2020) [10.1063/5.0003904](https://doi.org/10.1063/5.0003904)
